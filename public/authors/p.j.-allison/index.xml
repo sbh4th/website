@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P.J. Allison | Sam Harper</title>
+    <link>/authors/p.j.-allison/</link>
+      <atom:link href="/authors/p.j.-allison/index.xml" rel="self" type="application/rss+xml" />
+    <description>P.J. Allison</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>P.J. Allison</title>
+      <link>/authors/p.j.-allison/</link>
+    </image>
+    
+    <item>
+      <title>Socio-economic inequalities and oral health in Canada and the United States</title>
+      <link>/publication/elani-2012865/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/elani-2012865/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

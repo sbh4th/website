@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Old Standard TT"
+
+# Optional Google font URL
+google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+
+# Font families
+heading_font = "Old Standard TT"
+body_font = "Old Standard TT"
+nav_font = "Old Standard TT"
+mono_font = "Old Standard TT Mono"
+
+# Font size
+font_size = "20"
+font_size_small = "16"

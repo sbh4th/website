@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maternal health | Sam Harper</title>
+    <link>/tags/maternal-health/</link>
+      <atom:link href="/tags/maternal-health/index.xml" rel="self" type="application/rss+xml" />
+    <description>maternal health</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>maternal health</title>
+      <link>/tags/maternal-health/</link>
+    </image>
+    
+    <item>
+      <title>The effect of affordable daycare on women&#39;s mental health: Evidence from a cluster randomized trial in rural India</title>
+      <link>/publication/richardson-201832/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/richardson-201832/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. De Savigny | Sam Harper</title>
+    <link>/authors/d.-de-savigny/</link>
+      <atom:link href="/authors/d.-de-savigny/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. De Savigny</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>D. De Savigny</title>
+      <link>/authors/d.-de-savigny/</link>
+    </image>
+    
+    <item>
+      <title>Erratum to: Inequalities of health indicators for policy makers: Six hints (International Journal of Public Health (2012) DOI 10.1007/s00038-012-0386-5)</title>
+      <link>/publication/speybroeck-2012859/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/speybroeck-2012859/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inequalities of health indicators for policy makers: Six hints</title>
+      <link>/publication/speybroeck-2012855/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/speybroeck-2012855/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Rushani | Sam Harper</title>
+    <link>/authors/d.-rushani/</link>
+      <atom:link href="/authors/d.-rushani/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Rushani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>D. Rushani</title>
+      <link>/authors/d.-rushani/</link>
+    </image>
+    
+    <item>
+      <title>Trends in the black-white life expectancy gap, 2003-2008</title>
+      <link>/publication/harper-20122257/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/harper-20122257/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

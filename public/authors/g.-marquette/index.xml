@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Marquette | Sam Harper</title>
+    <link>/authors/g.-marquette/</link>
+      <atom:link href="/authors/g.-marquette/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Marquette</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>G. Marquette</title>
+      <link>/authors/g.-marquette/</link>
+    </image>
+    
+    <item>
+      <title>Using inter-institutional practice variation to understand the risks and benefits of routine labour induction at 41&#43;0 weeks</title>
+      <link>/publication/hutcheon-2015973/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/hutcheon-2015973/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

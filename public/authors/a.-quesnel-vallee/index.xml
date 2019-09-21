@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Quesnel-Vallée | Sam Harper</title>
+    <link>/authors/a.-quesnel-vallee/</link>
+      <atom:link href="/authors/a.-quesnel-vallee/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Quesnel-Vallée</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A. Quesnel-Vallée</title>
+      <link>/authors/a.-quesnel-vallee/</link>
+    </image>
+    
+    <item>
+      <title>Measuring the effect of Family Medicine Group enrolment on avoidable visits to emergency departments by patients with diabetes in Quebec, Canada</title>
+      <link>/publication/carter-2017369/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/carter-2017369/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

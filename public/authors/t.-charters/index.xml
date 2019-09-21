@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Charters | Sam Harper</title>
+    <link>/authors/t.-charters/</link>
+      <atom:link href="/authors/t.-charters/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Charters</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>T. Charters</title>
+      <link>/authors/t.-charters/</link>
+    </image>
+    
+    <item>
+      <title>Trends in educational inequalities in drug poisoning mortality: United States, 1994-2010</title>
+      <link>/publication/richardson-20151859/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/richardson-20151859/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C.D. Ferré | Sam Harper</title>
+    <link>/authors/c.d.-ferre/</link>
+      <atom:link href="/authors/c.d.-ferre/index.xml" rel="self" type="application/rss+xml" />
+    <description>C.D. Ferré</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>C.D. Ferré</title>
+      <link>/authors/c.d.-ferre/</link>
+    </image>
+    
+    <item>
+      <title>Good practices for the design, analysis, and interpretation of observational studies on birth spacing and perinatal health outcomes</title>
+      <link>/publication/hutcheon-2019-o-15/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/hutcheon-2019-o-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report of the Office of Population Affairs&#39; expert work group meeting on short birth spacing and adverse pregnancy outcomes: Methodological quality of existing studies and future directions for research</title>
+      <link>/publication/ahrens-2019-o-5/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ahrens-2019-o-5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

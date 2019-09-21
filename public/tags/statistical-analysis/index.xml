@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>statistical analysis | Sam Harper</title>
+    <link>/tags/statistical-analysis/</link>
+      <atom:link href="/tags/statistical-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>statistical analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>statistical analysis</title>
+      <link>/tags/statistical-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Good practices for the design, analysis, and interpretation of observational studies on birth spacing and perinatal health outcomes</title>
+      <link>/publication/hutcheon-2019-o-15/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/hutcheon-2019-o-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accounting for Selection Bias in Studies of Acute Cardiac Events</title>
+      <link>/publication/banack-2018709/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/banack-2018709/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

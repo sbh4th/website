@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.E. Young | Sam Harper</title>
+    <link>/authors/m.e.-young/</link>
+      <atom:link href="/authors/m.e.-young/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.E. Young</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M.E. Young</title>
+      <link>/authors/m.e.-young/</link>
+    </image>
+    
+    <item>
+      <title>Impact of Selective Evidence Presentation on Judgments of Health Inequality Trends: An Experimental Study</title>
+      <link>/publication/harper-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/harper-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of popular media on perceptions of personal and population risk in possible disease outbreaks</title>
+      <link>/publication/young-2013103/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/young-2013103/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who cares about health inequalities? Cross-country evidence from the World Health Survey</title>
+      <link>/publication/king-2013558/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/king-2013558/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of relative and absolute effect measures in reporting health inequalities: Structured review</title>
+      <link>/publication/king-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/king-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

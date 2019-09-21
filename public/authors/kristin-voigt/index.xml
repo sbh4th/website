@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kristin Voigt | Sam Harper</title>
+    <link>/authors/kristin-voigt/</link>
+      <atom:link href="/authors/kristin-voigt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kristin Voigt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Kristin Voigt</title>
+      <link>/authors/kristin-voigt/</link>
+    </image>
+    
+    <item>
+      <title>The impact of social and psychological consequences of disease on judgments of disease severity: An experimental study</title>
+      <link>/publication/king-2018-aa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/king-2018-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

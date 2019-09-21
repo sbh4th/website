@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Agha | Sam Harper</title>
+    <link>/authors/g.-agha/</link>
+      <atom:link href="/authors/g.-agha/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Agha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>G. Agha</title>
+      <link>/authors/g.-agha/</link>
+    </image>
+    
+    <item>
+      <title>Relation of socioeconomic position with ankle-brachial index</title>
+      <link>/publication/agha-20111651/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/agha-20111651/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

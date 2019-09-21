@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Van Malderen | Sam Harper</title>
+    <link>/authors/c.-van-malderen/</link>
+      <atom:link href="/authors/c.-van-malderen/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Van Malderen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>C. Van Malderen</title>
+      <link>/authors/c.-van-malderen/</link>
+    </image>
+    
+    <item>
+      <title>Simulation models for socioeconomic inequalities in health: A systematic review</title>
+      <link>/publication/speybroeck-20135750/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/speybroeck-20135750/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

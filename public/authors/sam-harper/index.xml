@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Harper</title>
+    <link>/authors/sam-harper/</link>
+      <atom:link href="/authors/sam-harper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sam Harper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 15 Mar 2019 14:30:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Sam Harper</title>
+      <link>/authors/sam-harper/</link>
+    </image>
+    
+    <item>
+      <title>Past and present rural-urban mortality transitions</title>
+      <link>/talk/rsf/</link>
+      <pubDate>Fri, 15 Mar 2019 14:30:00 +0000</pubDate>
+      <guid>/talk/rsf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges, advantages, and limitations of quasi-experimental approaches to evaluate interventions on health inequalities</title>
+      <link>/talk/kickoff/</link>
+      <pubDate>Fri, 12 Oct 2018 13:00:00 +0000</pubDate>
+      <guid>/talk/kickoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Rates of Firearm and Nonfirearm Homicide and Suicide in Black and White Non-Hispanic Men, by U.S. State</title>
+      <link>/publication/riddell-2018-aa/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/riddell-2018-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of social and psychological consequences of disease on judgments of disease severity: An experimental study</title>
+      <link>/publication/king-2018-aa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/king-2018-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Declining US Life Expectancy: A First Look</title>
+      <link>/publication/harper-2017-aa/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/harper-2017-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

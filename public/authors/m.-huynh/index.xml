@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Huynh | Sam Harper</title>
+    <link>/authors/m.-huynh/</link>
+      <atom:link href="/authors/m.-huynh/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Huynh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M. Huynh</title>
+      <link>/authors/m.-huynh/</link>
+    </image>
+    
+    <item>
+      <title>Contextual effect of income inequality on birth outcomes</title>
+      <link>/publication/huynh-2005888/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/huynh-2005888/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

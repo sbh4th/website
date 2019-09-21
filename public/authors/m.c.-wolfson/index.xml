@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.C. Wolfson | Sam Harper</title>
+    <link>/authors/m.c.-wolfson/</link>
+      <atom:link href="/authors/m.c.-wolfson/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.C. Wolfson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M.C. Wolfson</title>
+      <link>/authors/m.c.-wolfson/</link>
+    </image>
+    
+    <item>
+      <title>Effects of Reductions in Body Mass Index on the Future Osteoarthritis Burden in Canada: A Population-Based Microsimulation Study</title>
+      <link>/publication/kopec-20161098/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/kopec-20161098/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation of population-based disease simulation models: A review of concepts and methods</title>
+      <link>/publication/kopec-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/kopec-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

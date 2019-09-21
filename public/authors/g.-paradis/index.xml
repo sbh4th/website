@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Paradis | Sam Harper</title>
+    <link>/authors/g.-paradis/</link>
+      <atom:link href="/authors/g.-paradis/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Paradis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>G. Paradis</title>
+      <link>/authors/g.-paradis/</link>
+    </image>
+    
+    <item>
+      <title>Injection Drug Use, Unemployment, and Severe Food Insecurity Among HIV-HCV Co-Infected Individuals: A Mediation Analysis</title>
+      <link>/publication/mc-linden-20173496/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/mc-linden-20173496/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

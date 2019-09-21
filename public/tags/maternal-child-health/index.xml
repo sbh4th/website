@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maternal/child health on Sam Harper</title>
+    <link>/tags/maternal-child-health/</link>
+    <description>Recent content in maternal/child health on Sam Harper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 30 Aug 2018 08:11:04 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/maternal-child-health/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tabora Newborn and Maternal Health Initiative</title>
+      <link>/project/tamani/</link>
+      <pubDate>Thu, 30 Aug 2018 08:11:04 -0400</pubDate>
+      
+      <guid>/project/tamani/</guid>
+      <description>(with Arijit Nandi, Ifakara Health Institute, CARE Canada)
+We are monitoring and evaluating a health systems strengthening program being implemented by CARE Canada, in partnership with the Society of Obstetricians and Gynaecologists of Canada (SOGC) and the Canadian Society for International Health (CSIH), in the Tabora region of Tanzania. The aim of this program is to reduce maternal and newborn mortality and morbidity by improving the availability of quality maternal and newborn healthcare services.</description>
+    </item>
+    
+  </channel>
+</rss>

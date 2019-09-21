@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Sadana | Sam Harper</title>
+    <link>/authors/r.-sadana/</link>
+      <atom:link href="/authors/r.-sadana/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Sadana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>R. Sadana</title>
+      <link>/authors/r.-sadana/</link>
+    </image>
+    
+    <item>
+      <title>Data systems linking social determinants of health with health outcomes: Advancing public goods to support research and evidence-based policy and programs</title>
+      <link>/publication/sadana-20116/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/sadana-20116/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

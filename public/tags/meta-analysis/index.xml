@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meta analysis | Sam Harper</title>
+    <link>/tags/meta-analysis/</link>
+      <atom:link href="/tags/meta-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>meta analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>meta analysis</title>
+      <link>/tags/meta-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Comment on the equity impact of women&#39;s community groups on inequalities in neonatal mortality</title>
+      <link>/publication/harper-2019182/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/harper-2019182/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Parental and Medical Leave Policies on Socioeconomic and Health Outcomes in OECD Countries: A Systematic Review of the Empirical Literature</title>
+      <link>/publication/nandi-2018434/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/nandi-2018434/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

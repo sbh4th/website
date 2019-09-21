@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Jaswal | Sam Harper</title>
+    <link>/authors/s.-jaswal/</link>
+      <atom:link href="/authors/s.-jaswal/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Jaswal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S. Jaswal</title>
+      <link>/authors/s.-jaswal/</link>
+    </image>
+    
+    <item>
+      <title>Are work demands associated with mental distress? Evidence from women in rural India</title>
+      <link>/publication/richardson-20171501/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/richardson-20171501/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

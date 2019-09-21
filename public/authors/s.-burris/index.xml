@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Burris | Sam Harper</title>
+    <link>/authors/s.-burris/</link>
+      <atom:link href="/authors/s.-burris/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Burris</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S. Burris</title>
+      <link>/authors/s.-burris/</link>
+    </image>
+    
+    <item>
+      <title>The effect of mandatory seat belt laws on seat belt use by socioeconomic position</title>
+      <link>/publication/harper-2014141/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/harper-2014141/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in the black-white life expectancy gap in the United States, 1983-2003</title>
+      <link>/publication/harper-20071224/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/harper-20071224/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

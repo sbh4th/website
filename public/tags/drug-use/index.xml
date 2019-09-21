@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>drug use | Sam Harper</title>
+    <link>/tags/drug-use/</link>
+      <atom:link href="/tags/drug-use/index.xml" rel="self" type="application/rss+xml" />
+    <description>drug use</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>drug use</title>
+      <link>/tags/drug-use/</link>
+    </image>
+    
+    <item>
+      <title>Injection drug use, food insecurity, and HIV-HCV co-infection: a longitudinal cohort analysis</title>
+      <link>/publication/mc-linden-20181322/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mc-linden-20181322/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

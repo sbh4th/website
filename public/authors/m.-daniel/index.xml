@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Daniel | Sam Harper</title>
+    <link>/authors/m.-daniel/</link>
+      <atom:link href="/authors/m.-daniel/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Daniel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M. Daniel</title>
+      <link>/authors/m.-daniel/</link>
+    </image>
+    
+    <item>
+      <title>Educational Inequalities in Preterm and Term Small-for-Gestational-Age Birth Over Time</title>
+      <link>/publication/auger-2012160/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/auger-2012160/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life expectancy gap between the Francophone majority and Anglophone minority of a Canadian population</title>
+      <link>/publication/auger-201227/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/auger-201227/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

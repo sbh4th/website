@@ -1,0 +1,9 @@
+{
+    "path" : "~/git/gitweb",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

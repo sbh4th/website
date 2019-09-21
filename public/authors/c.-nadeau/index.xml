@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Nadeau | Sam Harper</title>
+    <link>/authors/c.-nadeau/</link>
+      <atom:link href="/authors/c.-nadeau/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Nadeau</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>C. Nadeau</title>
+      <link>/authors/c.-nadeau/</link>
+    </image>
+    
+    <item>
+      <title>Effects of Reductions in Body Mass Index on the Future Osteoarthritis Burden in Canada: A Population-Based Microsimulation Study</title>
+      <link>/publication/kopec-20161098/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/kopec-20161098/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

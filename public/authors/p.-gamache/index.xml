@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Gamache | Sam Harper</title>
+    <link>/authors/p.-gamache/</link>
+      <atom:link href="/authors/p.-gamache/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Gamache</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>P. Gamache</title>
+      <link>/authors/p.-gamache/</link>
+    </image>
+    
+    <item>
+      <title>Relative and Absolute Disparities in Preterm Birth Related to Neighborhood Education</title>
+      <link>/publication/auger-2011481/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/auger-2011481/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

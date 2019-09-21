@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magdalena Cerdá | Sam Harper</title>
+    <link>/authors/magdalena-cerda/</link>
+      <atom:link href="/authors/magdalena-cerda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Magdalena Cerdá</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Magdalena Cerdá</title>
+      <link>/authors/magdalena-cerda/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of Rates of Firearm and Nonfirearm Homicide and Suicide in Black and White Non-Hispanic Men, by U.S. State</title>
+      <link>/publication/riddell-2018-aa/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/riddell-2018-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

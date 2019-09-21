@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T.A. Bruckner | Sam Harper</title>
+    <link>/authors/t.a.-bruckner/</link>
+      <atom:link href="/authors/t.a.-bruckner/index.xml" rel="self" type="application/rss+xml" />
+    <description>T.A. Bruckner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>T.A. Bruckner</title>
+      <link>/authors/t.a.-bruckner/</link>
+    </image>
+    
+    <item>
+      <title>Did the Great Recession increase suicides in the USA? Evidence from an interrupted time-series analysis</title>
+      <link>/publication/harper-2017409/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/harper-2017409/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

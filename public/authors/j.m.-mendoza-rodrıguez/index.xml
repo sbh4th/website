@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.M. Mendoza Rodrı́guez | Sam Harper</title>
+    <link>/authors/j.m.-mendoza-rodr%C4%B1guez/</link>
+      <atom:link href="/authors/j.m.-mendoza-rodr%C4%B1guez/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.M. Mendoza Rodrı́guez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>J.M. Mendoza Rodrı́guez</title>
+      <link>/authors/j.m.-mendoza-rodr%C4%B1guez/</link>
+    </image>
+    
+    <item>
+      <title>An equity dashboard to monitor vaccination coverage</title>
+      <link>/publication/arsenault-2017128/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/arsenault-2017128/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Country-level predictors of vaccination coverage and inequalities in Gavi-supported countries</title>
+      <link>/publication/arsenault-20172479/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/arsenault-20172479/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring equity in vaccination coverage: A systematic analysis of demographic and health surveys from 45 Gavi-supported countries</title>
+      <link>/publication/arsenault-2017951/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/arsenault-2017951/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do minimum wages improve early life health? Evidence from developing countries</title>
+      <link>/publication/majid-2016105/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/majid-2016105/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

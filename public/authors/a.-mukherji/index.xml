@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Mukherji | Sam Harper</title>
+    <link>/authors/a.-mukherji/</link>
+      <atom:link href="/authors/a.-mukherji/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Mukherji</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A. Mukherji</title>
+      <link>/authors/a.-mukherji/</link>
+    </image>
+    
+    <item>
+      <title>The effect of paid maternity leave on early childhood growth in low-income and middle-income countries</title>
+      <link>/publication/jahagirdar-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/jahagirdar-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>clinical practice | Sam Harper</title>
+    <link>/tags/clinical-practice/</link>
+      <atom:link href="/tags/clinical-practice/index.xml" rel="self" type="application/rss+xml" />
+    <description>clinical practice</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>clinical practice</title>
+      <link>/tags/clinical-practice/</link>
+    </image>
+    
+    <item>
+      <title>Report of the Office of Population Affairs&#39; expert work group meeting on short birth spacing and adverse pregnancy outcomes: Methodological quality of existing studies and future directions for research</title>
+      <link>/publication/ahrens-2019-o-5/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ahrens-2019-o-5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

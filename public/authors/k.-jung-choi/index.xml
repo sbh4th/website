@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Jung-Choi | Sam Harper</title>
+    <link>/authors/k.-jung-choi/</link>
+      <atom:link href="/authors/k.-jung-choi/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Jung-Choi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>K. Jung-Choi</title>
+      <link>/authors/k.-jung-choi/</link>
+    </image>
+    
+    <item>
+      <title>The contribution of material, psychosocial, and behavioral factors in explaining educational and occupational mortality inequalities in a nationally representative sample of South Koreans: Relative and absolute perspectives</title>
+      <link>/publication/khang-2009858/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/khang-2009858/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

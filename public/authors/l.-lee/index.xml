@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Lee | Sam Harper</title>
+    <link>/authors/l.-lee/</link>
+      <atom:link href="/authors/l.-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Lee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>L. Lee</title>
+      <link>/authors/l.-lee/</link>
+    </image>
+    
+    <item>
+      <title>Safety of labour and delivery following closures of obstetric services in small community hospitals</title>
+      <link>/publication/hutcheon-2017-e-431/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/hutcheon-2017-e-431/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using inter-institutional practice variation to understand the risks and benefits of routine labour induction at 41&#43;0 weeks</title>
+      <link>/publication/hutcheon-2015973/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/hutcheon-2015973/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
