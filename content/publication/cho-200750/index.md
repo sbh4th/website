@@ -2,7 +2,7 @@
 title: "Socioeconomic differentials in cause-specific mortality among South Korean adolescents"
 date: 2007-01-01
 publishDate: 2019-06-17T13:04:49.413236Z
-authors: ["H.-J. Cho", "Y.-H. Khang", "S. Yang", "S. Harper", "J.W. Lynch"]
+authors: ["H.-J. Cho", "Y.-H. Khang", "S. Yang", "**S. Harper**", "J.W. Lynch"]
 publication_types: ["2"]
 abstract: ""
 featured: false

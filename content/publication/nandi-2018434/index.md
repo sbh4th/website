@@ -2,7 +2,7 @@
 title: "The Impact of Parental and Medical Leave Policies on Socioeconomic and Health Outcomes in OECD Countries: A Systematic Review of the Empirical Literature"
 date: 2018-01-01
 publishDate: 2019-06-17T13:04:49.221249Z
-authors: ["A. Nandi", "D. Jahagirdar", "M.C. Dimitris", "J.A. Labrecque", "E.C. Strumpf", "J.S. Kaufman", "I. Vincent", "E. Atabay", "S. Harper", "A. Earle", "S.J. Heymann"]
+authors: ["A. Nandi", "D. Jahagirdar", "M.C. Dimitris", "J.A. Labrecque", "E.C. Strumpf", "J.S. Kaufman", "I. Vincent", "E. Atabay", "**S. Harper**", "A. Earle", "S.J. Heymann"]
 publication_types: ["2"]
 abstract: ""
 featured: false

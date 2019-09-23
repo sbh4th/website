@@ -2,7 +2,7 @@
 title: "The relationship of living arrangements and depressive symptoms among older adults in sub-Saharan Africa"
 date: 2013-01-01
 publishDate: 2019-06-17T13:04:49.318910Z
-authors: ["B. McKinnon", "S. Harper", "S. Moore"]
+authors: ["B. McKinnon", "**S. Harper**", "S. Moore"]
 publication_types: ["2"]
 abstract: ""
 featured: false

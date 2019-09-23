@@ -2,7 +2,7 @@
 title: "Trends in the contribution of major causes of death to the black-white life expectancy gap by US state"
 date: 2018-01-01
 publishDate: 2019-06-17T13:04:49.222936Z
-authors: ["C.A. Riddell", "K.T. Morrison", "J.S. Kaufman", "S. Harper"]
+authors: ["C.A. Riddell", "K.T. Morrison", "J.S. Kaufman", "**S. Harper**"]
 publication_types: ["2"]
 abstract: ""
 featured: false

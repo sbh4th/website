@@ -2,7 +2,7 @@
 title: "A more complete picture of higher cardiovascular disease prevalence among blacks compared to whites"
 date: 2011-01-01
 publishDate: 2019-06-17T13:04:49.374507Z
-authors: ["J.S. Kaufman", "S. Harper", "N.B. King"]
+authors: ["J.S. Kaufman", "**S. Harper**", "N.B. King"]
 publication_types: ["2"]
 abstract: ""
 featured: false

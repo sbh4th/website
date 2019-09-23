@@ -2,7 +2,7 @@
 title: "Authors' reply re: Maternal and neonatal outcomes after implementation of a hospital policy to limit low-risk planned caesarean deliveries before 39 weeks of gestation: An interrupted time-series analysis"
 date: 2016-01-01
 publishDate: 2019-06-17T13:04:49.273342Z
-authors: ["J. Hutcheon", "E. Strumpf", "S. Harper", "E. Giesbrecht"]
+authors: ["J. Hutcheon", "E. Strumpf", "**S. Harper**", "E. Giesbrecht"]
 publication_types: ["2"]
 abstract: ""
 featured: false

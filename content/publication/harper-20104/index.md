@@ -2,7 +2,7 @@
 title: "Implicit value judgments in the measurement of health inequalities"
 date: 2010-01-01
 publishDate: 2019-06-17T13:04:49.390669Z
-authors: ["S. Harper", "N.B. King", "S.C. Meersman", "M.E. Reichman", "N. Breen", "J. Lynch"]
+authors: ["**S. Harper**", "N.B. King", "S.C. Meersman", "M.E. Reichman", "N. Breen", "J. Lynch"]
 publication_types: ["2"]
 abstract: ""
 featured: false

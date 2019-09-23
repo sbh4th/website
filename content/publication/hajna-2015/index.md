@@ -2,7 +2,7 @@
 title: "Neighbourhood walkability, daily steps and utilitarian walking in Canadian adults"
 date: 2015-01-01
 publishDate: 2019-06-17T13:04:49.294617Z
-authors: ["S. Hajna", "N.A. Ross", "L. Joseph", "S. Harper", "K. Dasgupta"]
+authors: ["S. Hajna", "N.A. Ross", "L. Joseph", "**S. Harper**", "K. Dasgupta"]
 publication_types: ["2"]
 abstract: ""
 featured: false

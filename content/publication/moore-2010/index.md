@@ -2,7 +2,7 @@
 title: "Global and national socioeconomic disparities in obesity, overweight, and underweight status"
 date: 2010-01-01
 publishDate: 2019-06-17T13:04:49.392047Z
-authors: ["S. Moore", "J.N. Hall", "S. Harper", "J.W. Lynch"]
+authors: ["S. Moore", "J.N. Hall", "**S. Harper**", "J.W. Lynch"]
 publication_types: ["2"]
 abstract: ""
 featured: false

@@ -2,7 +2,7 @@
 title: "Does segregation lead to lower birth weight?"
 date: 2016-01-01
 publishDate: 2019-06-17T13:04:49.264128Z
-authors: ["N. Austin", "S. Harper", "E. Strumpf"]
+authors: ["N. Austin", "**S. Harper**", "E. Strumpf"]
 publication_types: ["2"]
 abstract: ""
 featured: false

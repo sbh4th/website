@@ -2,7 +2,7 @@
 title: "Assessing disparities in colorectal cancer mortality by socioeconomic status using new tools: health disparities calculator and socioeconomic quintiles"
 date: 2017-01-01
 publishDate: 2019-06-17T13:04:49.254333Z
-authors: ["N. Breen", "D.R. Lewis", "J.T. Gibson", "M. Yu", "S. Harper"]
+authors: ["N. Breen", "D.R. Lewis", "J.T. Gibson", "M. Yu", "**S. Harper**"]
 publication_types: ["2"]
 abstract: ""
 featured: false

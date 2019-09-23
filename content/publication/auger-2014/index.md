@@ -2,7 +2,7 @@
 title: "Mortality inequality in populations with equal life expectancy: Arriaga's decomposition method in SAS, Stata, and Excel"
 date: 2014-01-01
 publishDate: 2019-06-17T13:04:49.307697Z
-authors: ["N. Auger", "P. Feuillet", "S. Martel", "E. Lo", "A.D. Barry", "S. Harper"]
+authors: ["N. Auger", "P. Feuillet", "S. Martel", "E. Lo", "A.D. Barry", "**S. Harper**"]
 publication_types: ["2"]
 abstract: ""
 featured: false

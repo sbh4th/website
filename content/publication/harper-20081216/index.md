@@ -2,7 +2,7 @@
 title: "The authors reply"
 date: 2008-01-01
 publishDate: 2019-06-17T13:04:49.403596Z
-authors: ["S. Harper", "J. Lynch", "S.C. Meersman", "N. Breen", "W.W. Davis", "M.E. Reichman"]
+authors: ["**S. Harper**", "J. Lynch", "S.C. Meersman", "N. Breen", "W.W. Davis", "M.E. Reichman"]
 publication_types: ["2"]
 abstract: ""
 featured: false

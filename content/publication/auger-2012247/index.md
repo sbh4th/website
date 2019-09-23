@@ -2,7 +2,7 @@
 title: "Maternal education and stillbirth: Estimating gestational-age-specific and cause-specific associations"
 date: 2012-01-01
 publishDate: 2019-06-17T13:04:49.351277Z
-authors: ["N. Auger", "P. Delézire", "S. Harper", "R.W. Platt"]
+authors: ["N. Auger", "P. Delézire", "**S. Harper**", "R.W. Platt"]
 publication_types: ["2"]
 abstract: ""
 featured: false

@@ -2,7 +2,7 @@
 title: "Do minimum wages improve early life health? Evidence from developing countries"
 date: 2016-01-01
 publishDate: 2019-06-17T13:04:49.271612Z
-authors: ["M.F. Majid", "J.M. Mendoza Rodrı́guez", "S. Harper", "J. Frank", "A. Nandi"]
+authors: ["M.F. Majid", "J.M. Mendoza Rodrı́guez", "**S. Harper**", "J. Frank", "A. Nandi"]
 publication_types: ["2"]
 abstract: ""
 featured: false

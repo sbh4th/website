@@ -2,7 +2,7 @@
 title: "International shortfall inequality in life expectancy in women and in men, 1950-2010 [Inégalité internationale de l'espérance de vie des femmes et des hommes, mesurée en termes d'écart, 1950-2010]"
 date: 2012-01-01
 publishDate: 2019-06-17T13:04:49.341357Z
-authors: ["A.R. Hosseinpoor", "S. Harper", "J.H. Lee", "J. Lynch", "C. Mathers", "C. Abou-Zahr"]
+authors: ["A.R. Hosseinpoor", "**S. Harper**", "J.H. Lee", "J. Lynch", "C. Mathers", "C. Abou-Zahr"]
 publication_types: ["2"]
 abstract: ""
 featured: false

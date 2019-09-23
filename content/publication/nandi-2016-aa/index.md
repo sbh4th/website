@@ -2,7 +2,7 @@
 title: "Increased Duration of Paid Maternity Leave Lowers Infant Mortality in Low- and Middle-Income Countries: A Quasi-Experimental Study"
 date: 2016-01-01
 publishDate: 2019-06-17T13:04:49.276281Z
-authors: ["A. Nandi", "M. Hajizadeh", "S. Harper", "A. Koski", "E.C. Strumpf", "J. Heymann"]
+authors: ["A. Nandi", "M. Hajizadeh", "**S. Harper**", "A. Koski", "E.C. Strumpf", "J. Heymann"]
 publication_types: ["2"]
 abstract: ""
 featured: false

@@ -2,7 +2,7 @@
 title: "The contribution of excise cigarette taxes on the decline in youth smoking in Canada during the time of the Federal Tobacco Control Strategy (2002-2012)"
 date: 2017-01-01
 publishDate: 2019-06-17T13:04:49.257652Z
-authors: ["P. Manivong", "S. Harper", "E. Strumpf"]
+authors: ["P. Manivong", "**S. Harper**", "E. Strumpf"]
 publication_types: ["2"]
 abstract: ""
 featured: false

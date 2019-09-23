@@ -2,7 +2,7 @@
 title: "Social inequalities in tooth loss: A multinational comparison"
 date: 2017-01-01
 publishDate: 2019-06-17T13:04:49.246084Z
-authors: ["H.W. Elani", "S. Harper", "W.M. Thomson", "I.L. Espinoza", "G.C. Mejia", "X. Ju", "L.M. Jamieson", "I. Kawachi", "J.S. Kaufman"]
+authors: ["H.W. Elani", "**S. Harper**", "W.M. Thomson", "I.L. Espinoza", "G.C. Mejia", "X. Ju", "L.M. Jamieson", "I. Kawachi", "J.S. Kaufman"]
 publication_types: ["2"]
 abstract: ""
 featured: false

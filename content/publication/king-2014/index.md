@@ -2,7 +2,7 @@
 title: "Determinants of increased opioid-related mortality in the united states and canada, 1990-2013: A systematic review"
 date: 2014-01-01
 publishDate: 2019-06-17T13:04:49.304151Z
-authors: ["N.B. King", "V. Fraser", "C. Boikos", "R. Richardson", "S. Harper"]
+authors: ["N.B. King", "V. Fraser", "C. Boikos", "R. Richardson", "**S. Harper**"]
 publication_types: ["2"]
 abstract: ""
 featured: false

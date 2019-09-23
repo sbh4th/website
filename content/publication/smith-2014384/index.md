@@ -2,7 +2,7 @@
 title: "Reducing social inequalities in health: The role of simulation modelling in chronic disease epidemiology to evaluate the impact of population health interventions"
 date: 2014-01-01
 publishDate: 2019-06-17T13:04:49.299242Z
-authors: ["B.T. Smith", "P.M. Smith", "S. Harper", "D.G. Manuel", "C.A. Mustard"]
+authors: ["B.T. Smith", "P.M. Smith", "**S. Harper**", "D.G. Manuel", "C.A. Mustard"]
 publication_types: ["2"]
 abstract: ""
 featured: false

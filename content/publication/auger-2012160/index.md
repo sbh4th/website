@@ -2,7 +2,7 @@
 title: "Educational Inequalities in Preterm and Term Small-for-Gestational-Age Birth Over Time"
 date: 2012-01-01
 publishDate: 2019-06-17T13:04:49.354764Z
-authors: ["N. Auger", "A.L. Park", "S. Harper", "M. Daniel", "F. Roncarolo", "R.W. Platt"]
+authors: ["N. Auger", "A.L. Park", "**S. Harper**", "M. Daniel", "F. Roncarolo", "R.W. Platt"]
 publication_types: ["2"]
 abstract: ""
 featured: false

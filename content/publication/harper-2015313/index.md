@@ -2,7 +2,7 @@
 title: "Invited Commentary: A-P-C ... It's Easy as 1-2-3!"
 date: 2015-01-01
 publishDate: 2019-06-17T13:04:49.288159Z
-authors: ["S. Harper"]
+authors: ["**S. Harper**"]
 publication_types: ["2"]
 abstract: ""
 featured: false

@@ -2,7 +2,7 @@
 title: "We'll take the red pill: A reply to Asada"
 date: 2010-01-01
 publishDate: 2019-06-17T13:04:49.382640Z
-authors: ["N.B. King", "S. Harper", "S.C. Meersman", "M.E. Reichman", "N. Breen", "J. Lynch"]
+authors: ["N.B. King", "**S. Harper**", "S.C. Meersman", "M.E. Reichman", "N. Breen", "J. Lynch"]
 publication_types: ["2"]
 abstract: ""
 featured: false

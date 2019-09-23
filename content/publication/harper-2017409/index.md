@@ -2,7 +2,7 @@
 title: "Did the Great Recession increase suicides in the USA? Evidence from an interrupted time-series analysis"
 date: 2017-01-01
 publishDate: 2019-06-17T13:04:49.244478Z
-authors: ["S. Harper", "T.A. Bruckner"]
+authors: ["**S. Harper**", "T.A. Bruckner"]
 publication_types: ["2"]
 abstract: ""
 featured: false

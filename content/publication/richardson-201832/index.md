@@ -2,7 +2,7 @@
 title: "The effect of affordable daycare on women's mental health: Evidence from a cluster randomized trial in rural India"
 date: 2018-01-01
 publishDate: 2019-06-17T13:04:49.216002Z
-authors: ["R.A. Richardson", "S. Harper", "N. Schmitz", "A. Nandi"]
+authors: ["R.A. Richardson", "**S. Harper**", "N. Schmitz", "A. Nandi"]
 publication_types: ["2"]
 abstract: ""
 featured: false

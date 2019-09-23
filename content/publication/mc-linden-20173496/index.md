@@ -2,7 +2,7 @@
 title: "Injection Drug Use, Unemployment, and Severe Food Insecurity Among HIV-HCV Co-Infected Individuals: A Mediation Analysis"
 date: 2017-01-01
 publishDate: 2019-06-17T13:04:49.237826Z
-authors: ["T. McLinden", "E.E.M. Moodie", "A.-M. Hamelin", "S. Harper", "S.L. Walmsley", "G. Paradis", "W. Aibibula", "M.B. Klein", "J. Cox"]
+authors: ["T. McLinden", "E.E.M. Moodie", "A.-M. Hamelin", "**S. Harper**", "S.L. Walmsley", "G. Paradis", "W. Aibibula", "M.B. Klein", "J. Cox"]
 publication_types: ["2"]
 abstract: ""
 featured: false

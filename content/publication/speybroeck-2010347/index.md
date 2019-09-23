@@ -2,7 +2,7 @@
 title: "Decomposing socioeconomic health inequalities"
 date: 2010-01-01
 publishDate: 2019-06-17T13:04:49.393578Z
-authors: ["N. Speybroeck", "P. Konings", "J. Lynch", "S. Harper", "D. Berkvens", "V. Lorant", "A. Geckova", "A.R. Hosseinpoor"]
+authors: ["N. Speybroeck", "P. Konings", "J. Lynch", "**S. Harper**", "D. Berkvens", "V. Lorant", "A. Geckova", "A.R. Hosseinpoor"]
 publication_types: ["2"]
 abstract: ""
 featured: false

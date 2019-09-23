@@ -2,7 +2,7 @@
 title: "Trends in educational inequalities in drug poisoning mortality: United States, 1994-2010"
 date: 2015-01-01
 publishDate: 2019-06-17T13:04:49.291451Z
-authors: ["R. Richardson", "T. Charters", "N. King", "S. Harper"]
+authors: ["R. Richardson", "T. Charters", "N. King", "**S. Harper**"]
 publication_types: ["2"]
 abstract: ""
 featured: false

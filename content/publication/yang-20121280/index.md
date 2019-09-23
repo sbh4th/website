@@ -2,7 +2,7 @@
 title: "The changing gender differences in life expectancy in Korea 1970-2005"
 date: 2012-01-01
 publishDate: 2019-06-17T13:04:49.338006Z
-authors: ["S. Yang", "Y.-H. Khang", "H. Chun", "S. Harper", "J. Lynch"]
+authors: ["S. Yang", "Y.-H. Khang", "H. Chun", "**S. Harper**", "J. Lynch"]
 publication_types: ["2"]
 abstract: ""
 featured: false

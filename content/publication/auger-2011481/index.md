@@ -2,7 +2,7 @@
 title: "Relative and Absolute Disparities in Preterm Birth Related to Neighborhood Education"
 date: 2011-01-01
 publishDate: 2019-06-17T13:04:49.372770Z
-authors: ["N. Auger", "P. Gamache", "J. Adam-Smith", "S. Harper"]
+authors: ["N. Auger", "P. Gamache", "J. Adam-Smith", "**S. Harper**"]
 publication_types: ["2"]
 abstract: ""
 featured: false

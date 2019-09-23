@@ -2,7 +2,7 @@
 title: "Social determinants and the decline of cardiovascular diseases: Understanding the links"
 date: 2011-01-01
 publishDate: 2019-06-17T13:04:49.375994Z
-authors: ["S. Harper", "J. Lynch", "G.D. Smith"]
+authors: ["**S. Harper**", "J. Lynch", "G.D. Smith"]
 publication_types: ["2"]
 abstract: ""
 featured: false

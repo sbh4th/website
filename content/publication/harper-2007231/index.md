@@ -2,7 +2,7 @@
 title: "Highly active antiretroviral therapy and socioeconomic inequalities in AIDS mortality in Spain"
 date: 2007-01-01
 publishDate: 2019-06-17T13:04:49.410042Z
-authors: ["S. Harper", "J. Lynch"]
+authors: ["**S. Harper**", "J. Lynch"]
 publication_types: ["2"]
 abstract: ""
 featured: false

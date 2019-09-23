@@ -2,7 +2,7 @@
 title: "Socioeconomic status, oral health and dental disease in Australia, Canada, New Zealand and the United States"
 date: 2018-01-01
 publishDate: 2019-06-17T13:04:49.217674Z
-authors: ["G.C. Mejia", "H.W. Elani", "S. Harper", "W. Murray Thomson", "X. Ju", "I. Kawachi", "J.S. Kaufman", "L.M. Jamieson"]
+authors: ["G.C. Mejia", "H.W. Elani", "**S. Harper**", "W. Murray Thomson", "X. Ju", "I. Kawachi", "J.S. Kaufman", "L.M. Jamieson"]
 publication_types: ["2"]
 abstract: ""
 featured: false

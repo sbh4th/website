@@ -2,7 +2,7 @@
 title: "Increased risk of coronary heart disease in female smokers"
 date: 2012-01-01
 publishDate: 2019-06-17T13:04:49.352944Z
-authors: ["S. Harper", "J.S. Kaufman", "N.B. King"]
+authors: ["**S. Harper**", "J.S. Kaufman", "N.B. King"]
 publication_types: ["2"]
 abstract: ""
 featured: false

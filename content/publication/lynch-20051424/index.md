@@ -2,7 +2,7 @@
 title: "Associations between income inequality and mortality among US states: The importance of time period and source of income data"
 date: 2005-01-01
 publishDate: 2019-06-17T13:04:49.424720Z
-authors: ["J. Lynch", "S. Harper", "G.A. Kaplan", "G.D. Smith"]
+authors: ["J. Lynch", "**S. Harper**", "G.A. Kaplan", "G.D. Smith"]
 publication_types: ["2"]
 abstract: ""
 featured: false

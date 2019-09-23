@@ -2,7 +2,7 @@
 title: "Removing user fees for facility-based delivery services: A difference-in-differences evaluation from ten sub-Saharan African countries"
 date: 2015-01-01
 publishDate: 2019-06-17T13:04:49.293050Z
-authors: ["B. McKinnon", "S. Harper", "J.S. Kaufman", "Y. Bergevin"]
+authors: ["B. McKinnon", "**S. Harper**", "J.S. Kaufman", "Y. Bergevin"]
 publication_types: ["2"]
 abstract: ""
 featured: false

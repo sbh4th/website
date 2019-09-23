@@ -2,7 +2,7 @@
 title: "Socioeconomic inequality in the prevalence of noncommunicable diseases in low- and middle-income countries: Results from the World Health Survey"
 date: 2012-01-01
 publishDate: 2019-06-17T13:04:49.343216Z
-authors: ["A.R. Hosseinpoor", "N. Bergen", "S. Mendis", "S. Harper", "E. Verdes", "A. Kunst", "S. Chatterji"]
+authors: ["A.R. Hosseinpoor", "N. Bergen", "S. Mendis", "**S. Harper**", "E. Verdes", "A. Kunst", "S. Chatterji"]
 publication_types: ["2"]
 abstract: ""
 featured: false

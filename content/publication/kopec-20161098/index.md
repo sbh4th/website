@@ -2,7 +2,7 @@
 title: "Effects of Reductions in Body Mass Index on the Future Osteoarthritis Burden in Canada: A Population-Based Microsimulation Study"
 date: 2016-01-01
 publishDate: 2019-06-17T13:04:49.266771Z
-authors: ["J.A. Kopec", "E.C. Sayre", "P. Fines", "W.M. Flanagan", "C. Nadeau", "A. Okhmatovskaia", "M.C. Wolfson", "the Simulation Technology for Applied Research Team", "D. Buckeridge", "S. Dahaghin", "S. Harper", "A. Heath", "D. Hennessy", "R. Liu", "D. Manuel", "J. Oderkirk", "M. Rahman", "B. Sharif", "B. Smith", "M. Tuna"]
+authors: ["J.A. Kopec", "E.C. Sayre", "P. Fines", "W.M. Flanagan", "C. Nadeau", "A. Okhmatovskaia", "M.C. Wolfson", "the Simulation Technology for Applied Research Team", "D. Buckeridge", "S. Dahaghin", "**S. Harper**", "A. Heath", "D. Hennessy", "R. Liu", "D. Manuel", "J. Oderkirk", "M. Rahman", "B. Sharif", "B. Smith", "M. Tuna"]
 publication_types: ["2"]
 abstract: ""
 featured: false

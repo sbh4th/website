@@ -2,7 +2,7 @@
 title: "Validation of population-based disease simulation models: A review of concepts and methods"
 date: 2010-01-01
 publishDate: 2019-06-17T13:04:49.384322Z
-authors: ["J.A. Kopec", "P. Finès", "D.G. Manuel", "D.L. Buckeridge", "W.M. Flanagan", "J. Oderkirk", "M. Abrahamowicz", "S. Harper", "B. Sharif", "A. Okhmatovskaia", "E.C. Sayre", "M.M. Rahman", "M.C. Wolfson"]
+authors: ["J.A. Kopec", "P. Finès", "D.G. Manuel", "D.L. Buckeridge", "W.M. Flanagan", "J. Oderkirk", "M. Abrahamowicz", "**S. Harper**", "B. Sharif", "A. Okhmatovskaia", "E.C. Sayre", "M.M. Rahman", "M.C. Wolfson"]
 publication_types: ["2"]
 abstract: ""
 featured: false

@@ -2,7 +2,7 @@
 title: "Is income inequality a determinant of population health? Part 1. A systematic review"
 date: 2004-01-01
 publishDate: 2019-06-17T13:04:49.429324Z
-authors: ["J. Lynch", "G.D. Smith", "S. Harper", "M. Hillemeier", "N. Ross", "G.A. Kaplan", "M. Wolfson"]
+authors: ["J. Lynch", "G.D. Smith", "**S. Harper**", "M. Hillemeier", "N. Ross", "G.A. Kaplan", "M. Wolfson"]
 publication_types: ["2"]
 abstract: ""
 featured: false

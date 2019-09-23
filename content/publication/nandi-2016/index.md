@@ -2,7 +2,7 @@
 title: "The effect of an affordable daycare program on health and economic well-being in Rajasthan, India: Protocol for a cluster-randomized impact evaluation study"
 date: 2016-01-01
 publishDate: 2019-06-17T13:04:49.270036Z
-authors: ["A. Nandi", "S. Maloney", "P. Agarwal", "A. Chandrashekar", "S. Harper"]
+authors: ["A. Nandi", "S. Maloney", "P. Agarwal", "A. Chandrashekar", "**S. Harper**"]
 publication_types: ["2"]
 abstract: ""
 featured: false

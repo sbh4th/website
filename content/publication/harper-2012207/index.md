@@ -2,7 +2,7 @@
 title: "Do Medical Marijuana Laws Increase Marijuana Use? Replication Study and Extension"
 date: 2012-01-01
 publishDate: 2019-06-17T13:04:49.349704Z
-authors: ["S. Harper", "E.C. Strumpf", "J.S. Kaufman"]
+authors: ["**S. Harper**", "E.C. Strumpf", "J.S. Kaufman"]
 publication_types: ["2"]
 abstract: ""
 featured: false

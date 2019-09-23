@@ -2,7 +2,7 @@
 title: "Monitoring equity in vaccination coverage: A systematic analysis of demographic and health surveys from 45 Gavi-supported countries"
 date: 2017-01-01
 publishDate: 2019-06-17T13:04:49.252550Z
-authors: ["C. Arsenault", "S. Harper", "A. Nandi", "J.M. Mendoza Rodrı́guez", "P.M. Hansen", "M. Johri"]
+authors: ["C. Arsenault", "**S. Harper**", "A. Nandi", "J.M. Mendoza Rodrı́guez", "P.M. Hansen", "M. Johri"]
 publication_types: ["2"]
 abstract: ""
 featured: false

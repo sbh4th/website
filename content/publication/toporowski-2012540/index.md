@@ -2,7 +2,7 @@
 title: "Burden of disease, health indicators and challenges for epidemiology in North America"
 date: 2012-01-01
 publishDate: 2019-06-17T13:04:49.346395Z
-authors: ["A. Toporowski", "S. Harper", "R. Fuhrer", "P.A. Buffler", "R. Detels", "N. Krieger", "E.L. Franco"]
+authors: ["A. Toporowski", "**S. Harper**", "R. Fuhrer", "P.A. Buffler", "R. Detels", "N. Krieger", "E.L. Franco"]
 publication_types: ["2"]
 abstract: ""
 featured: false

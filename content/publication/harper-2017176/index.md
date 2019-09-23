@@ -2,7 +2,7 @@
 title: "Primary Enforcement of Mandatory Seat Belt Laws and Motor Vehicle Crash Deaths"
 date: 2017-01-01
 publishDate: 2019-06-17T13:04:49.242755Z
-authors: ["S. Harper", "E.C. Strumpf"]
+authors: ["**S. Harper**", "E.C. Strumpf"]
 publication_types: ["2"]
 abstract: ""
 featured: false

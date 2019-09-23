@@ -2,7 +2,7 @@
 title: "Trends in area-socioeconomic and race-ethnic disparities in breast cancer incidence, stage at diagnosis, screening, mortality, and survival among women ages 50 years and over (1987-2005)"
 date: 2009-01-01
 publishDate: 2019-06-17T13:04:49.401941Z
-authors: ["S. Harper", "J. Lynch", "S.C. Meersman", "N. Breen", "W.W. Davis", "M.C. Reichman"]
+authors: ["**S. Harper**", "J. Lynch", "S.C. Meersman", "N. Breen", "W.W. Davis", "M.C. Reichman"]
 publication_types: ["2"]
 abstract: ""
 featured: false

@@ -2,7 +2,7 @@
 title: "Decomposing income-related inequality in cervical screening in 67 countries"
 date: 2011-01-01
 publishDate: 2019-06-17T13:04:49.379297Z
-authors: ["B. McKinnon", "S. Harper", "S. Moore"]
+authors: ["B. McKinnon", "**S. Harper**", "S. Moore"]
 publication_types: ["2"]
 abstract: ""
 featured: false

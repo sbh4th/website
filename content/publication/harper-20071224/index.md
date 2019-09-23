@@ -2,7 +2,7 @@
 title: "Trends in the black-white life expectancy gap in the United States, 1983-2003"
 date: 2007-01-01
 publishDate: 2019-06-17T13:04:49.411618Z
-authors: ["S. Harper", "J. Lynch", "S. Burris", "G.D. Smith"]
+authors: ["**S. Harper**", "J. Lynch", "S. Burris", "G.D. Smith"]
 publication_types: ["2"]
 abstract: ""
 featured: false

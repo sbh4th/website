@@ -2,7 +2,7 @@
 title: "The influence of popular media on perceptions of personal and population risk in possible disease outbreaks"
 date: 2013-01-01
 publishDate: 2019-06-17T13:04:49.326739Z
-authors: ["M.E. Young", "N. King", "S. Harper", "K.R. Humphreys"]
+authors: ["M.E. Young", "N. King", "**S. Harper**", "K.R. Humphreys"]
 publication_types: ["2"]
 abstract: ""
 featured: false

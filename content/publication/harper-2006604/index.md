@@ -2,7 +2,7 @@
 title: "Commentary: What explains widening geographic differences in life expectancy in New Zealand?"
 date: 2006-01-01
 publishDate: 2019-06-17T13:04:49.420022Z
-authors: ["S. Harper"]
+authors: ["**S. Harper**"]
 publication_types: ["2"]
 abstract: ""
 featured: false

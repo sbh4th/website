@@ -2,7 +2,7 @@
 title: "Who cares about health inequalities? Cross-country evidence from the World Health Survey"
 date: 2013-01-01
 publishDate: 2019-06-17T13:04:49.322078Z
-authors: ["N.B. King", "S. Harper", "M.E. Young"]
+authors: ["N.B. King", "**S. Harper**", "M.E. Young"]
 publication_types: ["2"]
 abstract: ""
 featured: false

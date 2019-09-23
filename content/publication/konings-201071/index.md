@@ -2,7 +2,7 @@
 title: "Analysis of socioeconomic health inequalities using the concentration index"
 date: 2010-01-01
 publishDate: 2019-06-17T13:04:49.395122Z
-authors: ["P. Konings", "S. Harper", "J. Lynch", "A.R. Hosseinpoor", "D. Berkvens", "V. Lorant", "A. Geckova", "N. Speybroeck"]
+authors: ["P. Konings", "**S. Harper**", "J. Lynch", "A.R. Hosseinpoor", "D. Berkvens", "V. Lorant", "A. Geckova", "N. Speybroeck"]
 publication_types: ["2"]
 abstract: ""
 featured: false

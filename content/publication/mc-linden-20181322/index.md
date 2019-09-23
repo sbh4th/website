@@ -2,7 +2,7 @@
 title: "Injection drug use, food insecurity, and HIV-HCV co-infection: a longitudinal cohort analysis"
 date: 2018-01-01
 publishDate: 2019-06-17T13:04:49.219605Z
-authors: ["T. McLinden", "E.E.M. Moodie", "S. Harper", "A.-M. Hamelin", "A. Anema", "W. Aibibula", "M.B. Klein", "J. Cox"]
+authors: ["T. McLinden", "E.E.M. Moodie", "**S. Harper**", "A.-M. Hamelin", "A. Anema", "W. Aibibula", "M.B. Klein", "J. Cox"]
 publication_types: ["2"]
 abstract: ""
 featured: false

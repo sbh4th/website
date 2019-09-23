@@ -2,7 +2,7 @@
 title: "Erratum to: Inequalities of health indicators for policy makers: Six hints (International Journal of Public Health (2012) DOI 10.1007/s00038-012-0386-5)"
 date: 2012-01-01
 publishDate: 2019-06-17T13:04:49.360511Z
-authors: ["N. Speybroeck", "S. Harper", "D. De Savigny", "C. Victora"]
+authors: ["N. Speybroeck", "**S. Harper**", "D. De Savigny", "C. Victora"]
 publication_types: ["2"]
 abstract: ""
 featured: false

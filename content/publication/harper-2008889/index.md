@@ -2,7 +2,7 @@
 title: "An overview of methods for monitoring social disparities in cancer with an example using trends in lung cancer incidence by area-socioeconomic position and race-ethnicity, 1992-2004"
 date: 2008-01-01
 publishDate: 2019-06-17T13:04:49.406944Z
-authors: ["S. Harper", "J. Lynch", "S.C. Meersman", "N. Breen", "W.W. Davis", "M.E. Reichman"]
+authors: ["**S. Harper**", "J. Lynch", "S.C. Meersman", "N. Breen", "W.W. Davis", "M.E. Reichman"]
 publication_types: ["2"]
 abstract: ""
 featured: false

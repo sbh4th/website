@@ -2,7 +2,7 @@
 title: "Commentary: Plugging leaks and repelling boarders - Where to next for the SS Income Inequality?"
 date: 2003-01-01
 publishDate: 2019-06-17T13:04:49.435451Z
-authors: ["J. Lynch", "S. Harper", "G.D. Smith"]
+authors: ["J. Lynch", "**S. Harper**", "G.D. Smith"]
 publication_types: ["2"]
 abstract: ""
 featured: false

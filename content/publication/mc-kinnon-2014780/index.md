@@ -2,7 +2,7 @@
 title: "Distance to emergency obstetric services and early neonatal mortality in Ethiopia."
 date: 2014-01-01
 publishDate: 2019-06-17T13:04:49.302584Z
-authors: ["B. McKinnon", "S. Harper", "J.S. Kaufman", "M. Abdullah"]
+authors: ["B. McKinnon", "**S. Harper**", "J.S. Kaufman", "M. Abdullah"]
 publication_types: ["2"]
 abstract: ""
 featured: false

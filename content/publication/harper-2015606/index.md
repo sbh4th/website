@@ -2,7 +2,7 @@
 title: "Trends in socioeconomic inequalities in motor vehicle accident deaths in the United States, 1995-2010"
 date: 2015-01-01
 publishDate: 2019-06-17T13:04:49.280770Z
-authors: ["S. Harper", "T.J. Charters", "E.C. Strumpf"]
+authors: ["**S. Harper**", "T.J. Charters", "E.C. Strumpf"]
 publication_types: ["2"]
 abstract: ""
 featured: false

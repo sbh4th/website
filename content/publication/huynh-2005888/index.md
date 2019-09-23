@@ -2,7 +2,7 @@
 title: "Contextual effect of income inequality on birth outcomes"
 date: 2005-01-01
 publishDate: 2019-06-17T13:04:49.426367Z
-authors: ["M. Huynh", "J.D. Parker", "S. Harper", "E. Pamuk", "K.C. Schoendorf"]
+authors: ["M. Huynh", "J.D. Parker", "**S. Harper**", "E. Pamuk", "K.C. Schoendorf"]
 publication_types: ["2"]
 abstract: ""
 featured: false

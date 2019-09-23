@@ -2,7 +2,7 @@
 title: "Commentary: Best practice for what?"
 date: 2013-01-01
 publishDate: 2019-06-17T13:04:49.325164Z
-authors: ["S. Harper", "N.B. King"]
+authors: ["**S. Harper**", "N.B. King"]
 publication_types: ["2"]
 abstract: ""
 featured: false

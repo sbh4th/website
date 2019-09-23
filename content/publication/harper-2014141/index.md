@@ -2,7 +2,7 @@
 title: "The effect of mandatory seat belt laws on seat belt use by socioeconomic position"
 date: 2014-01-01
 publishDate: 2019-06-17T13:04:49.296184Z
-authors: ["S. Harper", "E.C. Strumpf", "S. Burris", "G.D. Smith", "J. Lynch"]
+authors: ["**S. Harper**", "E.C. Strumpf", "S. Burris", "G.D. Smith", "J. Lynch"]
 publication_types: ["2"]
 abstract: ""
 featured: false

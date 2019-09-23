@@ -2,7 +2,7 @@
 title: "Editorial: Inequalities in cancer survival and the NHS cancer plan: Evidence of progress"
 date: 2010-01-01
 publishDate: 2019-06-17T13:04:49.387592Z
-authors: ["S. Harper"]
+authors: ["**S. Harper**"]
 publication_types: ["2"]
 abstract: ""
 featured: false

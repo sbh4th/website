@@ -2,7 +2,7 @@
 title: "Socioeconomic inequality in neonatal mortality in countries of low and middle income: A multicountry analysis"
 date: 2014-01-01
 publishDate: 2019-06-17T13:04:49.297610Z
-authors: ["B. McKinnon", "S. Harper", "J.S. Kaufman", "Y. Bergevin"]
+authors: ["B. McKinnon", "**S. Harper**", "J.S. Kaufman", "Y. Bergevin"]
 publication_types: ["2"]
 abstract: ""
 featured: false

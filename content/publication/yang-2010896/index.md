@@ -2,7 +2,7 @@
 title: "Understanding the rapid increase in life expectancy in South Korea"
 date: 2010-01-01
 publishDate: 2019-06-17T13:04:49.389237Z
-authors: ["S. Yang", "Y.-H. Khang", "S. Harper", "G.D. Smith", "D.A. Leon", "J. Lynch"]
+authors: ["S. Yang", "Y.-H. Khang", "**S. Harper**", "G.D. Smith", "D.A. Leon", "J. Lynch"]
 publication_types: ["2"]
 abstract: ""
 featured: false

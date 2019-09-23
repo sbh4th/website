@@ -2,7 +2,7 @@
 title: "Inequalities in indigenous oral health: Findings from Australia, New Zealand, and Canada"
 date: 2016-01-01
 publishDate: 2019-06-17T13:04:49.262510Z
-authors: ["L.M. Jamieson", "H. Elani", "G.C. Mejia", "X. Ju", "I. Kawachi", "S. Harper", "W.M. Thomson", "J.S. Kaufman"]
+authors: ["L.M. Jamieson", "H. Elani", "G.C. Mejia", "X. Ju", "I. Kawachi", "**S. Harper**", "W.M. Thomson", "J.S. Kaufman"]
 publication_types: ["2"]
 abstract: ""
 featured: false

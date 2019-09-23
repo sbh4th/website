@@ -2,7 +2,7 @@
 title: "The 'Americanisation' of migrants: Evidence for the contribution of ethnicity, social deprivation, lifestyle and life-course processes to the mid-20th century Coronary Heart Disease epidemic in the US"
 date: 2006-01-01
 publishDate: 2019-06-17T13:04:49.418149Z
-authors: ["C.C. Kelleher", "J.W. Lynch", "L. Daly", "S. Harper", "N. Fitz-simon", "Y. Bimpeh", "E. Daly", "H. Ulmer"]
+authors: ["C.C. Kelleher", "J.W. Lynch", "L. Daly", "**S. Harper**", "N. Fitz-simon", "Y. Bimpeh", "E. Daly", "H. Ulmer"]
 publication_types: ["2"]
 abstract: ""
 featured: false

@@ -2,7 +2,7 @@
 title: "Relative or absolute standards for child poverty: A state-level analysis of infant and child mortality"
 date: 2003-01-01
 publishDate: 2019-06-17T13:04:49.436991Z
-authors: ["M.M. Hillemeier", "J. Lynch", "S. Harper", "T. Raghunathan", "G.A. Kaplan"]
+authors: ["M.M. Hillemeier", "J. Lynch", "**S. Harper**", "T. Raghunathan", "G.A. Kaplan"]
 publication_types: ["2"]
 abstract: ""
 featured: false

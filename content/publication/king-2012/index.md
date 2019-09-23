@@ -2,7 +2,7 @@
 title: "Use of relative and absolute effect measures in reporting health inequalities: Structured review"
 date: 2012-01-01
 publishDate: 2019-06-17T13:04:49.334794Z
-authors: ["N.B. King", "S. Harper", "M.E. Young"]
+authors: ["N.B. King", "**S. Harper**", "M.E. Young"]
 publication_types: ["2"]
 abstract: ""
 featured: false

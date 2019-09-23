@@ -2,7 +2,7 @@
 title: "US regional and national cause-specific mortality and trends in income inequality: Descriptive findings"
 date: 2004-01-01
 publishDate: 2019-06-17T13:04:49.430880Z
-authors: ["J. Lynch", "S. Harper", "G.D. Smith", "N. Ross", "M. Wolfson", "J. Dunn"]
+authors: ["J. Lynch", "**S. Harper**", "G.D. Smith", "N. Ross", "M. Wolfson", "J. Dunn"]
 publication_types: ["2"]
 abstract: ""
 featured: false

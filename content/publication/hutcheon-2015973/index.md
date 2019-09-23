@@ -2,7 +2,7 @@
 title: "Using inter-institutional practice variation to understand the risks and benefits of routine labour induction at 41+0 weeks"
 date: 2015-01-01
 publishDate: 2019-06-17T13:04:49.284916Z
-authors: ["J.A. Hutcheon", "S. Harper", "E.C. Strumpf", "L. Lee", "G. Marquette"]
+authors: ["J.A. Hutcheon", "**S. Harper**", "E.C. Strumpf", "L. Lee", "G. Marquette"]
 publication_types: ["2"]
 abstract: ""
 featured: false

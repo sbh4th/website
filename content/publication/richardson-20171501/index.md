@@ -2,7 +2,7 @@
 title: "Are work demands associated with mental distress? Evidence from women in rural India"
 date: 2017-01-01
 publishDate: 2019-06-17T13:04:49.236134Z
-authors: ["R.A. Richardson", "A. Nandi", "S. Jaswal", "S. Harper"]
+authors: ["R.A. Richardson", "A. Nandi", "S. Jaswal", "**S. Harper**"]
 publication_types: ["2"]
 abstract: ""
 featured: false

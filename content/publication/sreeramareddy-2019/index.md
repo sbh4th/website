@@ -2,7 +2,7 @@
 title: "Trends in educational and wealth inequalities in adult tobacco use in Nepal 2001-2016: secondary data analyses of four Demographic and Health Surveys"
 date: 2019-09-01
 publishDate: 2019-06-17T13:04:49.234484Z
-authors: ["C.T. Sreeramareddy", "S. Harper"]
+authors: ["C.T. Sreeramareddy", "**S. Harper**"]
 publication_types: ["2"]
 abstract: "OBJECTIVE: To measure trends in socioeconomic inequalities tobacco use in Nepal.
 SETTING: Adults interviewed during house-to-house surveys.

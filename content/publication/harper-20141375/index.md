@@ -2,7 +2,7 @@
 title: "Trends in the black-white life expectancy gap among US States, 1990-2009"
 date: 2014-01-01
 publishDate: 2019-06-17T13:04:49.300811Z
-authors: ["S. Harper", "R.F. MacLehose", "J.S. Kaufman"]
+authors: ["**S. Harper**", "R.F. MacLehose", "J.S. Kaufman"]
 publication_types: ["2"]
 abstract: ""
 featured: false

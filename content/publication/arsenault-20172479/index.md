@@ -2,7 +2,7 @@
 title: "Country-level predictors of vaccination coverage and inequalities in Gavi-supported countries"
 date: 2017-01-01
 publishDate: 2019-06-17T13:04:49.247712Z
-authors: ["C. Arsenault", "M. Johri", "A. Nandi", "J.M. Mendoza Rodrı́guez", "P.M. Hansen", "S. Harper"]
+authors: ["C. Arsenault", "M. Johri", "A. Nandi", "J.M. Mendoza Rodrı́guez", "P.M. Hansen", "**S. Harper**"]
 publication_types: ["2"]
 abstract: ""
 featured: false

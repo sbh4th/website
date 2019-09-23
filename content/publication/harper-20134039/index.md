@@ -2,7 +2,7 @@
 title: "Using inequality measures to incorporate environmental justice into regulatory analyses"
 date: 2013-01-01
 publishDate: 2019-06-17T13:04:49.317399Z
-authors: ["S. Harper", "E. Ruder", "H.A. Roman", "A. Geggel", "O. Nweke", "D. Payne-Sturges", "J.I. Levy"]
+authors: ["**S. Harper**", "E. Ruder", "H.A. Roman", "A. Geggel", "O. Nweke", "D. Payne-Sturges", "J.I. Levy"]
 publication_types: ["2"]
 abstract: ""
 featured: false

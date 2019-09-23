@@ -2,7 +2,7 @@
 title: "Preventing coronary heart disease"
 date: 2006-01-01
 publishDate: 2019-06-17T13:04:49.423082Z
-authors: ["R. Jackson", "J. Lynch", "S. Harper"]
+authors: ["R. Jackson", "J. Lynch", "**S. Harper**"]
 publication_types: ["2"]
 abstract: ""
 featured: false

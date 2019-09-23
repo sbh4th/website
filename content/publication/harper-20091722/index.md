@@ -2,7 +2,7 @@
 title: "Commentary: Trends in indigenous inequalities in mortality in New Zealand"
 date: 2009-01-01
 publishDate: 2019-06-17T13:04:49.398042Z
-authors: ["S. Harper"]
+authors: ["**S. Harper**"]
 publication_types: ["2"]
 abstract: ""
 featured: false

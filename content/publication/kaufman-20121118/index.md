@@ -2,7 +2,7 @@
 title: "Deficiency of the odds ratio for common outcomes"
 date: 2012-01-01
 publishDate: 2019-06-17T13:04:49.336460Z
-authors: ["J.S. Kaufman", "S. Harper"]
+authors: ["J.S. Kaufman", "**S. Harper**"]
 publication_types: ["2"]
 abstract: ""
 featured: false

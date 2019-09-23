@@ -2,7 +2,7 @@
 title: "Who benefits from removing user fees for facility-based delivery services? Evidence on socioeconomic differences from Ghana, Senegal and Sierra Leone"
 date: 2015-01-01
 publishDate: 2019-06-17T13:04:49.283560Z
-authors: ["B. McKinnon", "S. Harper", "J.S. Kaufman"]
+authors: ["B. McKinnon", "**S. Harper**", "J.S. Kaufman"]
 publication_types: ["2"]
 abstract: ""
 featured: false

@@ -2,7 +2,7 @@
 title: "Would achieving healthy people 2010's targets reduce both population levels and social disparities in heart disease?"
 date: 2009-01-01
 publishDate: 2019-06-17T13:04:49.396455Z
-authors: ["B.E. Alvarado", "S. Harper", "R.W. Platt", "G.D. Smith", "J. Lynch"]
+authors: ["B.E. Alvarado", "**S. Harper**", "R.W. Platt", "G.D. Smith", "J. Lynch"]
 publication_types: ["2"]
 abstract: ""
 featured: false

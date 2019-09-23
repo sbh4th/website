@@ -2,7 +2,7 @@
 title: "Diverging socioeconomic inequality in life expectancy of Francophones and Anglophones in Montréal, Québec: Tobacco to blame?"
 date: 2013-01-01
 publishDate: 2019-06-17T13:04:49.320524Z
-authors: ["N. Auger", "S. Harper", "A.D. Barry"]
+authors: ["N. Auger", "**S. Harper**", "A.D. Barry"]
 publication_types: ["2"]
 abstract: ""
 featured: false

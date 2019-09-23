@@ -2,7 +2,7 @@
 title: "Oregon's hard-stop policy limiting elective early-term deliveries: Limitations of before-and-after studies in evaluating obstetric policies"
 date: 2017-01-01
 publishDate: 2019-06-17T13:04:49.259315Z
-authors: ["J.A. Hutcheon", "S. Harper", "E.C. Strumpf"]
+authors: ["J.A. Hutcheon", "**S. Harper**", "E.C. Strumpf"]
 publication_types: ["2"]
 abstract: ""
 featured: false

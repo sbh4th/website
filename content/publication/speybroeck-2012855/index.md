@@ -2,7 +2,7 @@
 title: "Inequalities of health indicators for policy makers: Six hints"
 date: 2012-01-01
 publishDate: 2019-06-17T13:04:49.362050Z
-authors: ["N. Speybroeck", "S. Harper", "D. De Savigny", "C. Victora"]
+authors: ["N. Speybroeck", "**S. Harper**", "D. De Savigny", "C. Victora"]
 publication_types: ["2"]
 abstract: ""
 featured: false

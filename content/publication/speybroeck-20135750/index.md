@@ -2,7 +2,7 @@
 title: "Simulation models for socioeconomic inequalities in health: A systematic review"
 date: 2013-01-01
 publishDate: 2019-06-17T13:04:49.315770Z
-authors: ["N. Speybroeck", "C. Van Malderen", "S. Harper", "B. Müller", "B. Devleesschauwer"]
+authors: ["N. Speybroeck", "C. Van Malderen", "**S. Harper**", "B. Müller", "B. Devleesschauwer"]
 publication_types: ["2"]
 abstract: ""
 featured: false

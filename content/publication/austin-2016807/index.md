@@ -2,7 +2,7 @@
 title: "Challenges in reproducing results from publicly available data: An example of sexual orientation and cardiovascular disease risk"
 date: 2016-01-01
 publishDate: 2019-06-17T13:04:49.265222Z
-authors: ["N. Austin", "S. Harper", "J.S. Kaufman", "G.B. Hamra"]
+authors: ["N. Austin", "**S. Harper**", "J.S. Kaufman", "G.B. Hamra"]
 publication_types: ["2"]
 abstract: ""
 featured: false

@@ -2,7 +2,7 @@
 title: "Is income inequality a determinant of population health? Part 2. U.S. National and Regional Trends in income inequality and age- and cause-specific mortality"
 date: 2004-01-01
 publishDate: 2019-06-17T13:04:49.427742Z
-authors: ["J. Lynch", "G.D. Smith", "S. Harper", "M. Hillemeier"]
+authors: ["J. Lynch", "G.D. Smith", "**S. Harper**", "M. Hillemeier"]
 publication_types: ["2"]
 abstract: ""
 featured: false

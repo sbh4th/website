@@ -2,7 +2,7 @@
 title: "Life course socioeconomic conditions and adult psychosocial functioning"
 date: 2002-01-01
 publishDate: 2019-06-17T13:04:49.438539Z
-authors: ["S. Harper", "J. Lynch", "W.-L. Hsu", "S.A. Everson", "M.M. Hillemeier", "T.E. Raghunathan", "J.T. Salonen", "G.A. Kaplan"]
+authors: ["**S. Harper**", "J. Lynch", "W.-L. Hsu", "S.A. Everson", "M.M. Hillemeier", "T.E. Raghunathan", "J.T. Salonen", "G.A. Kaplan"]
 publication_types: ["2"]
 abstract: ""
 featured: false

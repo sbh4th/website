@@ -2,7 +2,7 @@
 title: "Trends in socioeconomic inequalities in adult health behaviors among U.S. States, 1990-2004"
 date: 2007-01-01
 publishDate: 2019-06-17T13:04:49.416508Z
-authors: ["S. Harper", "J. Lynch"]
+authors: ["**S. Harper**", "J. Lynch"]
 publication_types: ["2"]
 abstract: ""
 featured: false

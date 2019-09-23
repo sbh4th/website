@@ -2,7 +2,7 @@
 title: "Methadone treatment, severe food insecurity, and HIV-HCV co-infection: A propensity score matching analysis"
 date: 2018-01-01
 publishDate: 2019-06-17T13:04:49.232915Z
-authors: ["T. McLinden", "E.E.M. Moodie", "A.-M. Hamelin", "S. Harper", "C. Rossi", "S.L. Walmsley", "S.B. Rourke", "C. Cooper", "M.B. Klein", "J. Cox"]
+authors: ["T. McLinden", "E.E.M. Moodie", "A.-M. Hamelin", "**S. Harper**", "C. Rossi", "S.L. Walmsley", "S.B. Rourke", "C. Cooper", "M.B. Klein", "J. Cox"]
 publication_types: ["2"]
 abstract: ""
 featured: false
