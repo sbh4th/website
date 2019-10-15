@@ -10,6 +10,7 @@ publication: "*Contraception*"
 tags: ["Abortion policy; TRAP laws; United States; Women's health"]
 doi: "10.1016/j.contraception.2019.06.003"
 url_pdf: 'https://www.contraceptionjournal.org/article/S0010-7824(19)30202-1/pdf'
+url_code: 'https://osf.io/9vxg7'
 
 ---
 
