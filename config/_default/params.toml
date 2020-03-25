@@ -5,11 +5,9 @@
 ## Theme
 ############################
 
-# Choose a theme.
-#   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
-#   Browse built-in themes in `themes/academic/data/themes/`
-#   Browse user installed themes in `data/themes/`
-theme = "minimal"
+	# Color theme.
+#   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
+color_theme = "default"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -18,11 +16,8 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+font = "default"
 
-# Choose a font size.
-# Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
 
 ############################
 ## Basic Info
@@ -90,11 +85,7 @@ phone = "+1 514 398 2856"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1020 Pine Avenue West, Room 36B", city = "Montreal", region = "QC", postcode = "H3A 1A2", country = "Canada", country_code = "CA"}
-
-# Geographic coordinates
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "45.504755", longitude = "-73.581860"}
+address = "1020 Pine Avenue West, Room 36B, Montreal, QC H3A 1A2 Canada"
 
 # Directions for visitors to locate you.
 directions = ""
@@ -225,21 +216,24 @@ plugins_js  = []
 ############################
 ## Maps
 ############################
-[map]
-  # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
-  # and choose a map provider below.
-  #
-  # To use Google Maps, set `engine` to 1 and enter your API key that can be obtained here:
-  #   https://developers.google.com/maps/documentation/javascript/get-api-key
-  # To use OpenStreetMap tiles, set `engine` to 2.
-  # To use OpenStreetMap on a high traffic site, set `engine` to 3 and enter your API key that can be obtained here:
-  #   https://www.mapbox.com/studio/account/tokens
-  #
-  # Map provider:
-  #   0: No map
-  #   1: Google Maps
-  #   2: OpenStreetMap (Mapnik)
-  #   3: OpenStreetMap (Mapbox)
-  engine = 1
-  api_key = "AIzaSyBh6uB2jN2m7CKsZjnUfOrFS0HzhbPoRKU"
+# Display a map.
+# To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
+# a map provider below.
+# To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
+#   https://developers.google.com/maps/documentation/javascript/get-api-key
+# To use OpenStreetMap tiles, set `map = 2`.
+# To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
+#   https://www.mapbox.com/studio/account/tokens
+# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
+#
+# Map provider:
+#   0: No map
+#   1: Google Maps
+#   2: OpenStreetMap (Mapnik)
+#   3: OpenStreetMap (Mapbox)
+  map = 1
+  map_api_key = "AIzaSyBh6uB2jN2m7CKsZjnUfOrFS0HzhbPoRKU"
+  latitude = "45.504755"
+  longitude = "-73.581860"
   zoom = 15
+
