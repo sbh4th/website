@@ -83,7 +83,7 @@ user_groups:
 - Visitors
 ---
 
-I am an associate professor in the Department of Epidemiology, Biostatistics & Occupational Health at McGill University. I am also a member of the McGill University Centre on Population Dynamics and the Montreal Health Equity Research Consortium.
+I am an associate professor in the Department of Epidemiology, Biostatistics & Occupational Health at McGill University. I am also a member of the McGill University [Centre on Population Dynamics](https://www.mcgill.ca/popcentre/) and McGill's [Public Policy and Population Health Observatory](https://3po.ca).
 
 My research focuses on understanding population health and its social distribution, with specific interests in impact evaluation, measuring health inequalities, global health, demography, causal inference, and ethical issues in public health. 
 

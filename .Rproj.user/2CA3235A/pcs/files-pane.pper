@@ -1,9 +1,9 @@
 {
-    "path" : "~/git/website/themes/academic/exampleSite/content/post/getting-started",
-    "sortOrder" : [
+    "path": "~/git/website/content/authors/admin",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
