@@ -7,7 +7,7 @@
   name = "Home"
   url = "#about"
   weight = 10
-  
+
 [[main]]
   name = "Media"
   url = "#media"
@@ -27,7 +27,7 @@
   name = "Publications"
   url = "#publications"
   weight = 50
-  
+
 [[main]]
   name = "Talks"
   url = "#talks"
@@ -39,9 +39,14 @@
   weight = 70
 
 [[main]]
+  name = "People"
+  url = "people/"
+  weight = 80
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
