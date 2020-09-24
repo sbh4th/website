@@ -1,10 +1,6 @@
 ---
 # Display name
-name: Sam Harper
-
-# Username (this should match the folder name)
-authors:
-- admin
+title: Sam Harper
 
 # Is this the primary user of the site?
 superuser: true
@@ -79,8 +75,8 @@ email: "sbh4th@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
+- Principal Investigators
 - Researchers
-- Visitors
 ---
 
 I am an associate professor in the Department of Epidemiology, Biostatistics & Occupational Health at McGill University. I am also a member of the McGill University [Centre on Population Dynamics](https://www.mcgill.ca/popcentre/) and McGill's [Public Policy and Population Health Observatory](https://3po.ca).

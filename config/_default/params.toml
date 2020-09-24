@@ -166,7 +166,7 @@ copyright_license = {enable = false, allow_derivatives = false, share_alike = tr
 highlight_superuser = true
 
 # Link authors to their profile page? (true/false)
-link_authors = false
+link_authors = true
 
 # Load CSS and JS plugins
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.

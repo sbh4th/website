@@ -1,24 +1,32 @@
-+++
-title = "420 update"
-date = 2019-02-08
-draft = true
-
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["replication", "reproducible research", "cannabis", "motor vehicle crashes"]
-categories = []
+---
+title: "420 update"
+date: 2019-02-08
+authors:
+- admin
+tags: ["replication", "reproducible research", "cannabis", "motor vehicle crashes"]
+categories: []
+date: "2019-02-08T00:00:00Z"
+lastmod: "2019-02-08T00:00:00Z"
+draft: false
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-# Use `caption` to display an image caption.
-#   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
-# Set `preview` to `false` to disable the thumbnail in listings.
-[header]
-image = ""
-caption = ""
-preview = true
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 1
+  caption: 'Image credit: [**Wikipedia**](https://upload.wikimedia.org/wikipedia/commons/7/7e/I-420.svg)'
+  focal_point: ""
+  preview_only: false
 
-+++
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+
+---
 ## Background
 
 Last fall [Adam Palayew](https://twitter.com/AdamPalayew) and I [wrote](http://samharper.org/new-blog/2018/4/17/is-420-deadly) about an interesting [paper](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2672202) that claimed that the number of people in fatal traffic crashes increased by 12% on April the 20th. For those that don't know, April 20th (or '420') is a day of celebration of all things cannabis, with large outdoor gatherings where cannabis consumption is promoted, especially at 4:20pm. The idea behind the paper was that excess consumption of cannabis on April 20th led to more drugged driving, and therefore more fatal accidents.
