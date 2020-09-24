@@ -19,6 +19,7 @@ weight = 30
 <a class="twitter-timeline" data-width="600" data-height="400" href="https://twitter.com/sbh4th?ref_src=twsrc%5Etfw">Tweets by sbh4th</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## News coverage
+- Coverage by [*The Indian Express*](https://indianexpress.com/article/india/extreme-wet-conditions-linked-to-increase-in-suicides-in-rural-india-study-6601839/) and [*Forbes*](https://www.forbes.com/sites/dishashetty/2020/09/24/droughts-floods-linked-to-mental-health-finds-new-study/#6529641a10f4) on our recent paper investigating environmental conditions and suicide in India, 2020-09-19. 
 - [Report](https://www.theleafnews.com/news/do-fatal-car-crashes-actually-increase-on-420-not-so-fast-says-new-research-506836442.html) by *The Leaf News* on our [paper]({{< ref "/publication/harper-2019/index.md" >}}) looking at the cannabis "holiday" on April 20 and fatal traffic crashes, 2019-03-07.
 - Feature (and interview) on the [Smarter Choices for Better Health Initiative](https://www.eur.nl/en/news/even-netherlands-has-important-differences-between-health-poor-and-rich-we-would-decrease), 2018-11-26.
 - Coverage of our [paper]({{< ref "/publication/riddell-2018-aa/index.md" >}}) on gun violence in US states by [CNN](https://www.cnn.com/2018/04/23/health/gun-deaths-in-men-by-state-study/index.html), 2018-04-23.
