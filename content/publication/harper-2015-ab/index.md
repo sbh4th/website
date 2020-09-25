@@ -6,16 +6,16 @@ title: 'Economic downturns and suicide mortality in the USA, 1980-2010: observat
 subtitle: ''
 summary: ''
 authors:
-- sam-harper
+- Sam Harper
 - Thomas J Charters
 - Erin C Strumpf
 - Sandro Galea
 - Arijit Nandi
 tags:
-- '"Economic recession; United States; socioeconomic position; suicide"'
+- '"economic recession; united states; socioeconomic position; suicide"'
 categories: []
 date: '2015-06-01'
-lastmod: 2020-09-24T17:44:39-04:00
+lastmod: 2020-09-25T09:07:19-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:39.256390Z'
+publishDate: '2020-09-25T13:07:18.761961Z'
 publication_types:
 - 2
 abstract: 'BACKGROUND: Several studies have suggested strong associations between

@@ -7,14 +7,14 @@ subtitle: ''
 summary: ''
 authors:
 - Britt McKinnon
-- sam-harper
+- Sam Harper
 - Jay S Kaufman
 - Yves Bergevin
 tags:
-- '"User fee removal; difference-in-differences; maternal health care; neonatal mortality"'
+- '"user fee removal; difference-in-differences; maternal health care; neonatal mortality"'
 categories: []
 date: '2015-05-01'
-lastmod: 2020-09-24T17:44:37-04:00
+lastmod: 2020-09-25T09:07:16-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:36.894561Z'
+publishDate: '2020-09-25T13:07:16.011479Z'
 publication_types:
 - 2
 abstract: 'BACKGROUND: Several countries in sub-Saharan Africa have recently adopted

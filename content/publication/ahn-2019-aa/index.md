@@ -7,14 +7,14 @@ subtitle: ''
 summary: ''
 authors:
 - Jaeil Ahn
-- sam-harper
+- Sam Harper
 - Mandi Yu
 - Eric J Feuer
 - Benmei Liu
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2020-09-24T17:44:55-04:00
+lastmod: 2020-09-25T09:07:35-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:55.407692Z'
+publishDate: '2020-09-25T13:07:34.837862Z'
 publication_types:
 - 2
 abstract: 'Health disparities are commonplace and of broad interest to policy makers,

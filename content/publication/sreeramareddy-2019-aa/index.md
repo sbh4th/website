@@ -7,12 +7,12 @@ subtitle: ''
 summary: ''
 authors:
 - Chandrashekhar T Sreeramareddy
-- sam-harper
+- Sam Harper
 tags:
-- '"Nepal; inequalities; surveys; tobacco use"'
+- '"nepal; inequalities; surveys; tobacco use"'
 categories: []
 date: '2019-09-01'
-lastmod: 2020-09-24T17:44:56-04:00
+lastmod: 2020-09-25T09:07:35-04:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:55.989876Z'
+publishDate: '2020-09-25T13:07:35.287626Z'
 publication_types:
 - 2
 abstract: 'OBJECTIVE: To measure trends in socioeconomic inequalities tobacco use

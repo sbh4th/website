@@ -6,7 +6,7 @@ title: Trends in Socioeconomic Inequalities in Motor Vehicle Accident Deaths in 
 subtitle: ''
 summary: ''
 authors:
-- sam-harper
+- Sam Harper
 - Thomas J Charters
 - Erin C Strumpf
 tags:
@@ -14,7 +14,7 @@ tags:
   trends"'
 categories: []
 date: '2015-10-01'
-lastmod: 2020-09-24T17:44:40-04:00
+lastmod: 2020-09-25T09:07:19-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:39.982985Z'
+publishDate: '2020-09-25T13:07:19.704347Z'
 publication_types:
 - 2
 abstract: 'Motor vehicle accident (MVA) mortality has been declining overall, but

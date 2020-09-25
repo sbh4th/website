@@ -7,17 +7,17 @@ subtitle: ''
 summary: ''
 authors:
 - Thomas J Charters
-- sam-harper
+- Sam Harper
 - Erin C Strumpf
 - S V Subramanian
 - Mariana Arcaya
 - Arijit Nandi
 tags:
-- '"Health investments; Health status; Healthcare utilization; Macroeconomic conditions;
-  Mortgages; United States"'
+- '"health investments; health status; healthcare utilization; macroeconomic conditions;
+  mortgages; united states"'
 categories: []
 date: '2016-07-01'
-lastmod: 2020-09-24T17:44:42-04:00
+lastmod: 2020-09-25T09:07:22-04:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:42.321613Z'
+publishDate: '2020-09-25T13:07:21.885916Z'
 publication_types:
 - 2
 abstract: The recent housing crisis offers the opportunity to understand the effects

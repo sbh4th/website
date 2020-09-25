@@ -8,12 +8,12 @@ authors:
 - Seungmi Yang
 - Young-Ho Khang
 - Heeran Chun
-- sam-harper
+- Sam Harper
 - John Lynch
 tags: []
 categories: []
 date: '2012-10-01'
-lastmod: 2020-09-24T17:44:32-04:00
+lastmod: 2020-09-25T09:07:11-04:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:31.539824Z'
+publishDate: '2020-09-25T13:07:10.672977Z'
 publication_types:
 - 2
 abstract: Women live much longer than men in Korea, with remarkable gains in life

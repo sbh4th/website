@@ -5,13 +5,13 @@ title: The annual cannabis holiday and fatal traffic crashes
 subtitle: ''
 summary: ''
 authors:
-- sam-harper
+- Sam Harper
 - Adam Palayew
 tags:
-- '"Motor vehicle Occupant; descriptive epidemiology; drugs; mortality; public health"'
+- '"motor vehicle occupant; descriptive epidemiology; drugs; mortality; public health"'
 categories: []
 date: '2019-10-01'
-lastmod: 2020-09-24T17:44:52-04:00
+lastmod: 2020-09-25T09:07:32-04:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:52.676488Z'
+publishDate: '2020-09-25T13:07:32.757139Z'
 publication_types:
 - 2
 abstract: "BACKGROUND: Cannabis use has been linked to impaired driving and fatal\

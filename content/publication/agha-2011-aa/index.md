@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2011-12-01'
-lastmod: 2020-09-24T17:44:28-04:00
+lastmod: 2020-09-25T09:07:07-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:27.853335Z'
+publishDate: '2020-09-25T13:07:07.073367Z'
 publication_types:
 - 2
 abstract: Potential upstream determinants of coronary heart disease (CHD) include

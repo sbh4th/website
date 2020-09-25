@@ -7,13 +7,13 @@ subtitle: ''
 summary: ''
 authors:
 - Britt McKinnon
-- sam-harper
+- Sam Harper
 - Jay S Kaufman
 - Yves Bergevin
 tags: []
 categories: []
 date: '2014-03-01'
-lastmod: 2020-09-24T17:44:38-04:00
+lastmod: 2020-09-25T09:07:17-04:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:38.362965Z'
+publishDate: '2020-09-25T13:07:17.452108Z'
 publication_types:
 - 2
 abstract: 'BACKGROUND: Neonatal mortality rates (NMRs) in countries of low and middle

@@ -8,12 +8,12 @@ summary: ''
 authors:
 - Sarah Meghan Mah
 - Claudia Sanmartin
-- sam-harper
+- Sam Harper
 - Nancy A Ross
 tags: []
 categories: []
 date: '2018-07-01'
-lastmod: 2020-09-24T17:44:50-04:00
+lastmod: 2020-09-25T09:07:30-04:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:50.124166Z'
+publishDate: '2020-09-25T13:07:29.815612Z'
 publication_types:
 - 2
 abstract: "Introduction: Hospital utilization varies across socioeconomic and demographic\

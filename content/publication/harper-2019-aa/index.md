@@ -6,12 +6,12 @@ title: 'Would Stronger Seat Belt Laws Reduce Motor Vehicle Crash Deaths?: A Semi
 subtitle: ''
 summary: ''
 authors:
-- sam-harper
+- Sam Harper
 tags: []
 categories: []
 date: '2019-05-01'
-lastmod: 2020-09-24T17:44:54-04:00
-featured: true
+lastmod: 2020-09-25T09:07:33-04:00
+featured: false
 draft: false
 
 # Featured image
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:53.269881Z'
+publishDate: '2020-09-25T13:07:33.211448Z'
 publication_types:
 - 2
 abstract: 'BACKGROUND: For policy questions where substantial empirical background

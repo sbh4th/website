@@ -7,12 +7,12 @@ subtitle: ''
 summary: ''
 authors:
 - Nichole Austin
-- sam-harper
+- Sam Harper
 tags:
-- "\"TRAP laws; abortion policy; women's health\""
+- "\"trap laws; abortion policy; women's health\""
 categories: []
 date: '2018-04-01'
-lastmod: 2020-09-24T17:44:50-04:00
+lastmod: 2020-09-25T09:07:29-04:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:49.882311Z'
+publishDate: '2020-09-25T13:07:29.570038Z'
 publication_types:
 - 2
 abstract: "INTRODUCTION: Targeted Regulation of Abortion Providers (TRAP) laws impose\

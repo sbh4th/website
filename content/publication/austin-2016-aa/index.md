@@ -6,12 +6,12 @@ subtitle: ''
 summary: ''
 authors:
 - Nichole Austin
-- sam-harper
+- Sam Harper
 - Erin Strumpf
 tags: []
 categories: []
 date: '2016-09-01'
-lastmod: 2020-09-24T17:44:42-04:00
+lastmod: 2020-09-25T09:07:21-04:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:42.071975Z'
+publishDate: '2020-09-25T13:07:21.520463Z'
 publication_types:
 - 2
 abstract: 'BACKGROUND: Racial residential segregation in the United States has been

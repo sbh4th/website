@@ -9,13 +9,13 @@ authors:
 - Mohammad Hajizadeh
 - Jody Heymann
 - Erin Strumpf
-- sam-harper
+- Sam Harper
 - Arijit Nandi
 tags:
-- '"Childhood vaccination; Low-and-middle-income countries; Maternity leave"'
+- '"childhood vaccination; low-and-middle-income countries; maternity leave"'
 categories: []
 date: '2015-09-01'
-lastmod: 2020-09-24T17:44:39-04:00
+lastmod: 2020-09-25T09:07:19-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:39.740498Z'
+publishDate: '2020-09-25T13:07:19.479547Z'
 publication_types:
 - 2
 abstract: 'The availability of maternity leave might remove barriers to improved vaccination

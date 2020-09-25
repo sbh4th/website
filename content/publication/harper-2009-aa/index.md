@@ -5,11 +5,11 @@ title: 'Commentary: Trends in indigenous inequalities in mortality in New Zealan
 subtitle: ''
 summary: ''
 authors:
-- sam-harper
+- Sam Harper
 tags: []
 categories: []
 date: '2009-12-01'
-lastmod: 2020-09-24T17:44:23-04:00
+lastmod: 2020-09-25T09:07:02-04:00
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:22.987945Z'
+publishDate: '2020-09-25T13:07:01.937744Z'
 publication_types:
 - 2
 abstract: ''

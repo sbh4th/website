@@ -8,13 +8,13 @@ summary: ''
 authors:
 - Renee Carter
 - Jean-Frédéric Lévesque
-- sam-harper
+- Sam Harper
 - Amélie Quesnel-Vallée
 tags:
-- '"Canada; diabetes; emergency department; health services; primary care reform"'
+- '"canada; diabetes; emergency department; health services; primary care reform"'
 categories: []
 date: '2017-04-01'
-lastmod: 2020-09-24T17:44:42-04:00
+lastmod: 2020-09-25T09:07:22-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:42.533401Z'
+publishDate: '2020-09-25T13:07:22.083006Z'
 publication_types:
 - 2
 abstract: The Family Medicine Group (FMG) model of primary care in Quebec, Canada,

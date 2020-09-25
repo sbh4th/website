@@ -9,17 +9,17 @@ authors:
 - Taylor McLinden
 - Erica E M Moodie
 - Anne-Marie Hamelin
-- sam-harper
+- Sam Harper
 - Sharon L Walmsley
 - Gilles Paradis
 - Wusiman Aibibula
 - Marina B Klein
 - Joseph Cox
 tags:
-- '"HIV; Hepatitis C virus; Injection drug use; Severe food insecurity; Unemployment"'
+- '"hiv; hepatitis c virus; injection drug use; severe food insecurity; unemployment"'
 categories: []
 date: '2017-12-01'
-lastmod: 2020-09-24T17:44:47-04:00
+lastmod: 2020-09-25T09:07:27-04:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:47.090932Z'
+publishDate: '2020-09-25T13:07:27.114869Z'
 publication_types:
 - 2
 abstract: 'Severe food insecurity (FI), which indicates reduced food intake, is common

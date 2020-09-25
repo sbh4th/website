@@ -8,17 +8,17 @@ summary: ''
 authors:
 - Taylor McLinden
 - Erica E M Moodie
-- sam-harper
+- Sam Harper
 - Anne-Marie Hamelin
 - Aranka Anema
 - Wusiman Aibibula
 - Marina B Klein
 - Joseph Cox
 tags:
-- '"HIV; food insecurity; hepatitis C virus; injection drug use"'
+- '"hiv; food insecurity; hepatitis c virus; injection drug use"'
 categories: []
 date: '2018-10-01'
-lastmod: 2020-09-24T17:44:49-04:00
+lastmod: 2020-09-25T09:07:29-04:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:49.449658Z'
+publishDate: '2020-09-25T13:07:28.816996Z'
 publication_types:
 - 2
 abstract: Injection drug use (IDU) and food insecurity (FI) are highly prevalent among

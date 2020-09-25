@@ -8,12 +8,12 @@ summary: ''
 authors:
 - John Lynch
 - George Davey Smith
-- sam-harper
+- Sam Harper
 - Marianne Hillemeier
 tags: []
 categories: []
 date: '2004-01-01'
-lastmod: 2020-09-24T17:44:19-04:00
+lastmod: 2020-09-25T09:06:56-04:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:19.023980Z'
+publishDate: '2020-09-25T13:06:56.189822Z'
 publication_types:
 - 2
 abstract: This article describes U.S. income inequality and 100-year national and

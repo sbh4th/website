@@ -7,14 +7,14 @@ summary: ''
 authors:
 - Seungmi Yang
 - Young-Ho Khang
-- sam-harper
+- Sam Harper
 - George Davey Smith
 - David A Leon
 - John Lynch
 tags: []
 categories: []
 date: '2010-05-01'
-lastmod: 2020-09-24T17:44:24-04:00
+lastmod: 2020-09-25T09:07:03-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:24.020293Z'
+publishDate: '2020-09-25T13:07:03.054848Z'
 publication_types:
 - 2
 abstract: "OBJECTIVES: We assessed life expectancy increases in the past several decades\

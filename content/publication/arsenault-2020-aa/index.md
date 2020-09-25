@@ -7,13 +7,14 @@ subtitle: ''
 summary: ''
 authors:
 - Catherine Arsenault
-- sam-harper
+- Sam Harper
 - Arijit Nandi
 tags:
-- '"CHILD HEALTH", "EMPLOYMENT", "EPIDEMIOLOGY", "INEQUALITIES", "MULTILEVEL MODELLING", "POLICY",  "PSYCHOSOCIAL FACTORS", "SOCIAL EPIDEMIOLOGY", "SOCIAL INEQUALITIES", "SOCIOECONOMIC"'
+- '"child health; employment; epidemiology; inequalities; multilevel modelling; policy;
+  psychosocial factors; social epidemiology; social inequalities; socioeconomic"'
 categories: []
 date: '2020-10-01'
-lastmod: 2020-09-24T17:44:57-04:00
+lastmod: 2020-09-25T09:07:37-04:00
 featured: false
 draft: false
 
@@ -31,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:57.654211Z'
+publishDate: '2020-09-25T13:07:37.664654Z'
 publication_types:
 - 2
 abstract: "BACKGROUND: Beyond the prevention of illness and death, vaccination may\

@@ -8,14 +8,14 @@ summary: ''
 authors:
 - Brendan T Smith
 - Peter M Smith
-- sam-harper
+- Sam Harper
 - Douglas G Manuel
 - Cameron A Mustard
 tags:
-- '"Epidemiological methods; Modelling; Public Health Policy; Social Inequalities"'
+- '"epidemiological methods; modelling; public health policy; social inequalities"'
 categories: []
 date: '2014-04-01'
-lastmod: 2020-09-24T17:44:36-04:00
+lastmod: 2020-09-25T09:07:15-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:36.488446Z'
+publishDate: '2020-09-25T13:07:15.250598Z'
 publication_types:
 - 2
 abstract: "Reducing health inequalities has become a major public health priority\

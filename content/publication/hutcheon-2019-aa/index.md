@@ -13,7 +13,7 @@ authors:
 - Peter A Briss
 - Cynthia D Ferré
 - Brittni N Frederiksen
-- sam-harper
+- Sam Harper
 - Sonia Hernández-Dı́az
 - Ashley H Hirai
 - Russell S Kirby
@@ -32,7 +32,7 @@ tags:
   interpregnancy interval; preterm birth"'
 categories: []
 date: '2019-01-01'
-lastmod: 2020-09-24T17:44:51-04:00
+lastmod: 2020-09-25T09:07:32-04:00
 featured: false
 draft: false
 
@@ -50,7 +50,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:51.551940Z'
+publishDate: '2020-09-25T13:07:31.855207Z'
 publication_types:
 - 2
 abstract: 'BACKGROUND: Meta-analyses of observational studies have shown that women

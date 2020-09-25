@@ -7,12 +7,12 @@ subtitle: ''
 summary: ''
 authors:
 - Phongsack Manivong
-- sam-harper
+- Sam Harper
 - Erin Strumpf
 tags: []
 categories: []
 date: '2017-06-01'
-lastmod: 2020-09-24T17:44:46-04:00
+lastmod: 2020-09-25T09:07:26-04:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:46.434772Z'
+publishDate: '2020-09-25T13:07:26.647619Z'
 publication_types:
 - 2
 abstract: 'OBJECTIVES: To evaluate the impact of changes in cigarette taxes on smoking

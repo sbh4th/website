@@ -7,14 +7,14 @@ subtitle: ''
 summary: ''
 authors:
 - Britt McKinnon
-- sam-harper
+- Sam Harper
 - Jay S Kaufman
 tags:
-- '"Maternal health services; Socioeconomic inequalities; Sub-Saharan Africa; User
+- '"maternal health services; socioeconomic inequalities; sub-saharan africa; user
   fee removal"'
 categories: []
 date: '2015-06-01'
-lastmod: 2020-09-24T17:44:38-04:00
+lastmod: 2020-09-25T09:07:18-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:38.693599Z'
+publishDate: '2020-09-25T13:07:17.796798Z'
 publication_types:
 - 2
 abstract: 'Coverage of skilled delivery care has been increasing across most low-income

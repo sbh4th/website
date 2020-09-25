@@ -10,13 +10,13 @@ authors:
 - Shannon Maloney
 - Parul Agarwal
 - Anoushaka Chandrashekar
-- sam-harper
+- Sam Harper
 tags:
-- "\"Child day care centers; Childcare; Cluster randomized controlled trial; Health;\
-  \ India; Nurseries; Socioeconomic status; Women's empowerment\""
+- "\"child day care centers; childcare; cluster randomized controlled trial; health;\
+  \ india; nurseries; socioeconomic status; women's empowerment\""
 categories: []
 date: '2016-06-01'
-lastmod: 2020-09-24T17:44:42-04:00
+lastmod: 2020-09-25T09:07:22-04:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:42.738232Z'
+publishDate: '2020-09-25T13:07:22.296970Z'
 publication_types:
 - 2
 abstract: "BACKGROUND: The provision of affordable and reliable daycare services is\

@@ -8,12 +8,12 @@ summary: ''
 authors:
 - Sarah McTavish
 - Spencer Moore
-- sam-harper
+- Sam Harper
 - John Lynch
 tags: []
 categories: []
 date: '2010-12-01'
-lastmod: 2020-09-24T17:44:25-04:00
+lastmod: 2020-09-25T09:07:05-04:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:25.543247Z'
+publishDate: '2020-09-25T13:07:04.676832Z'
 publication_types:
 - 2
 abstract: The United Nations Millennium Development Goals have identified improving

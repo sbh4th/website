@@ -5,14 +5,14 @@ title: 'A Future for Observational Epidemiology: Clarity, Credibility, Transpare
 subtitle: ''
 summary: ''
 authors:
-- sam-harper
+- Sam Harper
 tags:
 - '"causal inference; observational studies; quantitative bias analysis; quasi-experiments;
   reproducible research; research reporting; transparency"'
 categories: []
 date: '2019-05-01'
-lastmod: 2020-09-24T17:44:53-04:00
-featured: true
+lastmod: 2020-09-25T09:07:33-04:00
+featured: false
 draft: false
 
 # Featured image
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:53.008333Z'
+publishDate: '2020-09-25T13:07:33.002233Z'
 publication_types:
 - 2
 abstract: Observational studies are ambiguous, difficult, and necessary for epidemiology.

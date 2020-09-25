@@ -7,14 +7,14 @@ subtitle: ''
 summary: ''
 authors:
 - Nichole Austin
-- sam-harper
+- Sam Harper
 - Jay S Kaufman
 - Ghassan B Hamra
 tags:
-- '"Cardiovascular disease; Health inequalities; PUBLIC HEALTH"'
+- '"cardiovascular disease; health inequalities; public health"'
 categories: []
 date: '2016-08-01'
-lastmod: 2020-09-24T17:44:40-04:00
+lastmod: 2020-09-25T09:07:20-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:40.785590Z'
+publishDate: '2020-09-25T13:07:20.370531Z'
 publication_types:
 - 2
 abstract: "BACKGROUND: Replication is a vital part of the research process and has\

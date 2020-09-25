@@ -8,14 +8,14 @@ summary: ''
 authors:
 - Arijit Nandi
 - Mohammad Hajizadeh
-- sam-harper
+- Sam Harper
 - Alissa Koski
 - Erin C Strumpf
 - Jody Heymann
 tags: []
 categories: []
 date: '2016-03-01'
-lastmod: 2020-09-24T17:44:41-04:00
+lastmod: 2020-09-25T09:07:21-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:41.217582Z'
+publishDate: '2020-09-25T13:07:20.819585Z'
 publication_types:
 - 2
 abstract: 'BACKGROUND: Maternity leave reduces neonatal and infant mortality rates

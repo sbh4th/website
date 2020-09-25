@@ -5,13 +5,13 @@ title: "Invited Commentary: A-P-C... It's Easy as 1-2-3!"
 subtitle: ''
 summary: ''
 authors:
-- sam-harper
+- Sam Harper
 tags:
 - '"age-period-cohort models; cohort effects; health disparities; heart disease; racial
   inequality"'
 categories: []
 date: '2015-08-01'
-lastmod: 2020-09-24T17:44:39-04:00
+lastmod: 2020-09-25T09:07:18-04:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:38.982150Z'
+publishDate: '2020-09-25T13:07:18.464647Z'
 publication_types:
 - 2
 abstract: "Investigations of age, period, and cohort effects are difficult because\

@@ -7,14 +7,14 @@ summary: ''
 authors:
 - Muhammad Farhan Majid
 - José M Mendoza Rodrı́guez
-- sam-harper
+- Sam Harper
 - John Frank
 - Arijit Nandi
 tags:
-- '"Child health; Low and middle income countries (LMICs); Minimum wages"'
+- '"child health; low and middle income countries (lmics); minimum wages"'
 categories: []
 date: '2016-06-01'
-lastmod: 2020-09-24T17:44:42-04:00
+lastmod: 2020-09-25T09:07:21-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:41.868813Z'
+publishDate: '2020-09-25T13:07:21.255783Z'
 publication_types:
 - 2
 abstract: The impact of legislated minimum wages on the early-life health of children

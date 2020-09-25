@@ -7,12 +7,12 @@ summary: ''
 authors:
 - Auburn Larose
 - Spencer Moore
-- sam-harper
+- Sam Harper
 - John Lynch
 tags: []
 categories: []
 date: '2011-09-01'
-lastmod: 2020-09-24T17:44:26-04:00
+lastmod: 2020-09-25T09:07:05-04:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:26.457555Z'
+publishDate: '2020-09-25T13:07:05.684677Z'
 publication_types:
 - 2
 abstract: "BACKGROUND: Voluntary counseling and testing (VCT) is an important prevention\

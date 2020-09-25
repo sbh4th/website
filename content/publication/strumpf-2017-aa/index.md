@@ -8,14 +8,14 @@ summary: ''
 authors:
 - Erin C Strumpf
 - Thomas J Charters
-- sam-harper
+- Sam Harper
 - Arijit Nandi
 tags:
-- '"Age-specific mortality; Cause of death; Economic recession; Gender-specific mortality;
-  Great Recession; Metropolitan area; Mortality; United States"'
+- '"age-specific mortality; cause of death; economic recession; gender-specific mortality;
+  great recession; metropolitan area; mortality; united states"'
 categories: []
 date: '2017-09-01'
-lastmod: 2020-09-24T17:44:48-04:00
+lastmod: 2020-09-25T09:07:27-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:47.559726Z'
+publishDate: '2020-09-25T13:07:27.310605Z'
 publication_types:
 - 2
 abstract: 'OBJECTIVES: Mortality rates generally decline during economic recessions

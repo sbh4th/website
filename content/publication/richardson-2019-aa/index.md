@@ -7,14 +7,14 @@ subtitle: ''
 summary: ''
 authors:
 - Robin A Richardson
-- sam-harper
+- Sam Harper
 - Lisa M Bates
 - Arijit Nandi
 tags:
-- '"Agency; Empowerment; Gender; India; Mental distress"'
+- '"agency; empowerment; gender; india; mental distress"'
 categories: []
 date: '2019-07-01'
-lastmod: 2020-09-24T17:44:54-04:00
+lastmod: 2020-09-25T09:07:33-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:54.317604Z'
+publishDate: '2020-09-25T13:07:33.722532Z'
 publication_types:
 - 2
 abstract: "Agency, the ability to identify goals and then act upon them, is a core\

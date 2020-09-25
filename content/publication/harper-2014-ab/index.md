@@ -5,7 +5,7 @@ title: '[Implicit value judgments in the measurement of health inequalities]'
 subtitle: ''
 summary: ''
 authors:
-- sam-harper
+- Sam Harper
 - Nicholas B King
 - Stephen C Meersman
 - Marsha E Reichman
@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2014-04-01'
-lastmod: 2020-09-24T17:44:37-04:00
+lastmod: 2020-09-25T09:07:16-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:37.192693Z'
+publishDate: '2020-09-25T13:07:16.333411Z'
 publication_types:
 - 2
 abstract: 'CONTEXT: Quantitative estimates of the magnitude, direction, and rate of

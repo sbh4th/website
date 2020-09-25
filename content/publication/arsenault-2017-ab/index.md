@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Catherine Arsenault
-- sam-harper
+- Sam Harper
 - Arijit Nandi
 - José M Mendoza Rodrı́guez
 - Peter M Hansen
@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2017-02-01'
-lastmod: 2020-09-24T17:44:44-04:00
+lastmod: 2020-09-25T09:07:25-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:44.588021Z'
+publishDate: '2020-09-25T13:07:25.213048Z'
 publication_types:
 - 2
 abstract: Equity monitoring is a priority for Gavi, the Vaccine Alliance, and for

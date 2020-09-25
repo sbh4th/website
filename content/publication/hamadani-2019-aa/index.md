@@ -19,13 +19,13 @@ authors:
 - Prem Yohannan
 - David Bracco
 - Evan Wong
-- sam-harper
+- Sam Harper
 - Dan L Deckelbaum
 - Otilia Neves
 tags: []
 categories: []
 date: '2019-07-01'
-lastmod: 2020-09-24T17:44:54-04:00
+lastmod: 2020-09-25T09:07:33-04:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:54.044950Z'
+publishDate: '2020-09-25T13:07:33.439614Z'
 publication_types:
 - 2
 abstract: 'BACKGROUND: Mozambique has had no policy-driven trauma system and no hospital-based

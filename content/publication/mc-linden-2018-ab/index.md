@@ -9,7 +9,7 @@ authors:
 - Taylor McLinden
 - Erica E M Moodie
 - Anne-Marie Hamelin
-- sam-harper
+- Sam Harper
 - Carmine Rossi
 - Sharon L Walmsley
 - Sean B Rourke
@@ -17,11 +17,11 @@ authors:
 - Marina B Klein
 - Joseph Cox
 tags:
-- '"HIV; Hepatitis C virus; Methadone treatment; Propensity score matching; Severe
+- '"hiv; hepatitis c virus; methadone treatment; propensity score matching; severe
   food insecurity"'
 categories: []
 date: '2018-04-01'
-lastmod: 2020-09-24T17:44:48-04:00
+lastmod: 2020-09-25T09:07:27-04:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:48.421782Z'
+publishDate: '2020-09-25T13:07:27.678078Z'
 publication_types:
 - 2
 abstract: 'BACKGROUND: Severe food insecurity (FI) is common among individuals living

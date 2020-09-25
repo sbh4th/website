@@ -7,13 +7,13 @@ summary: ''
 authors:
 - Niko Speybroeck
 - Carine Van Malderen
-- sam-harper
+- Sam Harper
 - Birgit Müller
 - Brecht Devleesschauwer
 tags: []
 categories: []
 date: '2013-11-01'
-lastmod: 2020-09-24T17:44:36-04:00
+lastmod: 2020-09-25T09:07:14-04:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:35.847456Z'
+publishDate: '2020-09-25T13:07:14.718249Z'
 publication_types:
 - 2
 abstract: 'BACKGROUND: The emergence and evolution of socioeconomic inequalities in

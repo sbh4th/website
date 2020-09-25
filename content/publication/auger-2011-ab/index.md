@@ -7,11 +7,11 @@ summary: ''
 authors:
 - Nathalie Auger
 - Federico Roncarolo
-- sam-harper
+- Sam Harper
 tags: []
 categories: []
 date: '2011-12-01'
-lastmod: 2020-09-24T17:44:24-04:00
+lastmod: 2020-09-25T09:07:03-04:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:24.573023Z'
+publishDate: '2020-09-25T13:07:03.765048Z'
 publication_types:
 - 2
 abstract: 'BACKGROUND: Few studies have evaluated the relationship between preterm

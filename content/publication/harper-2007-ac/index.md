@@ -6,12 +6,12 @@ title: Trends in socioeconomic inequalities in adult health behaviors among U.S.
 subtitle: ''
 summary: ''
 authors:
-- sam-harper
+- Sam Harper
 - John Lynch
 tags: []
 categories: []
 date: 2007 Mar-Apr-01
-lastmod: 2020-09-24T17:44:21-04:00
+lastmod: 2020-09-25T09:06:59-04:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:21.438381Z'
+publishDate: '2020-09-25T13:06:59.126545Z'
 publication_types:
 - 2
 abstract: 'OBJECTIVE: The purpose of this study was to measure state trends in educational

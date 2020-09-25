@@ -7,7 +7,7 @@ title: An overview of methods for monitoring social disparities in cancer with a
 subtitle: ''
 summary: ''
 authors:
-- sam-harper
+- Sam Harper
 - John Lynch
 - Stephen C Meersman
 - Nancy Breen
@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2008-04-01'
-lastmod: 2020-09-24T17:44:22-04:00
+lastmod: 2020-09-25T09:07:01-04:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:22.380209Z'
+publishDate: '2020-09-25T13:07:00.909534Z'
 publication_types:
 - 2
 abstract: The authors provide an overview of methods for summarizing social disparities

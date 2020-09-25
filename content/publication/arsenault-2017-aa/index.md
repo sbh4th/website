@@ -11,13 +11,13 @@ authors:
 - Arijit Nandi
 - José M Mendoza Rodrı́guez
 - Peter M Hansen
-- sam-harper
+- Sam Harper
 tags:
-- '"DTP3 coverage; Developing countries; Equity; Healthcare disparities; MCV coverage;
-  Socioeconomic factors"'
+- '"dtp3 coverage; developing countries; equity; healthcare disparities; mcv coverage;
+  socioeconomic factors"'
 categories: []
 date: '2017-04-01'
-lastmod: 2020-09-24T17:44:45-04:00
+lastmod: 2020-09-25T09:07:26-04:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:45.389666Z'
+publishDate: '2020-09-25T13:07:25.958233Z'
 publication_types:
 - 2
 abstract: 'BACKGROUND: Important inequalities in childhood vaccination coverage persist

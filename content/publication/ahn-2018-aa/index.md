@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jaeil Ahn
-- sam-harper
+- Sam Harper
 - Mandi Yu
 - Eric J Feuer
 - Benmei Liu
@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2018-12-01'
-lastmod: 2020-09-24T17:44:52-04:00
+lastmod: 2020-09-25T09:07:32-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:52.440603Z'
+publishDate: '2020-09-25T13:07:32.530432Z'
 publication_types:
 - 2
 abstract: There is increased interest in eliminating health disparities in the United

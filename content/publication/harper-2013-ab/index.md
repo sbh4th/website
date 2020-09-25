@@ -6,13 +6,13 @@ title: 'Impact of selective evidence presentation on judgments of health inequal
 subtitle: ''
 summary: ''
 authors:
-- sam-harper
+- Sam Harper
 - Nicholas B King
 - Meredith E Young
 tags: []
 categories: []
 date: '2013-01-01'
-lastmod: 2020-09-24T17:44:34-04:00
+lastmod: 2020-09-25T09:07:13-04:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:34.419866Z'
+publishDate: '2020-09-25T13:07:13.253187Z'
 publication_types:
 - 2
 abstract: Reducing health inequalities is a key objective for many governments and

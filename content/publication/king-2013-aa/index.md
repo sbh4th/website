@@ -7,14 +7,14 @@ subtitle: ''
 summary: ''
 authors:
 - Nicholas B King
-- sam-harper
+- Sam Harper
 - Meredith E Young
 tags:
-- '"Inequality; equity; global health; health inequalities; prioritization; resource
+- '"inequality; equity; global health; health inequalities; prioritization; resource
   allocation"'
 categories: []
 date: '2013-08-01'
-lastmod: 2020-09-24T17:44:33-04:00
+lastmod: 2020-09-25T09:07:13-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:33.722468Z'
+publishDate: '2020-09-25T13:07:12.716271Z'
 publication_types:
 - 2
 abstract: 'Reduction of health inequalities within and between countries is a global

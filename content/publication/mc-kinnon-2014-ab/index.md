@@ -6,15 +6,14 @@ subtitle: ''
 summary: ''
 authors:
 - Britt McKinnon
-- sam-harper
+- Sam Harper
 - Jay S Kaufman
 - Muna Abdullah
 tags:
-- '"Ethiopia; health services accessibility; mortalidad neonatal;  neonatal mortality;
-  socio-economic factors"'
+- "ethiopia; health services accessibility; neonatal mortality; socio-economic factors"
 categories: []
 date: '2014-07-01'
-lastmod: 2020-09-24T17:44:36-04:00
+lastmod: 2020-09-25T09:07:15-04:00
 featured: false
 draft: false
 
@@ -32,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:36.680580Z'
+publishDate: '2020-09-25T13:07:15.516283Z'
 publication_types:
 - 2
 abstract: 'OBJECTIVES: To assess the effect of distance to emergency obstetric and

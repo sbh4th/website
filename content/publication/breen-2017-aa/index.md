@@ -10,13 +10,13 @@ authors:
 - Denise Riedel Lewis
 - James Todd Gibson
 - Mandi Yu
-- sam-harper
+- Sam Harper
 tags:
-- '"Colorectal Cancer Mortality; Concentration Index; Disparities; HD*Calc; Inequality
-  Aversion Parameter; SES Quintiles"'
+- '"colorectal cancer mortality; concentration index; disparities; hd*calc; inequality
+  aversion parameter; ses quintiles"'
 categories: []
 date: '2017-02-01'
-lastmod: 2020-09-24T17:44:44-04:00
+lastmod: 2020-09-25T09:07:24-04:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:44.125348Z'
+publishDate: '2020-09-25T13:07:24.603498Z'
 publication_types:
 - 2
 abstract: 'PURPOSE: Colorectal cancer mortality rates dropped by half in the past

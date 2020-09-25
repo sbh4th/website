@@ -7,11 +7,11 @@ summary: ''
 authors:
 - Nicholas B King
 - Jay S Kaufman
-- sam-harper
+- Sam Harper
 tags: []
 categories: []
 date: '2010-11-01'
-lastmod: 2020-09-24T17:44:25-04:00
+lastmod: 2020-09-25T09:07:04-04:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:25.296507Z'
+publishDate: '2020-09-25T13:07:04.285576Z'
 publication_types:
 - 2
 abstract: ''

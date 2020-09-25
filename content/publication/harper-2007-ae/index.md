@@ -6,11 +6,11 @@ title: Did clean water reduce black-white mortality inequalities in the United S
 subtitle: ''
 summary: ''
 authors:
-- sam-harper
+- Sam Harper
 tags: []
 categories: []
 date: '2007-02-01'
-lastmod: 2020-09-24T17:44:21-04:00
+lastmod: 2020-09-25T09:06:58-04:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:21.042100Z'
+publishDate: '2020-09-25T13:06:58.495772Z'
 publication_types:
 - 2
 abstract: ''

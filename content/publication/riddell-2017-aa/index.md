@@ -6,12 +6,12 @@ subtitle: ''
 summary: ''
 authors:
 - Corinne A Riddell
-- sam-harper
+- Sam Harper
 - Jay S Kaufman
 tags: []
 categories: []
 date: '2017-09-01'
-lastmod: 2020-09-24T17:44:47-04:00
+lastmod: 2020-09-25T09:07:27-04:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:46.685075Z'
+publishDate: '2020-09-25T13:07:26.875329Z'
 publication_types:
 - 2
 abstract: ''

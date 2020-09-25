@@ -14,15 +14,15 @@ authors:
 - Jay S Kaufman
 - Ilona Vincent
 - Efe Atabay
-- sam-harper
+- Sam Harper
 - Alison Earle
 - S Jody Heymann
 tags:
-- '"OECD; child health; employment; parental leave; policy analysis; population health;
+- '"oecd; child health; employment; parental leave; policy analysis; population health;
   sick leave; socioeconomic factors"'
 categories: []
 date: '2018-09-01'
-lastmod: 2020-09-24T17:44:51-04:00
+lastmod: 2020-09-25T09:07:31-04:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:50.911219Z'
+publishDate: '2020-09-25T13:07:31.118088Z'
 publication_types:
 - 2
 abstract: "Policy Points: Historically, reforms that have increased the duration of\

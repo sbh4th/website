@@ -9,14 +9,14 @@ authors:
 - Brendan T Smith
 - John W Lynch
 - Caroline S Fox
-- sam-harper
+- Sam Harper
 - Michal Abrahamowicz
 - Nisha D Almeida
 - Eric B Loucks
 tags: []
 categories: []
 date: '2011-02-01'
-lastmod: 2020-09-24T17:44:26-04:00
+lastmod: 2020-09-25T09:07:05-04:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:26.144568Z'
+publishDate: '2020-09-25T13:07:05.462200Z'
 publication_types:
 - 2
 abstract: "Evidence is lacking on whether the duration and timing of low socioeconomic\

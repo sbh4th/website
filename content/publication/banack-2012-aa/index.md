@@ -6,12 +6,12 @@ subtitle: ''
 summary: ''
 authors:
 - Hailey R Banack
-- sam-harper
+- Sam Harper
 - Jay S Kaufman
 tags: []
 categories: []
 date: '2012-03-01'
-lastmod: 2020-09-24T17:44:30-04:00
+lastmod: 2020-09-25T09:07:09-04:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:30.375912Z'
+publishDate: '2020-09-25T13:07:09.547098Z'
 publication_types:
 - 2
 abstract: ''

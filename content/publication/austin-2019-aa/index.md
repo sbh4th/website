@@ -7,12 +7,12 @@ subtitle: ''
 summary: ''
 authors:
 - Nichole Austin
-- sam-harper
+- Sam Harper
 tags:
 - "\"abortion; supply-side policies; women's health\""
 categories: []
 date: '2019-10-01'
-lastmod: 2020-09-24T17:44:55-04:00
+lastmod: 2020-09-25T09:07:34-04:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:55.099304Z'
+publishDate: '2020-09-25T13:07:34.606300Z'
 publication_types:
 - 2
 abstract: 'OBJECTIVE: To build a longitudinal state-level database on targeted regulation

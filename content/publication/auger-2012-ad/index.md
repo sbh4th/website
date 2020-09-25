@@ -7,14 +7,14 @@ subtitle: ''
 summary: ''
 authors:
 - Nathalie Auger
-- sam-harper
+- Sam Harper
 - Amadou D Barry
 - Normand Trempe
 - Mark Daniel
 tags: []
 categories: []
 date: '2012-01-01'
-lastmod: 2020-09-24T17:44:28-04:00
+lastmod: 2020-09-25T09:07:07-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:28.423923Z'
+publishDate: '2020-09-25T13:07:07.625258Z'
 publication_types:
 - 2
 abstract: Language is an important determinant of health, but analyses of linguistic

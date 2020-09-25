@@ -10,11 +10,11 @@ authors:
 - Corinne A Riddell
 - Erin C Strumpf
 - Lily Lee
-- sam-harper
+- Sam Harper
 tags: []
 categories: []
 date: '2017-03-01'
-lastmod: 2020-09-24T17:44:43-04:00
+lastmod: 2020-09-25T09:07:23-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:43.366918Z'
+publishDate: '2020-09-25T13:07:23.419519Z'
 publication_types:
 - 2
 abstract: 'BACKGROUND: In recent decades, many smaller hospitals in British Columbia,

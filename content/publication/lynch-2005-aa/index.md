@@ -7,13 +7,13 @@ subtitle: ''
 summary: ''
 authors:
 - John Lynch
-- sam-harper
+- Sam Harper
 - George A Kaplan
 - George Davey Smith
 tags: []
 categories: []
 date: '2005-08-01'
-lastmod: 2020-09-24T17:44:19-04:00
+lastmod: 2020-09-25T09:06:57-04:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:19.713282Z'
+publishDate: '2020-09-25T13:06:57.408467Z'
 publication_types:
 - 2
 abstract: 'OBJECTIVES: We used census data to examine associations between income

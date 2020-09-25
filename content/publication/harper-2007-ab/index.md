@@ -5,14 +5,14 @@ title: Trends in the black-white life expectancy gap in the United States, 1983-
 subtitle: ''
 summary: ''
 authors:
-- sam-harper
+- Sam Harper
 - John Lynch
 - Scott Burris
 - George Davey Smith
 tags: []
 categories: []
 date: '2007-03-01'
-lastmod: 2020-09-24T17:44:21-04:00
+lastmod: 2020-09-25T09:06:59-04:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:21.700603Z'
+publishDate: '2020-09-25T13:06:59.322716Z'
 publication_types:
 - 2
 abstract: 'CONTEXT: Since the early 1980s, the black-white gap in life expectancy

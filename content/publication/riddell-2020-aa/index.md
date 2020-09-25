@@ -9,12 +9,12 @@ authors:
 - Corinne A Riddell
 - Jay S Kaufman
 - Jacqueline M Torres
-- sam-harper
+- Sam Harper
 tags:
-- '"Health policy; Seat belts; Social discrimination; Socioeconomic factors"'
+- '"health policy; seat belts; social discrimination; socioeconomic factors"'
 categories: []
 date: '2020-01-01'
-lastmod: 2020-09-24T17:44:56-04:00
+lastmod: 2020-09-25T09:07:36-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T21:44:56.493778Z'
+publishDate: '2020-09-25T13:07:35.901947Z'
 publication_types:
 - 2
 abstract: Seat belt laws have increased seat belt use in the US and contributed to
