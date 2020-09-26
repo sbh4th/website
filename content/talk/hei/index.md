@@ -31,7 +31,7 @@ links:
   name: Follow
   url: https://twitter.com/sbh4th
 url_code: ""
-url_pdf: ""
+url_pdf: "hei.pdf"
 url_slides: "files/slides/HEI-SDOH-2020-05-20.pdf"
 url_video: ""
 
