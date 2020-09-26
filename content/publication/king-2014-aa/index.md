@@ -10,7 +10,7 @@ authors:
 - Veronique Fraser
 - Constantina Boikos
 - Robin Richardson
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
 date: '2014-08-01'

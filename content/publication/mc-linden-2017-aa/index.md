@@ -9,7 +9,7 @@ authors:
 - Taylor McLinden
 - Erica E M Moodie
 - Anne-Marie Hamelin
-- Sam Harper
+- sam-harper
 - Sharon L Walmsley
 - Gilles Paradis
 - Wusiman Aibibula

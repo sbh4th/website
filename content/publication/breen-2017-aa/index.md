@@ -10,7 +10,7 @@ authors:
 - Denise Riedel Lewis
 - James Todd Gibson
 - Mandi Yu
-- Sam Harper
+- sam-harper
 tags:
 - '"colorectal cancer mortality; concentration index; disparities; hd*calc; inequality
   aversion parameter; ses quintiles"'

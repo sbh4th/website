@@ -9,7 +9,7 @@ authors:
 - Nathalie Auger
 - Philippe Gamache
 - Jessica Adam-Smith
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
 date: '2011-07-01'

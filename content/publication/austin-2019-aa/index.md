@@ -7,9 +7,11 @@ subtitle: ''
 summary: ''
 authors:
 - Nichole Austin
-- Sam Harper
+- sam-harper
 tags:
-- "\"abortion; supply-side policies; women's health\""
+- abortion
+- supply-side policies
+- women's health
 categories: []
 date: '2019-10-01'
 lastmod: 2020-09-25T09:07:34-04:00

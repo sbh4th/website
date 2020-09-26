@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Britt McKinnon
-- Sam Harper
+- sam-harper
 - Jay S Kaufman
 - Yves Bergevin
 tags:

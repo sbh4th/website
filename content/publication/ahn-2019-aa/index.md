@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jaeil Ahn
-- Sam Harper
+- sam-harper
 - Mandi Yu
 - Eric J Feuer
 - Benmei Liu

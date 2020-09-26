@@ -11,7 +11,7 @@ authors:
 - Sylvie Martel
 - Ernest Lo
 - Amadou D Barry
-- Sam Harper
+- sam-harper
 tags:
 - '"demography; inequality; life expectancy; mortality; tobacco"'
 categories: []

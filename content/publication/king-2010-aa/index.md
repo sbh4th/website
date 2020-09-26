@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Nicholas B King
 - Jay S Kaufman
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
 date: '2010-11-01'

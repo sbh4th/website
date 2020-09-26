@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Arijit Nandi
 - Mohammad Hajizadeh
-- Sam Harper
+- sam-harper
 - Alissa Koski
 - Erin C Strumpf
 - Jody Heymann

@@ -9,7 +9,7 @@ authors:
 - Amelia Maika
 - Murthy N Mittinty
 - Sally Brinkman
-- Sam Harper
+- sam-harper
 - Elan Satriawan
 - John W Lynch
 tags: []

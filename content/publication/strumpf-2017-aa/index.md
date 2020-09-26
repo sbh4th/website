@@ -8,11 +8,17 @@ summary: ''
 authors:
 - Erin C Strumpf
 - Thomas J Charters
-- Sam Harper
+- sam-harper
 - Arijit Nandi
 tags:
-- '"age-specific mortality; cause of death; economic recession; gender-specific mortality;
-  great recession; metropolitan area; mortality; united states"'
+- age-specific mortality
+- cause of death
+- economic recession
+- gender-specific mortality
+- great recession
+- metropolitan area
+- mortality
+- united states
 categories: []
 date: '2017-09-01'
 lastmod: 2020-09-25T09:07:27-04:00

@@ -6,7 +6,7 @@ title: 'Commentary: what explains widening geographic differences in life expect
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
 date: '2006-06-01'

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Ashley Nunes
-- Sam Harper
+- sam-harper
 - Kristen D Hernandez
 tags: []
 categories: []

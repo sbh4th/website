@@ -6,12 +6,16 @@ title: 'Would Stronger Seat Belt Laws Reduce Motor Vehicle Crash Deaths?: A Semi
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
-tags: []
+- sam-harper
+tags:
+- motor vehicle crashes
+- bayesian
+- quasi-experimental
+- seat belts
 categories: []
 date: '2019-05-01'
 lastmod: 2020-09-25T09:07:33-04:00
-featured: false
+featured: true
 draft: false
 
 # Featured image

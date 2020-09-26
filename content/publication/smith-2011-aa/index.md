@@ -9,7 +9,7 @@ authors:
 - Brendan T Smith
 - John W Lynch
 - Caroline S Fox
-- Sam Harper
+- sam-harper
 - Michal Abrahamowicz
 - Nisha D Almeida
 - Eric B Loucks

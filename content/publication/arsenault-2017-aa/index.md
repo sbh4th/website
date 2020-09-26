@@ -11,7 +11,7 @@ authors:
 - Arijit Nandi
 - José M Mendoza Rodrı́guez
 - Peter M Hansen
-- Sam Harper
+- sam-harper
 tags:
 - '"dtp3 coverage; developing countries; equity; healthcare disparities; mcv coverage;
   socioeconomic factors"'

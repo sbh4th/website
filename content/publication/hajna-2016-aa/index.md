@@ -8,7 +8,7 @@ authors:
 - Samantha Hajna
 - Nancy A Ross
 - Lawrence Joseph
-- Sam Harper
+- sam-harper
 - Kaberi Dasgupta
 tags: []
 categories: []

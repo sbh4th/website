@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Renee Carter
 - Jean-Frédéric Lévesque
-- Sam Harper
+- sam-harper
 - Amélie Quesnel-Vallée
 tags:
 - '"canada; diabetes; emergency department; health services; primary care reform"'

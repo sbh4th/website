@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Amy Toporowski
-- Sam Harper
+- sam-harper
 - Rebecca Fuhrer
 - Patricia A Buffler
 - Roger Detels

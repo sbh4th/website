@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Marianne M Hillemeier
 - John Lynch
-- Sam Harper
+- sam-harper
 - Trivellore Raghunathan
 - George A Kaplan
 tags: []

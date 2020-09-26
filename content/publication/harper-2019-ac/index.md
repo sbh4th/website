@@ -5,14 +5,18 @@ title: The annual cannabis holiday and fatal traffic crashes
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - Adam Palayew
 tags:
-- '"motor vehicle occupant; descriptive epidemiology; drugs; mortality; public health"'
+- motor vehicle crashes
+- descriptive epidemiology
+- marijuana
+- mortality
+- public health
 categories: []
 date: '2019-10-01'
 lastmod: 2020-09-25T09:07:32-04:00
-featured: false
+featured: true
 draft: false
 
 # Featured image

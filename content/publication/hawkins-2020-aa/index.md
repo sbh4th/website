@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Summer Sherburne Hawkins
 - Marco Ghiani
-- Sam Harper
+- sam-harper
 - Christopher F Baum
 - Jay S Kaufman
 tags: []

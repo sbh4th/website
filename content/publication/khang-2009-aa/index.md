@@ -10,7 +10,7 @@ authors:
 - Young-Ho Khang
 - John W Lynch
 - Seungmi Yang
-- Sam Harper
+- sam-harper
 - Sung-Cheol Yun
 - Kyunghee Jung-Choi
 - Hye Ryun Kim

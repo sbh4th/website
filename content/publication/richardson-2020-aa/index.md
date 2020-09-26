@@ -7,14 +7,17 @@ subtitle: ''
 summary: ''
 authors:
 - Robin A Richardson
-- Sam Harper
+- sam-harper
 - Scott Weichenthal
 - Arijit Nandi
 - Vimal Mishra
 - Prabhat Jha
 tags:
-- '"drought; india; million deaths study; standardized precipitation evapotranspiration
-  index; suicide"'
+- drought
+- India
+- million deaths study
+- standardized precipitation evapotranspiration index
+- suicide
 categories: []
 date: '2020-07-01'
 lastmod: 2020-09-25T09:07:38-04:00

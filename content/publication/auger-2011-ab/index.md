@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Nathalie Auger
 - Federico Roncarolo
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
 date: '2011-12-01'

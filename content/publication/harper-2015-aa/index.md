@@ -6,12 +6,15 @@ title: Trends in Socioeconomic Inequalities in Motor Vehicle Accident Deaths in 
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - Thomas J Charters
 - Erin C Strumpf
 tags:
-- '"health inequalities; mortality; motor vehicle accidents; socioeconomic position;
-  trends"'
+- health inequalities
+- mortality
+- motor vehicle crashes
+- socioeconomic position
+- trends
 categories: []
 date: '2015-10-01'
 lastmod: 2020-09-25T09:07:19-04:00

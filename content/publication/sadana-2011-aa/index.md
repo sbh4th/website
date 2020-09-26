@@ -7,10 +7,10 @@ subtitle: ''
 summary: ''
 authors:
 - Ritu Sadana
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
-date: 2011 Sep-Oct-01
+date: 2011-09-01
 lastmod: 2020-09-25T09:07:07-04:00
 featured: false
 draft: false

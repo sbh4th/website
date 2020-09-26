@@ -6,7 +6,7 @@ title: 'Economic downturns and suicide mortality in the USA, 1980-2010: observat
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - Thomas J Charters
 - Erin C Strumpf
 - Sandro Galea

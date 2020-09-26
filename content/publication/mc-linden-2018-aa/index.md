@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Taylor McLinden
 - Erica E M Moodie
-- Sam Harper
+- sam-harper
 - Anne-Marie Hamelin
 - Aranka Anema
 - Wusiman Aibibula

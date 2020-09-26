@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Nathalie Auger
 - Alison L Park
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
 date: '2012-12-01'

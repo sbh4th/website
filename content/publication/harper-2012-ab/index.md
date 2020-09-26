@@ -5,7 +5,7 @@ title: Trends in the black-white life expectancy gap, 2003-2008
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - Dinela Rushani
 - Jay S Kaufman
 tags: []

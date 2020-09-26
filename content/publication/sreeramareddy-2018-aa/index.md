@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Chandrashekhar T Sreeramareddy
-- Sam Harper
+- sam-harper
 - Linda Ernstsen
 tags:
 - '"disparities; global health; low/middle income country; smoking caused disease;

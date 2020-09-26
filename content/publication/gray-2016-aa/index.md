@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Andrew Paul Gray
 - Faisca Richer
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
 date: '2016-10-01'

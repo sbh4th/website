@@ -8,7 +8,7 @@ summary: ''
 authors:
 - John Lynch
 - George Davey Smith
-- Sam Harper
+- sam-harper
 - Marianne Hillemeier
 - Nancy Ross
 - George A Kaplan

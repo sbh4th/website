@@ -5,7 +5,7 @@ title: 'Commentary: Using innovative inequality measures in epidemiology'
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - John Lynch
 tags: []
 categories: []

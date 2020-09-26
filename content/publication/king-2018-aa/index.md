@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Nicholas B King
-- Sam Harper
+- sam-harper
 - Meredith Young
 - Sarah C Berry
 - Kristin Voigt

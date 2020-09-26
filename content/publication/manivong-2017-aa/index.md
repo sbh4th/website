@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Phongsack Manivong
-- Sam Harper
+- sam-harper
 - Erin Strumpf
 tags: []
 categories: []

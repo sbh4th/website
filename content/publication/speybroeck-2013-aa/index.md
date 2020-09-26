@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Niko Speybroeck
 - Carine Van Malderen
-- Sam Harper
+- sam-harper
 - Birgit Müller
 - Brecht Devleesschauwer
 tags: []

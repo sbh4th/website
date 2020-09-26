@@ -8,7 +8,7 @@ summary: ''
 authors:
 - John Lynch
 - George Davey Smith
-- Sam Harper
+- sam-harper
 - Kathleen Bainbridge
 tags: []
 categories: []

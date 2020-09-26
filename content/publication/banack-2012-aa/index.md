@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Hailey R Banack
-- Sam Harper
+- sam-harper
 - Jay S Kaufman
 tags: []
 categories: []

@@ -6,7 +6,7 @@ title: Using inequality measures to incorporate environmental justice into regul
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - Eric Ruder
 - Henry A Roman
 - Amelia Geggel

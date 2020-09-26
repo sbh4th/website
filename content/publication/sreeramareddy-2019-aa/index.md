@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Chandrashekhar T Sreeramareddy
-- Sam Harper
+- sam-harper
 tags:
 - '"nepal; inequalities; surveys; tobacco use"'
 categories: []

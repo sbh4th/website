@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Ghassan B Hamra
 - Neal D Goldstein
-- Sam Harper
+- sam-harper
 tags: 
 - replication
 - reproducibility

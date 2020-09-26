@@ -5,7 +5,7 @@ title: Do medical marijuana laws increase marijuana use? Replication study and e
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - Erin C Strumpf
 - Jay S Kaufman
 tags: []

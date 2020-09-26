@@ -9,10 +9,13 @@ authors:
 - Robin Richardson
 - Arijit Nandi
 - Surinder Jaswal
-- Sam Harper
+- sam-harper
 tags:
-- '"controlling behavior; india; intimate partner violence; mental distress; psychological
-  abuse"'
+- controlling behavior
+- India
+- intimate partner violence
+- mental distress
+- psychological abuse
 categories: []
 date: '2020-01-01'
 lastmod: 2020-09-25T09:07:34-04:00

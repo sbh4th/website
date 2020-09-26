@@ -6,7 +6,7 @@ title: 'Impact of selective evidence presentation on judgments of health inequal
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - Nicholas B King
 - Meredith E Young
 tags: []

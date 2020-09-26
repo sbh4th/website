@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - John Lynch
-- Sam Harper
+- sam-harper
 - George A Kaplan
 - George Davey Smith
 tags: []

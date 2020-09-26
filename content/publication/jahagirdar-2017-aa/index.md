@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Deepa Jahagirdar
-- Sam Harper
+- sam-harper
 - Jody Heymann
 - Hema Swaminathan
 - Arnab Mukherji

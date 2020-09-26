@@ -7,7 +7,7 @@ title: Trends in area-socioeconomic and race-ethnic disparities in breast cancer
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - John Lynch
 - Stephen C Meersman
 - Nancy Breen

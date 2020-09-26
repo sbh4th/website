@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Robin A Richardson
-- Sam Harper
+- sam-harper
 - Norbert Schmitz
 - Arijit Nandi
 tags:

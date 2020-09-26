@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Sarah Meghan Mah
 - Claudia Sanmartin
-- Sam Harper
+- sam-harper
 - Nancy A Ross
 tags: []
 categories: []

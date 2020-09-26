@@ -5,7 +5,7 @@ title: 'Commentary: best practice for what?'
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - Nicholas B King
 tags: []
 categories: []

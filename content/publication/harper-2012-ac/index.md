@@ -5,7 +5,7 @@ title: Increased risk of coronary heart disease in female smokers
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - Jay S Kaufman
 - Nicholas B King
 tags: []

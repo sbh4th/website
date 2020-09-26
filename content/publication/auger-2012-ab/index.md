@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Nathalie Auger
 - Alison L Park
-- Sam Harper
+- sam-harper
 - Mark Daniel
 - Federico Roncarolo
 - Robert W Platt

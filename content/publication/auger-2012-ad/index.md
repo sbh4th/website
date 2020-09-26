@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Nathalie Auger
-- Sam Harper
+- sam-harper
 - Amadou D Barry
 - Normand Trempe
 - Mark Daniel

@@ -5,7 +5,7 @@ title: Implicit value judgments in the measurement of health inequalities
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - Nicholas B King
 - Stephen C Meersman
 - Marsha E Reichman

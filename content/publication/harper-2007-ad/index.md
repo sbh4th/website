@@ -6,7 +6,7 @@ title: Highly active antiretroviral therapy and socioeconomic inequalities in AI
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - John Lynch
 tags: []
 categories: []

@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Gloria C Mejia
 - Hawazin W Elani
-- Sam Harper
+- sam-harper
 - W Murray Thomson
 - Xiangqun Ju
 - Ichiro Kawachi

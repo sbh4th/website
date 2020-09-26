@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Nichole Austin
-- Sam Harper
+- sam-harper
 - Erin Strumpf
 tags: []
 categories: []

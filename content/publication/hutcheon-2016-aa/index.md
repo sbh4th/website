@@ -9,7 +9,7 @@ summary: ''
 authors:
 - Jennifer Hutcheon
 - Erin Strumpf
-- Sam Harper
+- sam-harper
 - Ellen Giesbrecht
 tags: []
 categories: []

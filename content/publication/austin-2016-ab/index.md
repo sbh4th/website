@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Nichole Austin
-- Sam Harper
+- sam-harper
 - Jay S Kaufman
 - Ghassan B Hamra
 tags:

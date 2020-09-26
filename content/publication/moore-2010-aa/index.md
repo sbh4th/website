@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Spencer Moore
 - Justin N Hall
-- Sam Harper
+- sam-harper
 - John W Lynch
 tags: []
 categories: []

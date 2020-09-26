@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Neal D Goldstein
 - Ghassan B Hamra
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
 date: '2020-03-01'

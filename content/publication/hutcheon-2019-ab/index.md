@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jennifer A Hutcheon
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
 date: '2019-01-01'

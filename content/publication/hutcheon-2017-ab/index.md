@@ -10,7 +10,7 @@ authors:
 - Corinne A Riddell
 - Erin C Strumpf
 - Lily Lee
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
 date: '2017-03-01'

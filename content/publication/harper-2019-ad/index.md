@@ -6,7 +6,7 @@ title: Comment on the equity impact of women's community groups on inequalities 
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
 date: '2019-02-01'

@@ -9,7 +9,7 @@ authors:
 - Ahmad Reza Hosseinpoor
 - Nicole Bergen
 - Shanthi Mendis
-- Sam Harper
+- sam-harper
 - Emese Verdes
 - Anton Kunst
 - Somnath Chatterji

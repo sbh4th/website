@@ -9,7 +9,7 @@ authors:
 - Robin Richardson
 - Thomas Charters
 - Nicholas King
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
 date: '2015-09-01'

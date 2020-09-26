@@ -7,7 +7,7 @@ title: An overview of methods for monitoring social disparities in cancer with a
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - John Lynch
 - Stephen C Meersman
 - Nancy Breen

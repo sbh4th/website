@@ -13,7 +13,7 @@ authors:
 - Peter A Briss
 - Cynthia D Ferré
 - Brittni N Frederiksen
-- Sam Harper
+- sam-harper
 - Sonia Hernández-Dı́az
 - Ashley H Hirai
 - Russell S Kirby

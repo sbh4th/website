@@ -9,7 +9,7 @@ authors:
 - Corinne A Riddell
 - Jay S Kaufman
 - Jacqueline M Torres
-- Sam Harper
+- sam-harper
 tags:
 - '"health policy; seat belts; social discrimination; socioeconomic factors"'
 categories: []

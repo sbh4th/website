@@ -5,7 +5,7 @@ title: "Invited Commentary: A-P-C... It's Easy as 1-2-3!"
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 tags:
 - '"age-period-cohort models; cohort effects; health disparities; heart disease; racial
   inequality"'

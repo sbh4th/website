@@ -8,7 +8,7 @@ authors:
 - Seungmi Yang
 - Young-Ho Khang
 - Heeran Chun
-- Sam Harper
+- sam-harper
 - John Lynch
 tags: []
 categories: []

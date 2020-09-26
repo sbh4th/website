@@ -15,7 +15,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 
 
-authors: ["Sam Harper"]
+authors: ["sam-harper"]
 tags: ["urban-rural", "health inequalities"]
 
 # Is this a featured talk? (true/false)

@@ -6,11 +6,11 @@ title: Trends in socioeconomic inequalities in adult health behaviors among U.S.
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - John Lynch
 tags: []
 categories: []
-date: 2007 Mar-Apr-01
+date: 2007-03-01
 lastmod: 2020-09-25T09:06:59-04:00
 featured: false
 draft: false

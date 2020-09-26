@@ -12,12 +12,18 @@ authors:
 - Karna Georges Kone
 - Marie-Pierre Sylvestre
 - Alok K Mathur
-- Sam Harper
+- sam-harper
 - Arijit Nandi
 tags:
-- '"child health; developing countries; global health; health promotion; health services
-  accessibility; immunization programs; implementation science; mhealth; pilot projects;
-  randomized controlled trial"'
+- child health
+- developing countries
+- global health
+- health promotion
+- mhealth services
+- accessibility
+- immunization programs
+- implementation science
+- randomized controlled trial
 categories: []
 date: '2020-09-01'
 lastmod: 2020-09-25T09:07:38-04:00

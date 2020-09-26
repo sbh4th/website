@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Hawazin W Elani
-- Sam Harper
+- sam-harper
 - William Murray Thomson
 - Iris L Espinoza
 - Gloria C Mejia

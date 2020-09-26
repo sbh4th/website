@@ -5,14 +5,19 @@ title: 'A Future for Observational Epidemiology: Clarity, Credibility, Transpare
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 tags:
-- '"causal inference; observational studies; quantitative bias analysis; quasi-experiments;
-  reproducible research; research reporting; transparency"'
+- causal inference
+- observational studies
+- quantitative bias analysis
+- quasi-experiments
+- reproducible research
+- research reporting
+- transparency
 categories: []
 date: '2019-05-01'
 lastmod: 2020-09-25T09:07:33-04:00
-featured: false
+featured: true
 draft: false
 
 # Featured image

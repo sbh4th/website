@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Nathalie Auger
 - Pauline Delézire
-- Sam Harper
+- sam-harper
 - Robert W Platt
 tags: []
 categories: []

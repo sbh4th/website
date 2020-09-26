@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Beatriz E Alvarado
-- Sam Harper
+- sam-harper
 - Robert W Platt
 - George Davey Smith
 - John Lynch

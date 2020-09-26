@@ -5,7 +5,7 @@ title: Trends in the black-white life expectancy gap in the United States, 1983-
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - John Lynch
 - Scott Burris
 - George Davey Smith

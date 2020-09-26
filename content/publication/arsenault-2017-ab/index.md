@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Catherine Arsenault
-- Sam Harper
+- sam-harper
 - Arijit Nandi
 - José M Mendoza Rodrı́guez
 - Peter M Hansen

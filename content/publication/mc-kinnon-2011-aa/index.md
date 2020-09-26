@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Brittany McKinnon
-- Sam Harper
+- sam-harper
 - Spencer Moore
 tags: []
 categories: []

@@ -7,14 +7,18 @@ subtitle: ''
 summary: ''
 authors:
 - Catherine Arsenault
-- Sam Harper
+- sam-harper
 - Arijit Nandi
 - José M Mendoza Rodrı́guez
 - Peter M Hansen
 - Mira Johri
 tags:
-- '"dtp3 coverage; developing countries; equity; healthcare disparities; mcv coverage;
-  socioeconomic factors"'
+- dtp3 coverage
+- developing countries
+- equity
+- healthcare disparities
+- mcv coverage
+- socioeconomic factors
 categories: []
 date: '2017-02-01'
 lastmod: 2020-09-25T09:07:24-04:00

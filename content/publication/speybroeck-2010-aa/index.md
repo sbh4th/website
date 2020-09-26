@@ -8,7 +8,7 @@ authors:
 - Niko Speybroeck
 - Peter Konings
 - John Lynch
-- Sam Harper
+- sam-harper
 - Dirk Berkvens
 - Vincent Lorant
 - Andrea Geckova

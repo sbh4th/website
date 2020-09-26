@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Nicholas B King
-- Sam Harper
+- sam-harper
 - Meredith E Young
 tags: []
 categories: []

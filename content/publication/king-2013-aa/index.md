@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Nicholas B King
-- Sam Harper
+- sam-harper
 - Meredith E Young
 tags:
 - '"inequality; equity; global health; health inequalities; prioritization; resource

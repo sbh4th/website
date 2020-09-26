@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Corinne A Riddell
-- Sam Harper
+- sam-harper
 - Jay S Kaufman
 tags: []
 categories: []

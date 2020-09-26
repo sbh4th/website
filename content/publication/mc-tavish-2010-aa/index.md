@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Sarah McTavish
 - Spencer Moore
-- Sam Harper
+- sam-harper
 - John Lynch
 tags: []
 categories: []

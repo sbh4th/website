@@ -5,7 +5,7 @@ title: Trends in the black-white life expectancy gap among US states, 1990-2009
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - Richard F MacLehose
 - Jay S Kaufman
 tags:

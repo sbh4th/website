@@ -5,7 +5,7 @@ title: 'Social epidemiology: questionable answers and answerable questions'
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - Erin C Strumpf
 tags: []
 categories: []

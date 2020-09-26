@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Thomas J Charters
-- Sam Harper
+- sam-harper
 - Erin C Strumpf
 - S V Subramanian
 - Mariana Arcaya

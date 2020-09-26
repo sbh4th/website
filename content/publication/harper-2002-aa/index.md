@@ -5,7 +5,7 @@ title: Life course socioeconomic conditions and adult psychosocial functioning
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - John Lynch
 - Wan-Ling Hsu
 - Susan A Everson

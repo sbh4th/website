@@ -9,7 +9,7 @@ authors:
 - Ahmad Reza Hosseinpoor
 - Nicole Bergen
 - Anton Kunst
-- Sam Harper
+- sam-harper
 - Regina Guthold
 - Dag Rekve
 - Edouard Tursan d'Espaignet

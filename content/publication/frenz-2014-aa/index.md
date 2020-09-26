@@ -8,7 +8,7 @@ authors:
 - Patricia Frenz
 - Iris Delgado
 - Jay S Kaufman
-- Sam Harper
+- sam-harper
 tags:
 - '"chile; healthcare reform; health inequalities; health systems research"'
 categories: []

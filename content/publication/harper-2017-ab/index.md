@@ -6,10 +6,14 @@ title: Did the Great Recession increase suicides in the USA? Evidence from an in
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - Tim A Bruckner
 tags:
-- '"economy; great recession; motor vehicle crashes; suicide; time series"'
+- economy
+- recession
+- motor vehicle crashes
+- suicide
+- trends
 categories: []
 date: '2017-07-01'
 lastmod: 2020-09-25T09:07:26-04:00

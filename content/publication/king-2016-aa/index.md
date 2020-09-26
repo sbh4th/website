@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Nicholas B King
 - Erin Strumpf
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
 date: '2016-11-01'

@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Ahmad Reza Hosseinpoor
-- Sam Harper
+- sam-harper
 - Jennifer H Lee
 - John Lynch
 - Colin Mathers

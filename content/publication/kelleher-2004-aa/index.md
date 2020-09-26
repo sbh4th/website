@@ -8,7 +8,7 @@ summary: ''
 authors:
 - C Cecily Kelleher
 - John Lynch
-- Sam Harper
+- sam-harper
 - Joseph B Tay
 - Geraldine Nolan
 tags: []

@@ -5,7 +5,7 @@ title: 'Commentary: Trends in indigenous inequalities in mortality in New Zealan
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
 date: '2009-12-01'

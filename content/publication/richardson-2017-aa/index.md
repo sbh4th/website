@@ -9,7 +9,7 @@ authors:
 - Robin A Richardson
 - Arijit Nandi
 - Surinder Jaswal
-- Sam Harper
+- sam-harper
 tags:
 - '"india; mental distress; mental health; women; work demands"'
 categories: []

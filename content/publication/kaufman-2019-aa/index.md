@@ -7,11 +7,13 @@ summary: ''
 authors:
 - Jay S Kaufman
 - Corinne A Riddell
-- Sam Harper
+- sam-harper
 tags:
-- '"inequality; mortality; race"'
+- inequality
+- mortality
+- race
 categories: []
-date: 2019 Nov/Dec-01-01
+date: 2019-11-01
 lastmod: 2020-09-25T09:07:35-04:00
 featured: false
 draft: false

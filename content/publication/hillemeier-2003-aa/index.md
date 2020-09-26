@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Marianne M Hillemeier
 - John Lynch
-- Sam Harper
+- sam-harper
 - Michele Casper
 tags: []
 categories: []

@@ -5,9 +5,14 @@ title: Primary Enforcement of Mandatory Seat Belt Laws and Motor Vehicle Crash D
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - Erin C Strumpf
-tags: []
+tags:
+- quasi-experimental
+- seat belts
+- motor vehicle crashes
+- difference-in-differences
+- policy
 categories: []
 date: '2017-08-01'
 lastmod: 2020-09-25T09:07:25-04:00

@@ -6,7 +6,7 @@ title: 'Social determinants and the decline of cardiovascular diseases: understa
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - John Lynch
 - George Davey Smith
 tags: []

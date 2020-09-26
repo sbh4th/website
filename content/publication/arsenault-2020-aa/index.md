@@ -7,11 +7,19 @@ subtitle: ''
 summary: ''
 authors:
 - Catherine Arsenault
-- Sam Harper
+- sam-harper
 - Arijit Nandi
 tags:
-- '"child health; employment; epidemiology; inequalities; multilevel modelling; policy;
-  psychosocial factors; social epidemiology; social inequalities; socioeconomic"'
+- child health
+- employment
+- epidemiology
+- inequalities
+- multilevel modelling
+- policy
+- psychosocial factors
+- social epidemiology
+- social inequalities
+- socioeconomic
 categories: []
 date: '2020-10-01'
 lastmod: 2020-09-25T09:07:37-04:00

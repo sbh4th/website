@@ -9,7 +9,7 @@ authors:
 - Hong-Jun Cho
 - Young-Ho Khang
 - Seungmi Yang
-- Sam Harper
+- sam-harper
 - John W Lynch
 tags: []
 categories: []

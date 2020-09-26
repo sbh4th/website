@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Brendan T Smith
 - Peter M Smith
-- Sam Harper
+- sam-harper
 - Douglas G Manuel
 - Cameron A Mustard
 tags:

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Rod Jackson
 - John Lynch
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
 date: '2006-03-01'

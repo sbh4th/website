@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jennifer A Hutcheon
-- Sam Harper
+- sam-harper
 - Erin C Strumpf
 tags: []
 categories: []

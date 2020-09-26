@@ -9,7 +9,7 @@ authors:
 - Mohammad Hajizadeh
 - Jody Heymann
 - Erin Strumpf
-- Sam Harper
+- sam-harper
 - Arijit Nandi
 tags:
 - '"childhood vaccination; low-and-middle-income countries; maternity leave"'

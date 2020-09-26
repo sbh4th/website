@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Seungmi Yang
 - Young-Ho Khang
-- Sam Harper
+- sam-harper
 - George Davey Smith
 - David A Leon
 - John Lynch

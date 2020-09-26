@@ -14,7 +14,7 @@ authors:
 - Jay S Kaufman
 - Ilona Vincent
 - Efe Atabay
-- Sam Harper
+- sam-harper
 - Alison Earle
 - S Jody Heymann
 tags:

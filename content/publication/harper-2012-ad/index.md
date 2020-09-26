@@ -6,7 +6,7 @@ title: 'Global socioeconomic inequalities in tobacco use: internationally compar
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - Brittany McKinnon
 tags: []
 categories: []

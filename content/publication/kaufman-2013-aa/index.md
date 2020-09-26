@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jay S Kaufman
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
 date: '2013-12-01'

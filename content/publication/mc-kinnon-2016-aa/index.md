@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Britt McKinnon
-- Sam Harper
+- sam-harper
 - Jay S Kaufman
 tags:
 - '"low- and middle-income countries; maternal health services; meta-regression; neonatal

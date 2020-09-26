@@ -10,7 +10,7 @@ authors:
 - Shannon Maloney
 - Parul Agarwal
 - Anoushaka Chandrashekar
-- Sam Harper
+- sam-harper
 tags:
 - "\"child day care centers; childcare; cluster randomized controlled trial; health;\
   \ india; nurseries; socioeconomic status; women's empowerment\""

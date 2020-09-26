@@ -19,7 +19,7 @@ authors:
 - Prem Yohannan
 - David Bracco
 - Evan Wong
-- Sam Harper
+- sam-harper
 - Dan L Deckelbaum
 - Otilia Neves
 tags: []

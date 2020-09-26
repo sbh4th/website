@@ -5,7 +5,7 @@ title: 'Declining US Life Expectancy: A First Look'
 subtitle: ''
 summary: ''
 authors:
-- Sam Harper
+- sam-harper
 - Jay S Kaufman
 - Richard S Cooper
 tags: []

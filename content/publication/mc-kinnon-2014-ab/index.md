@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Britt McKinnon
-- Sam Harper
+- sam-harper
 - Jay S Kaufman
 - Muna Abdullah
 tags:

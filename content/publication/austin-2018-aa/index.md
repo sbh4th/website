@@ -7,9 +7,11 @@ subtitle: ''
 summary: ''
 authors:
 - Nichole Austin
-- Sam Harper
+- sam-harper
 tags:
-- "\"trap laws; abortion policy; women's health\""
+- trap laws
+- abortion policy
+- women's health
 categories: []
 date: '2018-04-01'
 lastmod: 2020-09-25T09:07:29-04:00

@@ -9,7 +9,7 @@ authors:
 - Thomas J Charters
 - Erin C Strumpf
 - Jody Heymann
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
 date: '2013-12-01'

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Muhammad Farhan Majid
 - José M Mendoza Rodrı́guez
-- Sam Harper
+- sam-harper
 - John Frank
 - Arijit Nandi
 tags:

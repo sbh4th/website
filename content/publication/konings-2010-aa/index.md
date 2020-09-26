@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Peter Konings
-- Sam Harper
+- sam-harper
 - John Lynch
 - Ahmad Reza Hosseinpoor
 - Dirk Berkvens
