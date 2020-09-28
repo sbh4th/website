@@ -38,7 +38,7 @@
   url = "courses/"
   weight = 70
 
-# [[main]]
+#[[main]]
 #  name = "People"
 #  url = "people/"
 #  weight = 80
