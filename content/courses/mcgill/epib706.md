@@ -4,7 +4,7 @@ linktitle: EPIB 706
 toc: true
 type: docs
 date: "2020-09-05T00:00:00+01:00"
-draft: true
+draft: false
 menu:
   mcgill:
     parent: McGill Teaching
