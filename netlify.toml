@@ -1,9 +1,9 @@
 [build]
   command = "hugo --gc --minify -b $URL"
-  publish = "public"
+  publish = "../sbh4th.github.io"
 
 [build.environment]
-  HUGO_VERSION = "0.58.1"
+  HUGO_VERSION = "0.87.0"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]

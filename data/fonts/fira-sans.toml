@@ -2,7 +2,7 @@
 name = "Fira Sans"
 
 # Optional Google font URL
-google_fonts = "Fira+Sans:wght@300;400;500"
+google_fonts = "family=Fira+Sans:wght@300;400;500"
 
 # Font families
 heading_font = "Fira Sans"

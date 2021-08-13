@@ -5,7 +5,6 @@ authors:
 - admin
 tags: ["replication", "reproducible research", "cannabis", "motor vehicle crashes"]
 categories: []
-date: "2019-02-08T00:00:00Z"
 lastmod: "2019-02-08T00:00:00Z"
 draft: false
 
