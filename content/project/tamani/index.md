@@ -3,7 +3,7 @@ categories = []
 date = "2018-08-30T08:11:04-04:00"
 draft = false
 summary = "Evaluating a reproductive, maternal and newborn health intervention in Tanzania"
-tags = ["evaluation", "randomized", "maternal/child health"]
+tags = ["evaluation", "randomized", "maternal/child health", "Current"]
 title = "Tabora Newborn and Maternal Health Initiative"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

@@ -3,7 +3,7 @@ categories = []
 date = "2018-08-29T15:12:54-04:00"
 draft = false
 summary = "Evaluating the impact of daycare on women and children"
-tags = ["evaluation", "randomized", "women's empowerment"]
+tags = ["evaluation", "randomized", "women's empowerment", "Past"]
 title = "Affordable Daycare To Empower Indian Women"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

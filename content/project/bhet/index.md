@@ -3,7 +3,7 @@ categories = []
 date = "2018-08-30T08:25:35-04:00"
 draft = false
 summary = "Health and air pollution impacts of household energy transitions"
-tags = ["evaluation", "environmental", "quasi-experimental"]
+tags = ["evaluation", "environmental", "quasi-experimental", "Current"]
 title = "Beijing Household Energy Transitions"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
