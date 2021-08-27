@@ -3,10 +3,10 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Sam Harper # Website name
 baseurl: 'http://sbh4th.github.io/' # Website URL
 publishDir: "../sbh4th.github.io"
-copyright: '&copy; {year}' # Footer text, e.g. '© {year} Me'
+copyright: '&copy; {year} Sam Harper' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

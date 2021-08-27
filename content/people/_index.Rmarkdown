@@ -1,0 +1,23 @@
+---
+title: People I Work With
+draft: true
+---
+## Principal Investigators
+### Sam Harper
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+knitr::include_graphics("../authors/sam-harper/avatar.jpg") 
+```
+My interests...
+
+
+### Arijit Nandi
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+knitr::include_graphics("../authors/sam-harper/avatar.jpg") 
+```
+Ari's interests...
+
+## Researchers
+### Erin Hetherington
+
+## Graduate Students
+### Diego Capurro Fernandez

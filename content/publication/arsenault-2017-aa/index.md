@@ -6,7 +6,7 @@ title: Country-level predictors of vaccination coverage and inequalities in Gavi
 subtitle: ''
 summary: ''
 authors:
-- Catherine Arsenault
+- catherine-arsenault
 - Mira Johri
 - Arijit Nandi
 - José M Mendoza Rodrı́guez
