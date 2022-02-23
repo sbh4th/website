@@ -10,8 +10,12 @@ authors:
 - Corinne A Riddell
 - Nicholas B King
 tags:
-- '"cardiovascular diseases; health inequalities; homicide; life expectancy; opioids;
-  suicide"'
+- cardiovascular diseases
+- health inequalities
+- homicide
+- life expectancy
+- opioids
+- suicide
 categories: []
 date: '2021-04-01'
 lastmod: 2022-02-23T13:00:26-05:00
@@ -26,7 +30,7 @@ links:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'Top'
   preview_only: false
 
 # Projects (optional).

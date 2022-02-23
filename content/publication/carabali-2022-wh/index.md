@@ -14,8 +14,12 @@ authors:
 - Berta Nelly Restrepo
 - Jay S Kaufman
 tags:
-- '"Arboviruses; Brazil; Collective Effects of Health Disparities; Colombia; Decomposition
-  of Inequalities; Latin America"'
+- Arboviruses
+- Brazil
+- Collective Effects of Health Disparities
+- Colombia
+- Decomposition of Inequalities
+- Latin America
 categories: []
 date: '2022-01-01'
 lastmod: 2022-02-23T13:00:27-05:00
