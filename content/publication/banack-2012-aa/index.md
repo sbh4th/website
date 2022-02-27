@@ -35,4 +35,6 @@ publication_types:
 abstract: ''
 publication: '*JAMA*'
 doi: 10.1001/jama.2012.324
+# add Almetric adn dimensions badges
+add_badge: true
 ---
