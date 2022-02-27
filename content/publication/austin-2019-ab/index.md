@@ -58,4 +58,6 @@ abstract: 'OBJECTIVES: In this paper, we estimate the average effect of two comm
   future.'
 publication: '*Contraception*'
 doi: 10.1016/j.contraception.2019.06.003
+# add Almetric adn dimensions badges
+add_badge: true
 ---

@@ -56,4 +56,6 @@ abstract: This cohort study aimed to compare the incidence of type 2 diabetes in
   and in developing tailored prevention strategies.
 publication: '*Sci Rep*'
 doi: 10.1038/s41598-021-92963-w
+# add Almetric adn dimensions badges
+add_badge: true
 ---

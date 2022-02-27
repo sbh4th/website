@@ -75,4 +75,6 @@ abstract: 'BACKGROUND: Meta-analyses of observational studies have shown that wo
   and analysis that could mitigate many potential sources of bias.'
 publication: '*Paediatr Perinat Epidemiol*'
 doi: 10.1111/ppe.12512
+# add Almetric adn dimensions badges
+add_badge: true
 ---

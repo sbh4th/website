@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jennifer A Hutcheon
-- Sam Harper
+- sam-harper
 tags: []
 categories: []
 date: '2021-07-01'
@@ -35,4 +35,6 @@ publication_types:
 abstract: ''
 publication: '*Paediatr Perinat Epidemiol*'
 doi: 10.1111/ppe.12742
+# add Almetric adn dimensions badges
+add_badge: true
 ---

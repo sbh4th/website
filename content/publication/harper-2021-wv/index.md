@@ -55,6 +55,8 @@ abstract: In recent years, life expectancy in the United States has stagnated, f
   explanations. Interventions to stem the increase in overdose deaths, reduce access
   to mechanisms that contribute to violent deaths, and decrease cardiovascular risk
   over the life course are urgently needed to improve mortality in the United States.
-publication: '*Annu Rev Public Health*'
+publication: '*Annu Rev Public Health* 2021;42:381-403'
 doi: 10.1146/annurev-publhealth-082619-104231
+# add Almetric adn dimensions badges
+add_badge: true
 ---

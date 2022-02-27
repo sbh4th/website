@@ -34,4 +34,6 @@ publication_types:
 abstract: ''
 publication: '*Paediatr Perinat Epidemiol*'
 doi: 10.1111/ppe.12802
+# add Almetric adn dimensions badges
+add_badge: true
 ---

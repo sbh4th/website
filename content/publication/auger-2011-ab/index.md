@@ -54,4 +54,6 @@ abstract: 'BACKGROUND: Few studies have evaluated the relationship between prete
   PTB, and absolute increases were largest for moderate PTB.'
 publication: '*J Epidemiol Community Health*'
 doi: 10.1136/jech.2009.102350
+# add Almetric adn dimensions badges
+add_badge: true
 ---

@@ -60,4 +60,6 @@ abstract: "INTRODUCTION: Recent increases in maternal mortality and persistent d
   \ health services have contributed to rising maternal mortality rates."
 publication: '*Am J Prev Med*'
 doi: 10.1016/j.amepre.2019.09.012
+# add Almetric adn dimensions badges
+add_badge: true
 ---

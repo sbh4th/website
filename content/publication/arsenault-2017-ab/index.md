@@ -58,4 +58,6 @@ abstract: Equity monitoring is a priority for Gavi, the Vaccine Alliance, and fo
   period. We highlight its key advantages using data from Côte d'Ivoire and Haiti.
 publication: '*Bull World Health Organ*'
 doi: 10.2471/BLT.16.178079
+# add Almetric adn dimensions badges
+add_badge: true
 ---

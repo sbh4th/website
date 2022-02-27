@@ -56,4 +56,6 @@ abstract: 'BACKGROUND: Racial residential segregation in the United States has b
   instrument bias.'
 publication: '*Epidemiology*'
 doi: 10.1097/EDE.0000000000000505
+# add Almetric adn dimensions badges
+add_badge: true
 ---

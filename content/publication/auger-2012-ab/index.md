@@ -55,4 +55,6 @@ abstract: 'PURPOSE: Time trends in educational inequalities in small-for-gestati
   and most educated mothers is currently greater for preterm than for term SGA birth.'
 publication: '*Ann Epidemiol*'
 doi: 10.1016/j.annepidem.2012.01.004
+# add Almetric adn dimensions badges
+add_badge: true
 ---

@@ -52,4 +52,6 @@ abstract: 'OBJECTIVES: We evaluated temporal and regional inequalities in advers
   predominate.'
 publication: '*Int J Public Health*'
 doi: 10.1007/s00038-012-0372-y
+# add Almetric adn dimensions badges
+add_badge: true
 ---

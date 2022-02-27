@@ -66,4 +66,6 @@ abstract: 'BACKGROUND: Important inequalities in childhood vaccination coverage 
   investigate the mechanisms contributing to these associations.'
 publication: '*Vaccine*'
 doi: 10.1016/j.vaccine.2017.03.029
+# add Almetric adn dimensions badges
+add_badge: true
 ---

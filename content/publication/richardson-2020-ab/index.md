@@ -63,4 +63,6 @@ abstract: "PURPOSE: Intimate partner violence (IPV) encompasses physical, sexual
   \ women's mental health."
 publication: '*Soc Psychiatry Psychiatr Epidemiol*'
 doi: 10.1007/s00127-019-01735-5
+# add Almetric adn dimensions badges
+add_badge: true
 ---

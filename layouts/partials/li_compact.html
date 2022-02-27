@@ -74,6 +74,11 @@
 
   </div>
   <div class="ml-3">
+  {{/* Add Almetric and Dimension badges instead of featured image? */}}
+  {{ if and $item.Params.add_badge $item.Params.doi }}
+    <div data-badge-popover="left" data-badge-type="donut" data-doi="{{ $item.Params.doi }}" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+    <div class="__dimensions_badge_embed__" data-doi="{{ $item.Params.doi }}" data-legend="hover-left" data-hide-zero-citations="true" data-style="small_circle"></div>
+  {{ else }}
     {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
     {{ with $resource }}
     {{ $image := .Resize "150x" }}
@@ -81,5 +86,6 @@
       <img src="{{ $image.RelPermalink }}" alt="{{ $item.Title }}" loading="lazy">
     </a>
     {{end}}
+  {{ end }}
   </div>
 </div>

@@ -52,4 +52,6 @@ abstract: Numerous observational studies have shown that infants born after shor
   the potential consequences of these methodological limitations.
 publication: '*Am J Epidemiol*'
 doi: 10.1093/aje/kwy195
+# add Almetric adn dimensions badges
+add_badge: true
 ---

@@ -56,4 +56,6 @@ abstract: Language is an important determinant of health, but analyses of lingui
   expectancy gap.
 publication: '*Eur J Epidemiol*'
 doi: 10.1007/s10654-011-9644-8
+# add Almetric adn dimensions badges
+add_badge: true
 ---

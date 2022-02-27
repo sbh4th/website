@@ -51,4 +51,6 @@ abstract: Observational studies are ambiguous, difficult, and necessary for epid
   as a basis for making decisions about clinical or population-health interventions.
 publication: '*Am J Epidemiol*'
 doi: 10.1093/aje/kwy280
+# add Almetric adn dimensions badges
+add_badge: true
 ---

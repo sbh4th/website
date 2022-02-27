@@ -90,4 +90,6 @@ abstract: 'BACKGROUND: In resource-poor settings, lack of awareness and low dema
   44840759; https://doi.org/10.1186/ISRCTN44840759.'
 publication: '*JMIR Mhealth Uhealth*'
 doi: 10.2196/20356
+# add Almetric adn dimensions badges
+add_badge: true
 ---

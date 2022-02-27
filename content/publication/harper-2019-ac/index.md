@@ -54,4 +54,6 @@ abstract: "BACKGROUND: Cannabis use has been linked to impaired driving and fata
   \ holiday on the number of drivers involved in fatal traffic crashes."
 publication: '*Inj Prev*'
 doi: 10.1136/injuryprev-2018-043068
+# add Almetric adn dimensions badges
+add_badge: true
 ---

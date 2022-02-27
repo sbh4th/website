@@ -48,4 +48,6 @@ abstract: 'OBJECTIVE: To build a longitudinal state-level database on targeted r
   These data can be used to better understand the impact of these laws.'
 publication: '*Health Serv Res*'
 doi: 10.1111/1475-6773.13185
+# add Almetric adn dimensions badges
+add_badge: true
 ---

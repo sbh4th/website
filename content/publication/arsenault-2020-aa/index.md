@@ -64,6 +64,8 @@ abstract: "BACKGROUND: Beyond the prevention of illness and death, vaccination m
   \ that vaccination has lasting effects on children's learning achievements. Further\
   \ work is needed to confirm findings and elucidate the potential mechanisms linking\
   \ vaccines to educational outcomes."
-publication: '*J Epidemiol Community Health*'
+publication: '*J Epidemiol Community Health* 2020;74:778-784'
 doi: 10.1136/jech-2019-213483
+# add Almetric adn dimensions badges
+add_badge: true
 ---

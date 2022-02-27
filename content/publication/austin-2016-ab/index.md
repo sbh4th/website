@@ -60,4 +60,6 @@ abstract: "BACKGROUND: Replication is a vital part of the research process and h
   \ of research replication."
 publication: '*J Epidemiol Community Health*'
 doi: 10.1136/jech-2015-206698
+# add Almetric adn dimensions badges
+add_badge: true
 ---

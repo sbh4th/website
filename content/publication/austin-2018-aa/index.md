@@ -58,4 +58,6 @@ abstract: "INTRODUCTION: Targeted Regulation of Abortion Providers (TRAP) laws i
   \ other outcomes."
 publication: '*BMJ Sex Reprod Health*'
 doi: 10.1136/bmjsrh-2017-101866
+# add Almetric adn dimensions badges
+add_badge: true
 ---

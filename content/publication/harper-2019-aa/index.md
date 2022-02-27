@@ -56,4 +56,6 @@ abstract: 'BACKGROUND: For policy questions where substantial empirical backgrou
   as traffic safety.'
 publication: '*Epidemiology*'
 doi: 10.1097/EDE.0000000000000990
+# add Almetric adn dimensions badges
+add_badge: true
 ---

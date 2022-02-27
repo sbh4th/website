@@ -55,4 +55,6 @@ abstract: "PURPOSE: Life expectancy is used to measure population health, but la
   \ an Excel spreadsheeet to facilitate application of Arriaga's method to other settings."
 publication: '*Ann Epidemiol*'
 doi: 10.1016/j.annepidem.2014.05.006
+# add Almetric adn dimensions badges
+add_badge: true
 ---

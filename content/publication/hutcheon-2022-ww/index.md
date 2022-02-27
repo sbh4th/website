@@ -71,4 +71,6 @@ abstract: "BACKGROUND: Antenatal corticosteroids reduce respiratory morbidity in
   \ the safety of antenatal corticosteroids for this neurodevelopmental outcome."
 publication: '*CMAJ*'
 doi: 10.1503/cmaj.211491
+# add Almetric adn dimensions badges
+add_badge: true
 ---

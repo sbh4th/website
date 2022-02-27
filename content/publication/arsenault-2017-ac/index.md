@@ -70,4 +70,6 @@ abstract: 'OBJECTIVES: (1) To conduct a systematic analysis of inequalities in c
   in the Sustainable Development Goals period.'
 publication: '*Vaccine*'
 doi: 10.1016/j.vaccine.2016.12.041
+# add Almetric adn dimensions badges
+add_badge: true
 ---

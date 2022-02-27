@@ -5,10 +5,10 @@ title: "Antenatal corticosteroid administration and early school age child devel
 subtitle: ''
 summary: ''
 authors:
-- Jennifer A Hutcheon 
+- Jennifer A Hutcheon
 - sam-harper
 - Jessica Liauw
-- M Amada Skoll 
+- M Amada Skoll
 - Myriam Srour
 - Erin C. Strumpf
 tags:
@@ -54,4 +54,6 @@ METHODS AND FINDINGS: We linked population health and education databases from B
 CONCLUSIONS: Our study did not find that that antenatal corticosteroid administration practices were associated with child development at early school age. Our findings may be useful for supporting clinical counseling about antenatal corticosteroids administration at late preterm gestation, when the balance of harms and benefits is less clear."
 publication: '*PLoS Medicine*'
 doi: 10.1371/journal.pmed.1003435
+# add Almetric adn dimensions badges
+add_badge: true
 ---

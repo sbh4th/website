@@ -53,4 +53,6 @@ abstract: There is increased interest in eliminating health disparities in the U
   of zero event counts is greater than 25%.
 publication: '*JCO Clin Cancer Inform*'
 doi: 10.1200/CCI.18.00031
+# add Almetric adn dimensions badges
+add_badge: true
 ---

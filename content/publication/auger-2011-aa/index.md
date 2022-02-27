@@ -55,4 +55,6 @@ abstract: 'PURPOSE: To evaluate relative and absolute relationships between pret
   over time.'
 publication: '*Ann Epidemiol*'
 doi: 10.1016/j.annepidem.2011.03.012
+# add Almetric adn dimensions badges
+add_badge: true
 ---

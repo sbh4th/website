@@ -65,4 +65,6 @@ abstract: "Background: Despite recent improvements, low height-for-age, a key in
   \ interventions may reveal further insight to support policy."
 publication: '*BMJ Glob Health*'
 doi: 10.1136/bmjgh-2017-000294
+# add Almetric adn dimensions badges
+add_badge: true
 ---

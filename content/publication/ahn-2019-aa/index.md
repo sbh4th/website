@@ -54,4 +54,6 @@ abstract: 'Health disparities are commonplace and of broad interest to policy ma
   age categories for better CI estimation is not a pragmatic solution.'
 publication: '*PLoS One*'
 doi: 10.1371/journal.pone.0219542
+# add Almetric adn dimensions badges
+add_badge: true
 ---

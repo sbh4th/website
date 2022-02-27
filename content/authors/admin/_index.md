@@ -3,7 +3,7 @@
 title: Sam Harper
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Associate Professor of Epidemiology
@@ -62,25 +62,25 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Sam_Harper
-  
+
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
 icon_pack: ai
 link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "sbh4th@gmail.com"
-  
+
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators  
-- Researchers  
+- Principal Investigators
+- Researchers
 ---
 
 I am an associate professor in the Department of Epidemiology, Biostatistics & Occupational Health at McGill University. I am also a member of the McGill University [Centre on Population Dynamics](https://www.mcgill.ca/popcentre/) and McGill's [Public Policy and Population Health Observatory](https://3po.ca). I also hold an endowed chair of *Impact of Health and Social Policy on Health Inequalities* at Erasmus University Medical Center.
 
-My research focuses on understanding population health and its social distribution, with specific interests in impact evaluation, measuring health inequalities, global health, demography, causal inference, and ethical issues in public health. 
+My research focuses on understanding population health and its social distribution, with specific interests in impact evaluation, measuring health inequalities, global health, demography, causal inference, and ethical issues in public health.
 
-More information on specific projects, papers, students, and teaching are in my {{% staticref "files/cv.pdf" "newtab" %}}CV{{% /staticref %}}. 
+More information on specific projects, papers, students, and teaching are in my {{% staticref "files/cv.pdf" "newtab" %}}CV{{% /staticref %}}.

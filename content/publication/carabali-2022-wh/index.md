@@ -65,4 +65,6 @@ abstract: 'BACKGROUND: We used surveillance data from Brazil and Colombia during
   socioeconomic spectrum.'
 publication: '*Trans R Soc Trop Med Hyg*'
 doi: 10.1093/trstmh/trac004
+# add Almetric adn dimensions badges
+add_badge: true
 ---

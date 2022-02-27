@@ -58,4 +58,6 @@ abstract: 'INTRODUCTION: Policies that allow directly citing motorists for seat 
   for motor vehicle crash death rates.'
 publication: '*Am J Prev Med*'
 doi: 10.1016/j.amepre.2017.02.003
+# add Almetric adn dimensions badges
+add_badge: true
 ---

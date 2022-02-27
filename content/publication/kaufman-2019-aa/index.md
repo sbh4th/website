@@ -61,4 +61,6 @@ abstract: "OBJECTIVES: Racial differences in mortality in the United States have
   \ New York's success, which may help other states emulate its performance."
 publication: '*Public Health Rep*'
 doi: 10.1177/0033354919878158
+# add Almetric adn dimensions badges
+add_badge: true
 ---

@@ -59,4 +59,6 @@ abstract: 'BACKGROUND: Associations between risk factors and perinatal outcomes 
   ages.'
 publication: '*Epidemiology*'
 doi: 10.1097/EDE.0b013e31824587bc
+# add Almetric adn dimensions badges
+add_badge: true
 ---

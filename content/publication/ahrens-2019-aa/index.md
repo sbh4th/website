@@ -74,4 +74,6 @@ abstract: "BACKGROUND: The World Health Organization (WHO) recommends that women
   \ from the expert work group meeting."
 publication: '*Paediatr Perinat Epidemiol*'
 doi: 10.1111/ppe.12504
+# add Almetric adn dimensions badges
+add_badge: true
 ---

@@ -58,4 +58,6 @@ abstract: 'BACKGROUND: The US Healthy People 2010 (HP2010) agenda set targets fo
   the best overall scenario for both population levels and disparities in CHD.'
 publication: '*Circ Cardiovasc Qual Outcomes*'
 doi: 10.1161/CIRCOUTCOMES.109.884601
+# add Almetric adn dimensions badges
+add_badge: true
 ---

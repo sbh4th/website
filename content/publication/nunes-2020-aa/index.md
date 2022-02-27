@@ -35,4 +35,6 @@ publication_types:
 abstract: ''
 publication: '*Am J Public Health*'
 doi: 10.2105/AJPH.2020.305608
+# add Almetric adn dimensions badges
+add_badge: true
 ---
