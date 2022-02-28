@@ -58,4 +58,6 @@ abstract: "OBJECTIVES: To conduct cross-national comparison of education-based i
   \ across the countries included in this analysis."
 publication: '*Community Dent Oral Epidemiol*'
 doi: 10.1111/cdoe.12285
+# add Almetric adn dimensions badges
+add_badge: true
 ---

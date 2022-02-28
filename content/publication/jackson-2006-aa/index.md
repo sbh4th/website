@@ -35,4 +35,6 @@ publication_types:
 abstract: ''
 publication: '*BMJ*'
 doi: 10.1136/bmj.332.7542.617
+# add Almetric adn dimensions badges
+add_badge: true
 ---

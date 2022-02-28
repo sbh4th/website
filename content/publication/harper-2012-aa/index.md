@@ -34,4 +34,6 @@ publication_types:
 abstract: ''
 publication: '*Epidemiology*'
 doi: 10.1097/EDE.0b013e31826d078d
+# add Almetric adn dimensions badges
+add_badge: true
 ---

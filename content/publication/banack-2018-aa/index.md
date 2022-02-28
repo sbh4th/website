@@ -56,4 +56,7 @@ abstract: 'BACKGROUND: In cardiovascular research, pre-hospital mortality repres
   research.'
 publication: '*Can J Cardiol*'
 doi: 10.1016/j.cjca.2018.01.013
+doi: 10.1001/jama.2012.324
+# add Almetric adn dimensions badges
+add_badge: true
 ---

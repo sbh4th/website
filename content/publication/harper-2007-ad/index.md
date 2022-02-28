@@ -35,4 +35,6 @@ publication_types:
 abstract: ''
 publication: '*Eur J Public Health*'
 doi: 10.1093/eurpub/ckl278
+# add Almetric adn dimensions badges
+add_badge: true
 ---

@@ -35,4 +35,6 @@ publication_types:
 abstract: ''
 publication: '*Lancet*'
 doi: 10.1016/S0140-6736(12)60344-4
+# add Almetric adn dimensions badges
+add_badge: true
 ---

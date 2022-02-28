@@ -34,4 +34,6 @@ publication_types:
 abstract: ''
 publication: '*Prev Med*'
 doi: 10.1016/j.ypmed.2013.09.013
+# add Almetric adn dimensions badges
+add_badge: true
 ---

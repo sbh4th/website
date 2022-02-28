@@ -57,4 +57,6 @@ abstract: "BACKGROUND: Though associations between income inequality and birth o
   \ to elucidate the biological mechanisms of income inequality."
 publication: '*Int J Epidemiol*'
 doi: 10.1093/ije/dyi092
+# add Almetric adn dimensions badges
+add_badge: true
 ---

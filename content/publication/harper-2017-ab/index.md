@@ -55,4 +55,6 @@ abstract: 'PURPOSE: Research suggests that the Great Recession of 2007-2009 led 
   the diverse and unique suicide trajectories of different social groups.'
 publication: '*Ann Epidemiol*'
 doi: 10.1016/j.annepidem.2017.05.017
+# add Almetric adn dimensions badges
+add_badge: true
 ---

@@ -55,4 +55,6 @@ abstract: 'Formally evaluating how specific policy measures influence environmen
   dimensions of environmental justice of greatest interest. '
 publication: '*Int J Environ Res Public Health*'
 doi: 10.3390/ijerph10094039
+# add Almetric adn dimensions badges
+add_badge: true
 ---

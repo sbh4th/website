@@ -55,4 +55,6 @@ abstract: 'CONTEXT: Quantitative estimates of the magnitude, direction, and rate
   on which they base their assessments of current and future health policies.'
 publication: '*Milbank Q*'
 doi: 10.1111/j.1468-0009.2010.00587.x
+# add Almetric adn dimensions badges
+add_badge: true
 ---

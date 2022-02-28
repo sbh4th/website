@@ -54,4 +54,6 @@ abstract: 'CONTEXT: Quantitative estimates of the magnitude, direction, and rate
   other consumers of health inequalities data to pay close attention to the measures
   on which they base their assessments of current and future health policies.'
 publication: '*Rev Panam Salud Publica*'
+# add Almetric adn dimensions badges
+add_badge: true
 ---

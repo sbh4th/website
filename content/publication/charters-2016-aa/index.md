@@ -54,4 +54,6 @@ abstract: The recent housing crisis offers the opportunity to understand the eff
   on population health were relatively modest.
 publication: '*Soc Sci Med*'
 doi: 10.1016/j.socscimed.2016.05.021
+# add Almetric adn dimensions badges
+add_badge: true
 ---

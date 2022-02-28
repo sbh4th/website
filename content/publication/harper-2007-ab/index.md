@@ -66,4 +66,6 @@ abstract: 'CONTEXT: Since the early 1980s, the black-white gap in life expectanc
   and infant mortality.'
 publication: '*JAMA*'
 doi: 10.1001/jama.297.11.1224
+# add Almetric adn dimensions badges
+add_badge: true
 ---

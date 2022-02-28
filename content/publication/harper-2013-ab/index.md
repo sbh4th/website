@@ -58,4 +58,6 @@ abstract: Reducing health inequalities is a key objective for many governments a
   biased judgments of progress in ameliorating health inequalities.
 publication: '*PLoS One*'
 doi: 10.1371/journal.pone.0063362
+# add Almetric adn dimensions badges
+add_badge: true
 ---

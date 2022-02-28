@@ -63,4 +63,6 @@ publication: '*Public Health Rep*'
 doi: 10.1177/0033354919878158
 # add Almetric adn dimensions badges
 add_badge: true
+# add Almetric adn dimensions badges
+add_badge: true
 ---

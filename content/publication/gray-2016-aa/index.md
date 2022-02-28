@@ -55,4 +55,6 @@ abstract: 'OBJECTIVES: Following the onset of intensive colonial intervention an
   for Inuit youth.'
 publication: '*Can J Public Health*'
 doi: 10.17269/cjph.107.5342
+# add Almetric adn dimensions badges
+add_badge: true
 ---

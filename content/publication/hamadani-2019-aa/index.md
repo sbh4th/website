@@ -83,4 +83,6 @@ abstract: 'BACKGROUND: Mozambique has had no policy-driven trauma system and no 
   education, and resource allocation. Many of these measures are being undertaken.'
 publication: '*World J Surg*'
 doi: 10.1007/s00268-019-04947-7
+# add Almetric adn dimensions badges
+add_badge: true
 ---

@@ -34,4 +34,6 @@ publication_types:
 abstract: ''
 publication: '*Int J Epidemiol*'
 doi: 10.1093/ije/dym139
+# add Almetric adn dimensions badges
+add_badge: true
 ---

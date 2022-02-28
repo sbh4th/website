@@ -38,4 +38,6 @@ publication_types:
 abstract: ''
 publication: '*BJOG*'
 doi: 10.1111/1471-0528.13772
+# add Almetric adn dimensions badges
+add_badge: true
 ---

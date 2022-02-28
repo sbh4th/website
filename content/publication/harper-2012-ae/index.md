@@ -51,4 +51,6 @@ abstract: 'PURPOSE: To replicate a prior study that found greater adolescent mar
   of reported marijuana use.'
 publication: '*Ann Epidemiol*'
 doi: 10.1016/j.annepidem.2011.12.002
+# add Almetric adn dimensions badges
+add_badge: true
 ---

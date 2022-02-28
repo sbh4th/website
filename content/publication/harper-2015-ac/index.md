@@ -51,4 +51,6 @@ abstract: "Investigations of age, period, and cohort effects are difficult becau
   \ are assessed on the absolute scale or the relative scale. "
 publication: '*Am J Epidemiol*'
 doi: 10.1093/aje/kwv052
+# add Almetric adn dimensions badges
+add_badge: true
 ---

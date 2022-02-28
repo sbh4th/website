@@ -51,4 +51,6 @@ abstract: 'OBJECTIVES: We used census data to examine associations between incom
   factors and effects on specific health outcomes.'
 publication: '*Am J Public Health*'
 doi: 10.2105/AJPH.2004.048439
+# add Almetric adn dimensions badges
+add_badge: true
 ---

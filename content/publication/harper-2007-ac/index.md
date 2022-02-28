@@ -58,4 +58,6 @@ abstract: 'OBJECTIVE: The purpose of this study was to measure state trends in e
   may differ from those affecting overall prevalence trends.'
 publication: '*Public Health Rep*'
 doi: 10.1177/003335490712200207
+# add Almetric adn dimensions badges
+add_badge: true
 ---

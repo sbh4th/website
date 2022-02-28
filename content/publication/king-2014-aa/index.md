@@ -49,4 +49,6 @@ abstract: 'We review evidence of determinants contributing to increased opioid-r
   and populations. '
 publication: '*Am J Public Health*'
 doi: 10.2105/AJPH.2014.301966
+# add Almetric adn dimensions badges
+add_badge: true
 ---

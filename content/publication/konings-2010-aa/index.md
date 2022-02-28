@@ -40,4 +40,6 @@ publication_types:
 abstract: ''
 publication: '*Int J Public Health*'
 doi: 10.1007/s00038-009-0078-y
+# add Almetric adn dimensions badges
+add_badge: true
 ---

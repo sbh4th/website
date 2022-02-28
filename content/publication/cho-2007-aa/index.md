@@ -60,4 +60,6 @@ abstract: 'BACKGROUND: There is inconsistent evidence regarding the presence of 
   from non-external causes, especially cardiovascular disease in 15-19 year old males.'
 publication: '*Int J Epidemiol*'
 doi: 10.1093/ije/dyl239
+# add Almetric adn dimensions badges
+add_badge: true
 ---

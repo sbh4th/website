@@ -54,4 +54,6 @@ abstract: "OBJECTIVE: To assess international shortfall inequality in life expec
   \ causing these inequalities."
 publication: '*Bull World Health Organ*'
 doi: 10.2471/BLT.11.097378
+# add Almetric adn dimensions badges
+add_badge: true
 ---

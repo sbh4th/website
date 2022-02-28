@@ -34,4 +34,6 @@ publication_types:
 abstract: ''
 publication: '*Am J Psychiatry*'
 doi: 10.1176/appi.ajp.2012.12060800
+# add Almetric adn dimensions badges
+add_badge: true
 ---

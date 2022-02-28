@@ -47,4 +47,6 @@ abstract: "OBJECTIVES: The purpose of the present study was to compare the assoc
   \ basic needs than to relative position within a state's economic hierarchy."
 publication: '*Am J Public Health*'
 doi: 10.2105/ajph.93.4.652
+# add Almetric adn dimensions badges
+add_badge: true
 ---

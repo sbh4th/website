@@ -36,4 +36,6 @@ publication_types:
 abstract: ''
 publication: '*Ann Intern Med*'
 doi: 10.7326/M16-0918
+# add Almetric adn dimensions badges
+add_badge: true
 ---

@@ -56,4 +56,6 @@ abstract: 'OBJECTIVE: To produce internationally comparable estimates of socioec
   countries is dynamic and may not reflect the historical pattern in wealthier countries.'
 publication: '*Cancer Causes Control*'
 doi: 10.1007/s10552-012-9901-5
+# add Almetric adn dimensions badges
+add_badge: true
 ---

@@ -61,4 +61,6 @@ abstract: 'BACKGROUND: Noncommunicable diseases are an increasing health concern
   the impact of individual noncommunicable diseases according to socioeconomic indicators.'
 publication: '*BMC Public Health*'
 doi: 10.1186/1471-2458-12-474
+# add Almetric adn dimensions badges
+add_badge: true
 ---

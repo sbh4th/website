@@ -49,4 +49,6 @@ abstract: This article reviews 98 aggregate and multilevel studies examining the
   and generally improve population health.
 publication: '*Milbank Q*'
 doi: 10.1111/j.0887-378x.2004.00302.x
+# add Almetric adn dimensions badges
+add_badge: true
 ---

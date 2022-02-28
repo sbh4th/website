@@ -58,4 +58,6 @@ abstract: 'Motor vehicle accident (MVA) mortality has been declining overall, bu
   or worsened over time. '
 publication: '*Am J Epidemiol*'
 doi: 10.1093/aje/kwv099
+# add Almetric adn dimensions badges
+add_badge: true
 ---

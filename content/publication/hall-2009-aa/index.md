@@ -55,4 +55,6 @@ abstract: 'BACKGROUND: Low fruit and vegetable consumption is an important risk 
   global chronic disease epidemic.'
 publication: '*Am J Prev Med*'
 doi: 10.1016/j.amepre.2009.01.029
+# add Almetric adn dimensions badges
+add_badge: true
 ---

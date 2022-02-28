@@ -58,4 +58,6 @@ abstract: The Family Medicine Group (FMG) model of primary care in Quebec, Canad
   by physicians from high-performing practices before the introduction of the reform.
 publication: '*J Eval Clin Pract*'
 doi: 10.1111/jep.12627
+# add Almetric adn dimensions badges
+add_badge: true
 ---

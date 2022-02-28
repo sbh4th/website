@@ -56,4 +56,6 @@ abstract: 'Reduction of health inequalities within and between countries is a gl
   in child mortality were more likely to prioritize minimizing health inequalities. '
 publication: '*Health Policy Plan*'
 doi: 10.1093/heapol/czs094
+# add Almetric adn dimensions badges
+add_badge: true
 ---

@@ -50,4 +50,6 @@ abstract: 'OBJECTIVE: To conceptualize and measure community contextual influenc
   how aspects of contextual characteristics can affect health and health disparities.'
 publication: '*Health Serv Res*'
 doi: 10.1111/j.1475-6773.2003.00198.x
+# add Almetric adn dimensions badges
+add_badge: true
 ---

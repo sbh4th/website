@@ -59,4 +59,6 @@ abstract: 'BACKGROUND: In recent decades, many smaller hospitals in British Colu
   decrease in frequency of adverse events during labour and delivery.'
 publication: '*CMAJ*'
 doi: 10.1503/cmaj.160461
+# add Almetric adn dimensions badges
+add_badge: true
 ---

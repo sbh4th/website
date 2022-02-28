@@ -58,4 +58,6 @@ abstract: 'BACKGROUND: Several studies have suggested strong associations betwee
   by gender, socioeconomic position and time period.'
 publication: '*Int J Epidemiol*'
 doi: 10.1093/ije/dyv009
+# add Almetric adn dimensions badges
+add_badge: true
 ---

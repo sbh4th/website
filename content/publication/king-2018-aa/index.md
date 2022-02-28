@@ -70,4 +70,6 @@ abstract: 'BACKGROUND: The Global Burden of Disease (GBD) project systematically
   information about child-rearing, and among the least severe conditions.'
 publication: '*PLoS One*'
 doi: 10.1371/journal.pone.0195338
+# add Almetric adn dimensions badges
+add_badge: true
 ---

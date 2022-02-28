@@ -63,4 +63,6 @@ abstract: "BACKGROUND: Various psychosocial factors have been linked to adult ph
   \ of poor psychosocial functioning in adulthood may also have socioeconomic roots\
   \ early in life."
 publication: '*Int J Epidemiol*'
+# add Almetric adn dimensions badges
+add_badge: true
 ---

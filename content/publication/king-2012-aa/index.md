@@ -56,4 +56,6 @@ abstract: "OBJECTIVE: To examine the frequency of reporting of absolute and rela
   \ of reported health inequalities."
 publication: '*BMJ*'
 doi: 10.1136/bmj.e5774
+# add Almetric adn dimensions badges
+add_badge: true
 ---

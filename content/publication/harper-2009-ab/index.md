@@ -63,4 +63,6 @@ abstract: 'BACKGROUND: Breast cancer is the most commonly diagnosed cancer and t
   mortality and 5-year cause-specific probability of death.'
 publication: '*Cancer Epidemiol Biomarkers Prev*'
 doi: 10.1158/1055-9965.EPI-08-0679
+# add Almetric adn dimensions badges
+add_badge: true
 ---

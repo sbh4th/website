@@ -62,4 +62,6 @@ abstract: 'The availability of maternity leave might remove barriers to improved
   work is needed to understand the health effects of paid leave policies in LMICs. '
 publication: '*Soc Sci Med*'
 doi: 10.1016/j.socscimed.2015.07.008
+# add Almetric adn dimensions badges
+add_badge: true
 ---

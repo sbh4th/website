@@ -77,4 +77,6 @@ publication: '*Paediatr Perinat Epidemiol*'
 doi: 10.1111/ppe.12512
 # add Almetric adn dimensions badges
 add_badge: true
+# add Almetric adn dimensions badges
+add_badge: true
 ---

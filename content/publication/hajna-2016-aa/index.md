@@ -58,4 +58,6 @@ abstract: 'INTRODUCTION: There is evidence that greater neighbourhood walkabilit
   of walking and an important component of neighbourhood walkability.'
 publication: '*PLoS One*'
 doi: 10.1371/journal.pone.0151544
+# add Almetric adn dimensions badges
+add_badge: true
 ---

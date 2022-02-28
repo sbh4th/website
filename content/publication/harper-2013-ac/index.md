@@ -34,4 +34,6 @@ publication_types:
 abstract: ''
 publication: '*Milbank Q*'
 doi: 10.1111/milq.12009
+# add Almetric adn dimensions badges
+add_badge: true
 ---

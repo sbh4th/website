@@ -60,4 +60,6 @@ abstract: "Chile's 'health guarantees' approach to providing universal and equit
   \ conditions that are not covered by AUGE. "
 publication: '*Health Policy Plan*'
 doi: 10.1093/heapol/czt054
+# add Almetric adn dimensions badges
+add_badge: true
 ---

@@ -8,7 +8,7 @@ authors:
 - Ghassan B Hamra
 - Neal D Goldstein
 - sam-harper
-tags: 
+tags:
 - replication
 - reproducibility
 - research ethics
@@ -38,4 +38,6 @@ publication_types:
 abstract: ''
 publication: '*J Am Heart Assoc*'
 doi: 10.1161/JAHA.119.012292
+# add Almetric adn dimensions badges
+add_badge: true
 ---

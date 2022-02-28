@@ -50,4 +50,6 @@ abstract: 'Nationwide differences in US life expectancy trends for blacks and wh
   further investigation. '
 publication: '*Health Aff (Millwood)*'
 doi: 10.1377/hlthaff.2013.1273
+# add Almetric adn dimensions badges
+add_badge: true
 ---

@@ -51,4 +51,6 @@ abstract: "OBJECTIVES: We performed a historical review of cardiovascular risk p
   \ Irish's high levels of social capital were not protective for cardiovascular disease."
 publication: '*Am J Public Health*'
 doi: 10.2105/ajph.94.12.2162
+# add Almetric adn dimensions badges
+add_badge: true
 ---

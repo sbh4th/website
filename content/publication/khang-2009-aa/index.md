@@ -66,4 +66,6 @@ abstract: 'The contributions of material, psychosocial, and behavioral factors i
   substantially reduced if behavioral risk factors were reduced in the whole population.'
 publication: '*Soc Sci Med*'
 doi: 10.1016/j.socscimed.2008.12.003
+# add Almetric adn dimensions badges
+add_badge: true
 ---

@@ -55,4 +55,6 @@ abstract: The authors provide an overview of methods for summarizing social disp
   A suite of indicators is needed to provide a clear picture of health disparity change.
 publication: '*Am J Epidemiol*'
 doi: 10.1093/aje/kwn016
+# add Almetric adn dimensions badges
+add_badge: true
 ---

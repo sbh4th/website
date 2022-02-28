@@ -46,4 +46,6 @@ abstract: This article describes U.S. income inequality and 100-year national an
   distribution of major risk factors for particular health outcomes.
 publication: '*Milbank Q*'
 doi: 10.1111/j.0887-378X.2004.00312.x
+# add Almetric adn dimensions badges
+add_badge: true
 ---

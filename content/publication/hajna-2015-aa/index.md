@@ -65,4 +65,6 @@ abstract: "OBJECTIVES: To estimate the associations of neighbourhood walkability
   \ a positive graded relationship with utilitarian walking."
 publication: '*BMJ Open*'
 doi: 10.1136/bmjopen-2015-008964
+# add Almetric adn dimensions badges
+add_badge: true
 ---

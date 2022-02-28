@@ -36,4 +36,6 @@ publication_types:
 abstract: ''
 publication: '*Obstet Gynecol*'
 doi: 10.1097/AOG.0000000000001963
+# add Almetric adn dimensions badges
+add_badge: true
 ---

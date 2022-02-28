@@ -68,4 +68,6 @@ abstract: 'BACKGROUND: Monitoring inequalities in non communicable disease risk 
   reach and achieve sustained benefits for high-risk populations.'
 publication: '*BMC Public Health*'
 doi: 10.1186/1471-2458-12-912
+# add Almetric adn dimensions badges
+add_badge: true
 ---

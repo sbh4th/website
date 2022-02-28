@@ -44,4 +44,6 @@ abstract: This article reviews the historical declines in cardiovascular mortali
   time and place.
 publication: '*Annu Rev Public Health*'
 doi: 10.1146/annurev-publhealth-031210-101234
+# add Almetric adn dimensions badges
+add_badge: true
 ---

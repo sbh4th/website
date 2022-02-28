@@ -62,4 +62,6 @@ abstract: 'PURPOSE: Colorectal cancer mortality rates dropped by half in the pas
   disparity in population mortality.'
 publication: '*Cancer Causes Control*'
 doi: 10.1007/s10552-016-0842-2
+# add Almetric adn dimensions badges
+add_badge: true
 ---

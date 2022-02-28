@@ -59,4 +59,6 @@ abstract: "BACKGROUND: Voluntary counseling and testing (VCT) is an important pr
   \ VCT differences between high- and low-income individuals in lower GDP/c nations."
 publication: '*J Public Health (Oxf)*'
 doi: 10.1093/pubmed/fdr001
+# add Almetric adn dimensions badges
+add_badge: true
 ---
