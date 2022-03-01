@@ -60,4 +60,6 @@ abstract: "BACKGROUND: Measuring social inequalities in health is common; howeve
   \ cognitive function and reductions in inequalities in Indonesia."
 publication: '*PLoS One*'
 doi: 10.1371/journal.pone.0078809
+# add Almetric adn dimensions badges
+add_badge: true
 ---

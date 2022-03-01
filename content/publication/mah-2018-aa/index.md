@@ -67,4 +67,6 @@ abstract: "Introduction: Hospital utilization varies across socioeconomic and de
   \ of stay and hospitalization in the perinatal period."
 publication: '*Int J Popul Data Sci*'
 doi: 10.23889/ijpds.v3i1.418
+# add Almetric adn dimensions badges
+add_badge: true
 ---
